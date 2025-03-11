@@ -20,7 +20,6 @@ partners = []
 
 def get_partners(html):
     soup = BeautifulSoup(html, "html.parser")
-
     elements = soup.find("div", class_="resources-multi-use")    
     if not elements:
         print("*** Failed to find partners")
@@ -49,7 +48,6 @@ def get_partners(html):
             scraper_helper.output_soup(card, f"err_autodesk_card{i}.html")
 
 
-
 def get_partner_pg(partner):
     url = partner["link"]
     print(f"Fetching: {url}")
@@ -70,9 +68,6 @@ def get_partner_pg(partner):
         partner_text = partner_text_tag.get_text(strip=True)
         partner["text"] += partner_text
         print(f"Got {partner['name']} text.")
-    scraper_helper.output_soup(soup, f"err_autodesk_{partner['name']}.html")
-
-
 
 
 def main():
@@ -88,7 +83,6 @@ def main():
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
         executor.map(get_partner_pg, partners)
 
-    # print("Final Data:\n", partners)
     scraper_helper.output_partners(partners, "autodesk_partners.csv")
 
 

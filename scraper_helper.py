@@ -29,7 +29,7 @@ MAX_THREADS = 5
 
 def fetch_page(url):
     try:
-        time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))    # comment out if no rate limiting
+        # time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))    # comment out if no rate limiting
         response = requests.get(url, headers=HEADERS, timeout=60)
         response.raise_for_status()
 
@@ -55,7 +55,7 @@ def fetch_page(url):
 def fetch_page_selenium(url):
     options = Options()
     options.headless = True
-    options.add_argument("--disable-blink-features=AutomationControlled")  # fuck you bot detection
+    options.add_argument("--disable-blink-features=AutomationControlled")  # for bot detection
     options.add_argument("start-maximized")
     options.add_argument("--disable-infobars")
     options.add_argument("--no-sandbox")

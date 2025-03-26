@@ -1,0 +1,2430 @@
+https://brand.autodesk.com/co-branding/
+
+
+    <!doctype html>
+<html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+                            Co-branding | Autodesk Brand Hub
+            </title>
+    <script>
+            document.documentElement.className = 'js'
+    </script>
+
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="pingback" href="https://brand.autodesk.com/wp/xmlrpc.php">
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
+    
+    <script type="text/javascript" src="//tags.tiqcdn.com/utag/autodesk/micro-opt/prod/utag.js"></script>
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v24.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Co-branding - Autodesk Brand Hub</title>
+	<link rel="canonical" href="https://brand.autodesk.com/co-branding/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Co-branding - Autodesk Brand Hub" />
+	<meta property="og:url" content="https://brand.autodesk.com/co-branding/" />
+	<meta property="og:site_name" content="Autodesk Brand Hub" />
+	<meta property="article:modified_time" content="2025-02-01T01:36:24+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://brand.autodesk.com/co-branding/","url":"https://brand.autodesk.com/co-branding/","name":"Co-branding - Autodesk Brand Hub","isPartOf":{"@id":"https://brand.autodesk.com/#website"},"datePublished":"2021-08-27T08:28:37+00:00","dateModified":"2025-02-01T01:36:24+00:00","breadcrumb":{"@id":"https://brand.autodesk.com/co-branding/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://brand.autodesk.com/co-branding/"]}]},{"@type":"BreadcrumbList","@id":"https://brand.autodesk.com/co-branding/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://brand.autodesk.com/"},{"@type":"ListItem","position":2,"name":"Co-branding"}]},{"@type":"WebSite","@id":"https://brand.autodesk.com/#website","url":"https://brand.autodesk.com/","name":"Autodesk Brand Hub","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://brand.autodesk.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//unpkg.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/brand.autodesk.com\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://brand.autodesk.com/wp/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' type='text/css' media='all' />
+<style id='safe-svg-svg-icon-style-inline-css' type='text/css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='main-css-css' href='https://brand.autodesk.com/app/themes/autodesk-brand-hub/assets/dist/css/style.6b7f95e8554b311a9b8e.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwenty-css-css' href='https://unpkg.com/img-comparison-slider@7/dist/styles.css' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://brand.autodesk.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://brand.autodesk.com/wp-json/wp/v2/pages/1116" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://brand.autodesk.com/wp/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.1" />
+<link rel='shortlink' href='https://brand.autodesk.com/?p=1116' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://brand.autodesk.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbrand.autodesk.com%2Fco-branding%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://brand.autodesk.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbrand.autodesk.com%2Fco-branding%2F&#038;format=xml" />
+
+            </head>
+
+<body class="page-template page-template-page-reverse page-template-page-reverse-php page page-id-1116 page-reverse" data-template="base.twig">
+
+<div class="page-wrapper">
+
+    <a class="skip-link screen-reader-text visually-hidden" href="#content">Skip to content</a>
+
+            <div class="alert-wrapper">
+</div>
+<header class="header">
+    <div class="container">
+        <div class="row">
+            <div class="col d-flex justify-content-between align-items-center">
+                <a href="https://brand.autodesk.com" rel="home" class="header__logo">
+                    <svg class="logo" viewBox="0 0 177 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd"
+          d="M148.19 13.6155L144.511 13.2004C142.354 12.9628 141.821 12.4284 141.821 11.6966C141.821 10.8855 142.929 10.1536 145.084 10.1536C147.162 10.1536 148.249 10.9256 148.447 12.0926H152.403C152.202 8.74903 149.395 6.67273 145.302 6.67273C140.436 6.67273 137.983 8.61067 137.983 12.0324C137.983 14.8215 139.605 16.1279 142.968 16.4838L146.706 16.8788C148.131 17.0372 148.784 17.5916 148.784 18.3034C148.784 19.1145 147.834 19.8464 145.539 19.8464C142.889 19.8464 141.821 19.1736 141.643 17.8282H137.766C137.944 21.4685 140.317 23.3272 145.401 23.3272C150.049 23.3272 152.641 21.29 152.641 18.2242C152.641 15.5534 151.098 13.9513 148.19 13.6155ZM62.4814 19.7271C64.6379 19.7271 65.9041 18.8969 65.9041 16.8397V7.04869H69.9384V17.2948C69.9384 21.8635 65.8841 23.2881 62.4814 23.2881C59.0597 23.2881 54.9853 21.8635 54.9853 17.2948V7.04869H59.0206V16.8397C59.0206 18.8568 60.385 19.7271 62.4814 19.7271ZM7.07793 22.9332L21.2481 14.1187H28.5989C28.6553 14.1187 28.7112 14.1299 28.7633 14.1515C28.8154 14.1731 28.8628 14.2048 28.9026 14.2448C28.9425 14.2847 28.9741 14.3321 28.9956 14.3843C29.0171 14.4365 29.0281 14.4924 29.028 14.5488C29.0338 14.6221 29.0179 14.6954 28.9822 14.7596C28.9465 14.8238 28.8927 14.876 28.8275 14.9098L21.8677 19.0824C21.4155 19.3531 21.2571 19.8965 21.2571 20.3035L21.2501 22.9332H30.0947V7.65022C30.0949 7.57693 30.0802 7.50435 30.0516 7.43688C30.023 7.36941 29.981 7.30844 29.9281 7.25765C29.8753 7.20687 29.8127 7.16732 29.7441 7.1414C29.6756 7.11548 29.6025 7.10372 29.5293 7.10683H21.0897L6.95361 15.8832V22.9332H7.07793ZM123.247 22.9322H135.985V19.5095H127.282V16.6422H134.285V13.1994H127.282V10.5296H135.985V7.10784H123.247V22.9322ZM37.1036 22.9322L43.1761 7.10784H48.3232L54.4699 22.9322H50.1589L49.1163 19.9647H42.337L41.2773 22.9322H37.1036ZM45.7547 10.3992L43.538 16.6021L47.9342 16.6041L45.7547 10.3992ZM71.7781 10.5296H76.8822V22.9322H80.9175V10.5296H86.0004V7.10784H71.7781V10.5296ZM169.296 7.10784H164.489L158.733 13.5363V7.10784H154.698L154.718 22.9322H158.733V16.9189L164.192 22.9322H169.296L161.937 15.1183L169.296 7.10784ZM106.354 7.10784H113.752C119.489 7.10784 120.992 9.34254 120.992 14.9007C120.992 20.8158 119.43 22.9322 113.752 22.9322H106.354V7.10784ZM110.382 19.5115H113.59C116.027 19.5115 116.877 18.2633 116.873 14.9007C116.873 11.2223 116.122 10.5296 113.59 10.5296H110.382V19.5115ZM86.6531 14.9799C86.6531 10.2128 89.6397 6.67273 95.3964 6.67273C101.172 6.67273 104.159 10.2128 104.159 14.9799C104.159 19.7672 101.172 23.3272 95.3964 23.3272C89.6397 23.3272 86.6531 19.7672 86.6531 14.9799ZM90.7676 14.9799C90.7676 17.9475 92.4098 19.7672 95.3964 19.7672C98.4031 19.7672 100.025 17.9475 100.025 14.9799C100.025 12.0725 98.4041 10.2328 95.3964 10.2328C92.4098 10.2328 90.7676 12.0725 90.7676 14.9799Z"
+          fill="white"></path>
+</svg>
+                    <span class="visually-hidden">Autodesk Brand Hub</span>
+                </a>
+                                    <a href="https://brand.autodesk.com/autodesk-login/" class="btn btn--profile">
+                        <img src="https://brand.autodesk.com/app/themes/autodesk-brand-hub/assets/images/profile.svg">
+                        <span>Sign in</span> 
+                    </a>
+                            </div>
+        </div>
+    </div>
+    <nav class="nav nav--primary navbar navbar-expand-lg">
+    <div class="container d-block">
+        <div class="row">
+            <div class="col-lg-2 d-flex align-items-center">
+                <a class="navbar-brand" href="https://brand.autodesk.com">Brand Hub</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+            <div class="col-lg-10 d-flex align-items-center">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    
+                    
+                
+
+    <ul class="navbar-nav">
+        
+                                        
+                                                                                    
+            
+            <li class="nav-item nav__item dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-249">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-voice/" class="nav-link nav__item__link dropdown-toggle" role="button" id="dropdownMenuLink249" data-bs-toggle="dropdown" aria-expanded="false">
+                    Brand voice
+                </a>
+
+                                                                                                
+                                    
+                    
+                
+
+    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink249">
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1109">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-voice/voice-and-story/" class="dropdown-item">
+                    Voice and story
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1106">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-voice/our-persona/" class="dropdown-item">
+                    Our persona
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1103">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-voice/our-brand-principles/" class="dropdown-item">
+                    Our brand principles
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1105">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-voice/our-brand-voice/" class="dropdown-item">
+                    Our brand voice
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1107">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-voice/principles-in-practice/" class="dropdown-item">
+                    Principles in practice
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1111">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-voice/voice-mechanics/" class="dropdown-item">
+                    Voice mechanics
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1108">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-voice/vocabulary/" class="dropdown-item">
+                    Vocabulary
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1110">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-voice/voice-in-action-examples/" class="dropdown-item">
+                    Voice in action: examples
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1101">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-voice/editorial-style-guide/" class="dropdown-item">
+                    Editorial style guide
+                </a>
+
+                                                                                                
+                            </li>
+            </ul>
+                            </li>
+        
+                                        
+                                                                                    
+            
+            <li class="nav-item nav__item dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-94">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-system/" class="nav-link nav__item__link dropdown-toggle" role="button" id="dropdownMenuLink94" data-bs-toggle="dropdown" aria-expanded="false">
+                    Brand system
+                </a>
+
+                                                                                                
+                                    
+                    
+                
+
+    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink94">
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1100">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-system/design-principles/" class="dropdown-item">
+                    Design principles
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1099">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-system/logo/" class="dropdown-item">
+                    Logo
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-2795">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-system/tagline/" class="dropdown-item">
+                    Tagline
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1094">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-system/logo-system/" class="dropdown-item">
+                    Logo system
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1098">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-system/color/" class="dropdown-item">
+                    Color
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1097">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-system/typography/" class="dropdown-item">
+                    Typography
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1096">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-system/brand-imagery/" class="dropdown-item">
+                    Brand images
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1095">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-system/photography/" class="dropdown-item">
+                    Photography
+                </a>
+
+                                                                                                
+                            </li>
+            </ul>
+                            </li>
+        
+                                        
+                                                                                    
+            
+            <li class="nav-item nav__item dropdown menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-237">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-in-action/" class="nav-link nav__item__link dropdown-toggle" role="button" id="dropdownMenuLink237" data-bs-toggle="dropdown" aria-expanded="false">
+                    Brand in action
+                </a>
+
+                                                                                                
+                                    
+                    
+                
+
+    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink237">
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1126">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-in-action/branded-merchandise/" class="dropdown-item">
+                    Branded merchandise
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1751">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-in-action/campaigns/" class="dropdown-item">
+                    Campaigns
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1112">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-in-action/digital-experiences/" class="dropdown-item">
+                    Digital experiences
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1199">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-in-action/events/" class="dropdown-item">
+                    Events
+                </a>
+
+                                                                                                
+                            </li>
+        
+                                        
+                        
+                                        
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1113">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/brand-in-action/video/" class="dropdown-item">
+                    Video
+                </a>
+
+                                                                                                
+                            </li>
+            </ul>
+                            </li>
+        
+                                        
+                        
+            
+            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1116 current_page_item menu-item-1358">
+
+                                                                    
+                <a target="_self" rel="noopener noreferrer" href="https://brand.autodesk.com/co-branding/" class="nav-link nav__item__link">
+                    Co-branding
+                </a>
+
+                                                                                                
+                            </li>
+            </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+</header>
+    
+    <div id="content" role="main">
+            <div id="jump-menu-scroll-marker-top"></div>
+    <div class="container position-relative page-container">         <div class="row">
+            <div class="col-lg-3 col-xl-2 sidebar-nav">
+                <div class='sidebar-nav-inner'>
+                                                                                                                        
+
+                    
+                
+    <aside id="jump-menu-wrapper">
+        <nav class="nav nav--secondary jump-menu" id="jump-menu">
+            <div class="jump-menu__content-wrapper">
+                <div class="jump-menu__scroll-wrapper">
+                    <ul class="nav__items jump-menu__list sidebar-nav">
+                        
+                                                                                        
+                                                        
+                            
+                            <li class="nav-item nav__item  menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1116 current_page_item menu-item-has-children menu-item-1356">
+
+                                                                                                                                                                    <div class='nav-link-container'>
+                                    <a _self href="https://brand.autodesk.com/co-branding/" class="nav-link nav__item__link">
+                                        <div class='nav-link-container-inner'>
+                                            <span>Co-branding</span>
+                                            <div class='nav-link-container__colour'>
+                                            </div>
+                                        </div>
+                                    </a>
+
+                                </div>
+
+                                                                                                                                                                                                
+                                                            </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </aside>
+                                    </div>
+            </div>
+
+            <div class="col-lg-8 offset-xl-1 main">
+                <article class="article post-type-page" id="post-1116">
+                                        <div class="article__content" id="jump-menu-target-content">
+                                                        
+
+
+<div style="max-width: 100%;"
+     class="block block--section-title-text container-fluid menu-status-parent 
+     block--border-bottom"
+     id="block_df732f1571d9ea0d2c9c095c55861e6c">
+        <div class="row">
+        <div class="col-sm-12">
+                            <h2 class="block__header">Co-branding</h2>
+                                                    <div class="block__body-text"><p>This guide is for Autodesk-approved value added resellers (VARs), value added distributors (VADs), training centers, and developers to ensure the Autodesk brand is accurately and consistently portrayed in all your communications. All other co-branding relationships, including endorsements, must be approved by Autodesk Public Relations and Legal.</p>
+<p>Autodesk values our partnership with you. We encourage you to communicate your relationship with Autodesk in all marketing materials that promote Autodesk products and related services.</p>
+<p>Interested in pursuing a partnership with Autodesk? <a href="https://www.autodesk.com/partners/overview" target="_blank" rel="noopener">Learn more</a>.</p>
+</div>
+                    </div>
+    </div>
+</div>
+
+
+    
+    
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-image container-fluid menu-status-child 
+     block--border-bottom"
+     id="brand-elements">
+        <div class="row">
+        <div class="col-sm-12 ">
+                            <h3 class="block__header anchor"><p>Brand elements</p>
+</h3>
+                                                    <div class="wysiwyg block__body-text">
+                    <p>Our brand voice and brand system help communicate who Autodesk is as a company and are essential to designing consistent and cohesive experiences. The following resources provide guidance on our verbal and visual elements and overall dos and don&#8217;ts.</p>
+<p><a href="https://brand.autodesk.com/brand-voice/our-brand-voice/"><strong>Brand voice</strong></a><br />
+Autodesk’s brand voice embodies our story, our persona, and our brand principles. It’s not just how we talk. It’s who we are.</p>
+<p><a href="https://brand.autodesk.com/brand-system/"><strong>Brand system</strong></a><br />
+Our brand system is a collection of visual elements that work together to help express our story and distinguish our brand.</p>
+<p><a href="https://brand.autodesk.com/brand-system/color/"><strong>Color</strong></a><br />
+Full details on our color system, including primary, detail, and accent colors.</p>
+<p><a href="https://brand.autodesk.com/brand-system/typography/"><strong>Typography</strong></a><br />
+Usage details, downloads, and installation tips for Autodesk Artifakt.</p>
+<p><a href="https://brand.autodesk.com/brand-system/brand-imagery/"><strong>Brand imagery</strong></a><br />
+Details on our brand imagery, which serve as backdrops to brand-level assets and experiences.</p>
+<p><a href="https://brand.autodesk.com/brand-system/photography/"><strong>Photography</strong></a><br />
+General best practices and direct Partner DAM links to photography assets.</p>
+
+                </div>
+                        
+                        
+            <ul class="block__links-repeater">
+                                                                            </ul>
+        </div>
+    </div>
+</div>
+
+
+    
+    
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-image container-fluid menu-status-child block--hidden-component
+     block--border-bottom"
+     id="co-sponsorship">
+        <div class="row">
+        <div class="col-sm-12 ">
+                            <h3 class="block__header anchor"><p>Co-sponsorship</p>
+</h3>
+                                                    <div class="wysiwyg block__body-text">
+                    <p>When Autodesk and its strategic partners are co-sponsoring an event or activity, each logo should have equal weight and be separated with a vertical or horizontal rule.</p>
+<p>When Autodesk and a VAR, VAD, or Learning Partner are co-sponsoring an event, the guidance is the same: the Partner’s own logo, not the Autodesk Partner logo, should be used.</p>
+
+                </div>
+                                        
+
+<img decoding="async" class="img-fluid block__image--white-background block__image" src="https://brand.autodesk.com/app/uploads/2021/09/logo-system-cosponsorship-no-specs.svg" alt="Autodesk logo showing stacked and horizontal with logo and text" title="logo-system-cosponsorship-no-specs">
+
+            
+                        
+            <ul class="block__links-repeater">
+                                                                            </ul>
+        </div>
+    </div>
+</div>
+
+
+    
+    
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-child 
+     block--no-border-bottom"
+     id="partner-logos">
+        <div class="row">
+        <div class="col-sm-12">
+                            <h3 class="block__header anchor">Partner logos</h3>
+                                                                <div class="wysiwyg block__body-text">
+                    <p>Value Added Resellers (VARs), Value Added Distributors (VADs), and Learning Partners—collectively referred to here as Partners—are an essential part of Autodesk’s business. To communicate this relationship, we have created logos that identify Partners’ relationship with Autodesk. These logos are intended for eligible Partners only, and we encourage you to use them in all marketing materials that promote Autodesk products and related services.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--image-text-split container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_864126cd030320f263b9cd3bf6c8436a">
+    <div class="container text-image">
+    <div class="row flex-row-reverse">
+        <div class="col-sm-12 col-md-6 ">
+                <div>
+            
+
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-logo-cobranding.svg" alt="Autodesk branding with co-branding location example" title="partner-logo-cobranding">
+
+        </div>    
+                <div class="image-caption"></div>
+        </div>
+        <div class="col-sm-12 col-md-6" style="margin: auto;">
+                            <h4 class="block__header text-dark">Autodesk Partner logo</h4>
+                                        <div class="wysiwyg block__body-text text-dark">
+                    <p><p>All Partners—VARs, VADs, Learning Partners, etc.—are provided with the <strong>Autodesk Partner logo</strong>, which consists of the partner type or tier.</p>
+<p>Autodesk Partner logos are one-color, in black or white, for print production or embroidery, or over color or images where legibility is a challenge.</p>
+</p>
+                </div>
+            
+            <ul class="block__links-repeater">
+                                                                            </ul>
+        </div>
+    </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--image-text-split container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_d63e49d77954e0d5ed11dd3460ac2ef9">
+    <div class="container text-image">
+    <div class="row flex-row-reverse">
+        <div class="col-sm-12 col-md-6 ">
+                <div>
+            
+
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-var-logo-cobranding-1.svg" alt="Example of Autodesk branding and co-branding" title="partner-var-logo-cobranding">
+
+        </div>    
+                <div class="image-caption"></div>
+        </div>
+        <div class="col-sm-12 col-md-6" style="margin: auto;">
+                            <h4 class="block__header text-dark">Autodesk VAR specialization logo</h4>
+                                        <div class="wysiwyg block__body-text text-dark">
+                    <p><p>VARs can promote their expertise by augmenting their Autodesk Partner logo with their specialization, certification, service designations, and anniversary badge to create a <strong>stacked configuration</strong>.</p>
+</p>
+                </div>
+            
+            <ul class="block__links-repeater">
+                                                                            </ul>
+        </div>
+    </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_bdc0f5a63a8b67214ea3f7dc7d705198">
+        <div class="row">
+        <div class="col-sm-12">
+                                                                <div class="wysiwyg block__body-text">
+                    <p>Autodesk Partner logos are available on <a href="https://oneteamsource.seismic.com/Link/Content/DC3q4JHj9RgHhGCXX7PH4G7Rq6Jd#/?anchorId=f0d921a8-c6ff-4777-8716-72d5c1f0bf0c">One Team Source</a>. VARs will create their own stacked logos with their specialization, certification, and service designations using the <a href="https://oneteamsource.seismic.com/Link/Content/DC3q4JHj9RgHhGCXX7PH4G7Rq6Jd#/?anchorId=b6a7b20a-1810-4ec8-8c70-a5e537584a85">VAR Stacked Logo Templates</a>. See the <a href="https://oneteamsource.seismic.com/Link/Content/DC3q4JHj9RgHhGCXX7PH4G7Rq6Jd#/?anchorId=9049f4ed-dbd0-4678-900d-9cede69d4c5d" target="_blank" rel="noopener">VAR logo FAQ</a> for instructions. (All links require access.)</p>
+<p>Logos are provided in two formats—EPS and PNG—and three different color profiles.  For full color screen or print applications, use the black logo with gray rules pictured above.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_05497a0b094afac68c97db366183f4d2">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image 1  ">
+                                        <div class="block__card-content ">
+                            
+
+<img decoding="async" class="img-fluid block__image--white-background block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-black-logo-example-1.svg" alt="Autodesk branding with partner logo placement examples" title="partner-black-logo-example">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">One-color black logo</h5>
+                                                                                </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-white-logo-example-1.svg" alt="Autodesk logo with partner logo examples white text on black" title="partner-white-logo-example">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">One-color white logo</h5>
+                                                                                </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_be8ed92e2f79a4158267c646558f31a8">
+        <div class="row">
+        <div class="col-sm-12">
+                                                                <div class="wysiwyg block__body-text">
+                    <p>Logos are additionally available as one color, in black or white, for print production or embroidery or when placed over color or images where legibility is a challenge.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--image-text-split container-fluid menu-status-omitted block--hidden-component
+     block--no-border-bottom"
+     id="block_ffd18fd1d308a56e4b36a136d48985be">
+    <div class="container text-image">
+    <div class="row flex-row-reverse">
+        <div class="col-sm-12 col-md-6 ">
+                <div>
+            
+
+<img decoding="async" class="img-fluid block__image--white-background block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-color-logo-example.svg" alt="Autodesk logo example with partner logo placement examples" title="partner-color-logo-example">
+
+        </div>    
+                <div class="image-caption"></div>
+        </div>
+        <div class="col-sm-12 col-md-6" style="margin: auto;">
+                                        <div class="wysiwyg block__body-text text-dark">
+                    <p><p>The logos are additionally available in black with gray rules for full-color screen or print applications.</p>
+</p>
+                </div>
+            
+            <ul class="block__links-repeater">
+                                                                            </ul>
+        </div>
+    </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_070c7f29a3aa467e8739752f88aa5840">
+        <div class="row">
+        <div class="col-sm-12">
+                                                                <div class="wysiwyg block__body-text">
+                    <p>VARs should use the Autodesk Partner logo where more discreet co-branding is called for (such as on event graphics and ad banners) and the stacked configuration where featuring the complete list of specializations and services is desirable (such as in email marketing and websites). Examples of which logo to use are shown in the Partner marketing examples section.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_df7ca1b02428fd7eeeb15ef2fe32f704">
+        <div class="row">
+        <div class="col-sm-12">
+                                                    <h4 class="block__header">
+                    Logo sizing and clear space
+                </h4>
+                                        <div class="wysiwyg block__body-text">
+                    <p>Logos can be resized as needed. When resizing for screen use, always scale the EPS version of the logo file, then resave it as a PNG at the size you need. Proportions should remain the same. Do not scale to a size that compromises legibility.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_85f2effd310b88c455da3243dddb4eb3">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image 1  ">
+                                        <div class="block__card-content ">
+                            
+
+<img decoding="async" class="img-fluid block__image--white-background block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-logo-scaling.svg" alt="Autodesk logo example showing scaling proportionally" title="partner-logo-scaling">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Scale proportionally.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image 1  ">
+                                        <div class="block__card-content ">
+                            
+
+<img decoding="async" class="img-fluid block__image--white-background block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-logo-clear-space.svg" alt="Autodesk logo with partner logo showing the amount of padding required" title="partner-logo-clear-space">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Follow <a href="https://brand.autodesk.com/brand-system/logo/#clear-space">Autodesk clear space guidance</a>.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_a00ebda423a37f1a361c482fa1f861b2">
+        <div class="row">
+        <div class="col-sm-12">
+                                                    <h4 class="block__header">
+                    Logo guidance
+                </h4>
+                                        <div class="wysiwyg block__body-text">
+                    <p><strong>Acceptable uses</strong></p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_5634dc9850cc5a9243c709dd0f4dff24">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content no-img-border">
+                            
+
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-logo-black-over-light-color-1.svg" alt="Autodesk logo on light color with partner logo" title="partner-logo-black-over-light-color">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Use the black logo over light color.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-logo-white-over-dark-color-1.svg" alt="Autodesk logo on dark color with partner logo" title="partner-logo-white-over-dark-color">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Use the white logo over dark color.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_dbe4c6528ada478ee9ca100b0c277b1b">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-logo-black-over-light-image-2-539x405.jpg" alt="Example to use the black logo on a light image" title="partner-logo-black-over-light-image">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Use the black logo over a light image.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-logo-white-over-dark-image-1-539x405.jpg" alt="" title="partner-logo-white-over-dark-image">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Use the white logo over a dark image.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_453f012ddbf6d839db49fb3c8ae34e99">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-var-logo-over-light-background-1.svg" alt="Example of how to use the Autodesk logo on a light background" title="partner-var-logo-over-light-background">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Use the black logo with gray rules over light backgrounds.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+                
+<div class="block__card-text-image   block__card__v2--no-content">
+                                        <div class="block__card-content ">
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                        </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_c7d5d4ab0d17bb1aeb42914cd0963853">
+        <div class="row">
+        <div class="col-sm-12">
+                                                                <div class="wysiwyg block__body-text">
+                    <p><strong>Prohibited uses</strong></p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_d4b821fd791ff817feca6c3262f47e11">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-var-logo-compromised-background-2.svg" alt="Example of how not to use the Autodesk logo that compromises legibility" title="partner-var-logo-compromised-background">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Do not feature the black logo with gray rules on a background color that would compromise its legibility.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-var-logo-over-image-2-539x405.jpg" alt="" title="partner-var-logo-over-image">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Do not feature the black logo with gray rules on a background image.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_32f8f5ea9ab8115fd1571b72fd7fd9c5">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-logo-stretched-2.svg" alt="The Autodesk partner logo stretched" title="partner-logo-stretched">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Do not stretch or affect the shape of the logo.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-logo-typeset-2.svg" alt="Autodesk partner logo with typeset" title="partner-logo-typeset">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Never typeset the logo.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_d25f1309d6819df0c7a647caea3633a9">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-logo-drop-shadows-2-539x405.jpg" alt="" title="partner-logo-drop-shadows">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Never stylize logos using drop shadows or blurring effects.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+                
+<div class="block__card-text-image   block__card__v2--no-content">
+                                        <div class="block__card-content ">
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                        </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+    
+    
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-child 
+     block--no-border-bottom"
+     id="partner-marketing-examples">
+        <div class="row">
+        <div class="col-sm-12">
+                            <h3 class="block__header anchor">Partner marketing examples</h3>
+                                                                <div class="wysiwyg block__body-text">
+                    <p>The examples that follow provide creative direction for Partner co-branding. As a VAR, a VAD managing resellers, or an Autodesk Learning Partner, you have two different options for co-branding:</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_f87299c547f8ebcdf524acbb8f93d827">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-affiliated-example-539x404.jpg" alt="Example of the minimum size of the Autodesk partner logo" title="partner-autodesk-affiliated-example">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Option 1—Autodesk affiliated</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>This option demonstrates the minimum implementation of Autodesk Partner logos to communicate your relationship with Autodesk.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-branded-example-539x404.jpg" alt="Autodesk partner logo examples when adopting the Autodesk brand" title="partner-autodesk-branded-example">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Option 2—Autodesk branded</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>This option is for Partners adopting the look and feel of the Autodesk brand.</p>
+<p>In any assets or templates provided by Autodesk, you must add your own company logo and your Autodesk Partner logo or VAR stacked logo where indicated.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_8735cfbad25f2250d4555ddcdf0b105d">
+        <div class="row">
+        <div class="col-sm-12">
+                                                                <div class="wysiwyg block__body-text">
+                    <p>Partners should use the Autodesk Partner logo where more discreet co-branding is called for, such as on event graphics and ad banners. VARs may use the stacked configuration where featuring the complete list of specializations and services is desirable, such as in email marketing and websites.</p>
+<p>If you have questions or concerns not covered here, contact your local Channel Marketing Manager.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_d09883b8b5888acbdf235f7e1a0acb4e">
+        <div class="row">
+        <div class="col-sm-12">
+                                                    <h4 class="block__header">
+                    Display ad banners
+                </h4>
+                                        <div class="wysiwyg block__body-text">
+                    <p>Examples of display ads. As space is restricted, VARs should use the Autodesk Partner logo and not the stacked configuration.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_d80ba49be73bd7a8b1fe8b9a19f4c204">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-affilliated-display-ad-539x501.jpg" alt="Example of partner display ad logo" title="partner-autodesk-affilliated-display-ad">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Autodesk affiliated</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>Preferred placement of your Autodesk Partner logo is in the lower-left corner or lower-right corner.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-branded-display-ad-539x501.jpg" alt="Example of Autodesk partner display branded ad" title="partner-autodesk-branded-display-ad">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Autodesk branded</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>See more examples of Autodesk display ads <a href="https://brand.autodesk.com/applications/campaigns/#campaign-examples">here</a>.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_c99bafd74bb8cb602cfc132c9773eed2">
+        <div class="row">
+        <div class="col-sm-12">
+                                                    <h4 class="block__header">
+                    Email marketing
+                </h4>
+                                        <div class="wysiwyg block__body-text">
+                    <p>When designing email marketing, be sure that you follow the most current rules and language required in your region, including all privacy and opt-out regulations and necessary links in your email footers. Remember that your subject lines must always be clear and not misleading.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_d8f822f16f54ed277cea5748a95012d5">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-affilliated-email-1-539x718.jpg" alt="Example of Autodesk logo positioning in partner emails" title="partner-autodesk-affilliated-email">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Autodesk affiliated</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>In a Partner’s own email design, the preferred placement of Autodesk Partner logos is in the lower-left or lower-right corner.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-branded-email-1-539x718.jpg" alt="Example of an Autodesk logo is used on a branded email template" title="partner-autodesk-branded-email">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Autodesk branded</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>When using an Autodesk-provided email template, partners must add their Autodesk Partner logo. VARs may use the stacked configuration.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_b9e88c5c837a3cffc36e689592a1a837">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-branded-product-email-1-539x718.jpg" alt="Example of Autodesk marketing email template" title="partner-autodesk-branded-product-email">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>When creating a marketing email with a product focus or product content, product names should be typeset. Hero images may be used in headers or sections, and the product&#8217;s assigned color may be used in the header&#8217;s CTA button.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+                
+<div class="block__card-text-image   block__card__v2--no-content">
+                                        <div class="block__card-content ">
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                        </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_4e26348511b8a85a13e21e8e788a2bf6">
+        <div class="row">
+        <div class="col-sm-12">
+                                                    <h4 class="block__header">
+                    Events
+                </h4>
+                                        <div class="wysiwyg block__body-text">
+                    <p>Examples of co-branded booths and pop-up banners.</p>
+<p><strong>Autodesk affiliated</strong></p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_7bd2aef0d548dd70aa285d4541fceb67">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+                
+<div class="block__card-text-image   block__card__v2--no-content">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-affilliated-event-booth-graphic-539x539.jpg" alt="Example of Autodesk partner event booth" title="partner-autodesk-affilliated-event-booth-graphic">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                        </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+                
+<div class="block__card-text-image   block__card__v2--no-content">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-affilliated-event-signage-539x539.jpg" alt="Example of partner event signage with Autodesk branding" title="partner-autodesk-affilliated-event-signage">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                        </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_ee4d6851a82d3f3a7201dfb42779424e">
+        <div class="row">
+        <div class="col-sm-12">
+                                                                <div class="wysiwyg block__body-text">
+                    <p>Preferred placement of the Autodesk Partner logo on booth signage or banners is in the upper-left corner or upper-right corner.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_e26a53ee9521c87b1f03e7357affbfbd">
+        <div class="row">
+        <div class="col-sm-12">
+                                                    <h4 class="block__header">
+                    Autodesk branded
+                </h4>
+                                                <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_059f809751e888bdadc0c69f268205ff">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+                
+<div class="block__card-text-image   block__card__v2--no-content">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-branded-event-booth-graphic-539x539.jpg" alt="Partner event booth example with graphics and Autodesk branding" title="partner-autodesk-branded-event-booth-graphic">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                        </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+                
+<div class="block__card-text-image   block__card__v2--no-content">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-branded-event-signage-539x539.jpg" alt="Partner event signage example with Autodesk branding" title="partner-autodesk-branded-event-signage">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                        </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_f4d7d94342d9c2589f3bc7528eebc925">
+        <div class="row">
+        <div class="col-sm-12">
+                                                                <div class="wysiwyg block__body-text">
+                    <p>Partners can pair their own logo and Autodesk partner logo with Autodesk imagery, the Artifakt font, and accent colors to create Autodesk-branded booth graphics or banners. See <a href="https://brand.autodesk.com/applications/events/">Events</a> for more guidance.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_61c68e049d8e4b12c49a231820a81bee">
+        <div class="row">
+        <div class="col-sm-12">
+                                                    <h4 class="block__header">
+                    Merchandise
+                </h4>
+                                        <div class="wysiwyg block__body-text">
+                    <p>Co-branding on merchandise should only feature the Autodesk Partner logo, never the VAR stacked configuration.</p>
+<p>Choice of merchandise should follow considerations outlined in <a href="https://brand.autodesk.com/applications/branded-merchandise/">Branded Merchandise</a> including sustainability, recyclability, and diverse suppliers.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_0cec439069863fb9d564ed62a2639b25">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+                
+<div class="block__card-text-image   block__card__v2--no-content">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-merchandise-do-example-tshirt-539x718.jpg" alt="Man in a black t-shirt showing where a partner logo and the Autodesk logo should be" title="partner-merchandise-do-example-tshirt">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                        </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+                
+<div class="block__card-text-image   block__card__v2--no-content">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-merchandise-do-example-notepad-539x718.jpg" alt="Example of partner logo and Autodesk logo placement on a notepad" title="partner-merchandise-do-example-notepad">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                        </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_d6288ec5c59fe9270231dfd9f55d8da4">
+        <div class="row">
+        <div class="col-sm-12">
+                                                                <div class="wysiwyg block__body-text">
+                    <p>Autodesk Partner logos should be positioned in a way that simply and elegantly communicates the relationship between brands.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_b44ac529cb9dcc317213a0491ec9fd34">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-merchandise-dont-example-shirt-sleeve-1-539x539.jpg" alt="Example of the Autodesk branding shouldn't be displayed on a t-shirt" title="partner-merchandise-dont-example-shirt-sleeve">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>VARs should not use the stacked logo on merchandise.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-merchandise-dont-example-water-bottle-1-539x539.jpg" alt="Example of how to not show Autodesk branding on a green water bottle" title="partner-merchandise-dont-example-water-bottle">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                <div class="wysiwyg block__body-text">
+                            <p>Do not create merchandise exclusively featuring Autodesk Partner logos. Merchandise must feature both the Partner’s logo and the Autodesk Partner logo.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_83eee6a1d2f5495f75bf543412704cef">
+        <div class="row">
+        <div class="col-sm-12">
+                                                    <h4 class="block__header">
+                    Presentations
+                </h4>
+                                        <div class="wysiwyg block__body-text">
+                    <p>A <a href="https://dam.autodesk.com/dam/assetdetails/asset:664efe44-6876-41c5-b4ca-5ba9e76c4819" target="_blank" rel="noopener">co-branded presentation</a> template is available to download from the Partner DAM (access required). As co-branded presentations will be most likely shared on systems where our corporate typeface Artifakt is not installed, this template uses our system font, Arial. Do not use Artifakt when adding text to your presentation.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_636e829553d1304fe9a002a588ec4144">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-affiliate-logo-slide-cover-539x404.jpg" alt="Example of a partner presentation slide with Autodesk logo" title="partner-autodesk-affiliate-logo-slide-cover">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Autodesk affiliated</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>In a Partner’s own template, the preferred placement of the Autodesk Partner logo on the cover title slide is in the lower-left or lower-right corner.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-branded-side-cover-539x404.jpg" alt="Example of a presentation slide with branding and an Autodesk logo" title="partner-autodesk-branded-side-cover">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Autodesk branded</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>The <a href="https://dam.autodesk.com/dam/assetdetails/asset:664efe44-6876-41c5-b4ca-5ba9e76c4819" target="_blank" rel="noopener">co-branded presentation template</a> uses Autodesk brand imagery and includes space for the Partner’s own logo and the Autodesk Partner logo.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_903fac49deba9de9fbc1e45827bc9c4b">
+        <div class="row">
+        <div class="col-sm-12">
+                                                                <div class="wysiwyg block__body-text">
+                    <p>On end slides, Autodesk Partner logos should appear in a way that simply and clearly communicates the relationship between brands.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_dd04a803177c5dcbad3258fe3c745f1a">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-partner-logo-slide-end-frame-539x404.jpg" alt="Presentation final slide example with Autodesk logo" title="partner-autodesk-partner-logo-slide-end-frame">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Autodesk Partner logo</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>End slide treatment with Autodesk partner logo.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-var-logo-slide-end-frame-1-539x404.jpg" alt="Example of a final presentation slide with Autodesk branding" title="partner-autodesk-var-logo-slide-end-frame">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">VAR stacked logo</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>End slide treatment with VAR stacked logo.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_2ab8a98caf963b0300b95a7554b83d48">
+        <div class="row">
+        <div class="col-sm-12">
+                                                    <h4 class="block__header">
+                    Print ads
+                </h4>
+                                        <div class="wysiwyg block__body-text">
+                    <p>When creating print ads, the Autodesk Partner logo is preferred. VARs may use their stacked logo if desirable for the ad’s audience.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_68261f0cd8e633e023be86fe81d238d1">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-affilliated-print-ad-539x539.jpg" alt="Partner print ad with example of Autodesk brand position" title="partner-autodesk-affilliated-print-ad">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Autodesk affiliated</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>Preferred placement of your Autodesk Partner logo is in the upper-right corner.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-branded-print-ad-539x539.jpg" alt="Branded partner print example with location of Autodesk logo" title="partner-autodesk-branded-print-ad">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Autodesk branded</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>Preferred placement of your Autodesk partner logo is in the lower-right corner.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_d795e48f4be017d5f068e05fce20dfab">
+        <div class="row">
+        <div class="col-sm-12">
+                                                    <h4 class="block__header">
+                    Video
+                </h4>
+                                        <div class="wysiwyg block__body-text">
+                    <p>Intellectual property guidelines restrict Partners from editing or altering Autodesk-owned videos to include Partner logos, branding, etc. It is permissible, however, for Partners to share unaltered Autodesk-owned videos externally.</p>
+<p>In Partner-owned videos, Autodesk Partner logos should appear in a way that simply and clearly communicates the relationship between brands. Logo end frames are appropriate places to handle co-branding.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_dea6d75cf2ae59f6253a75a3697bf9a6">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-partner-logo-video-end-frame-539x404.jpg" alt="Example of Autodesk logo on a video end frame" title="partner-autodesk-partner-logo-video-end-frame">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Autodesk Partner logo</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>Logo end frame treatment with Autodesk partner logo.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-var-logo-video-end-frame-1-539x404.jpg" alt="Video end frame example with Autodesk logo" title="partner-autodesk-var-logo-video-end-frame">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">VAR stacked logo</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>Logo end frame treatment with VAR stacked logo.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-omitted 
+     block--no-border-bottom"
+     id="block_acdda81b92849aa1ac3c8d8cc11ae97d">
+        <div class="row">
+        <div class="col-sm-12">
+                                        <div class="wysiwyg intro-text">
+                    <p><br data-mce-bogus="1"></p>
+
+                </div>
+                                        <h4 class="block__header">
+                    Websites
+                </h4>
+                                        <div class="wysiwyg block__body-text">
+                    <p>When co-branding your Autodesk webpage, display your Autodesk Partner logo. VARs may consider using their specializations and value added services on secondary pages that are focused on a particular industry or service.</p>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                            </ul>
+
+                            <div class="wysiwyg footnote">
+                    <p><br data-mce-bogus="1"></p>
+    
+                </div>
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div style="max-width: 100%;"
+     class="block block--card-2-column container-fluid menu-status-omitted 
+     block--border-bottom"
+     id="block_0ed46a637ef9dc2e30240238e6c38d9a">
+        
+                    
+    <div class="row g-4  equal-height-row">
+        <div class="col-sm-12 col-md-6">
+
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-affiliated-website-539x404.jpg" alt="Example of how the Autodesk logo should be positioned on a partner website" title="partner-autodesk-affiliated-website">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Autodesk affiliated</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>Preferred placement of your Autodesk Partner logo is in the upper-right corner.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            
+<div class="block__card-text-image   ">
+                                        <div class="block__card-content ">
+                            
+    
+<img decoding="async" class="img-fluid  block__image" src="https://brand.autodesk.com/app/uploads/2021/09/partner-autodesk-branded-website-2-539x404.jpg" alt="Example of a partner website with branding and the position of the Autodesk logo" title="partner-autodesk-branded-website-2">
+
+                        <div class='block__card-lower'>
+                <div class="card-text equal-height-element">
+                                                                        <h5 class="block__header">Autodesk branded</h5>
+                                                                                        <div class="wysiwyg block__body-text">
+                            <p>Your own logo and the Autodesk partner logo can be paired with a strong Autodesk-branded image.</p>
+
+                        </div>
+                                    </div>
+                            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+    
+    
+
+<div style="max-width: 100%;"
+     class="block block--sub-section-title-text container-fluid menu-status-child 
+     block--no-border-bottom"
+     id="partner-resources">
+        <div class="row">
+        <div class="col-sm-12">
+                            <h3 class="block__header anchor">Partner resources</h3>
+                                                                <div class="wysiwyg block__body-text">
+                    <p>Here is a list of resources to help you access the appropriate Partner logo, additional assets, and more information on who to contact with questions.</p>
+<h5><strong>Partner logos</strong></h5>
+<p>Autodesk Partner logos are available on <a href="https://oneteamsource.seismic.com/Link/Content/DC3q4JHj9RgHhGCXX7PH4G7Rq6Jd#/?anchorId=b6a7b20a-1810-4ec8-8c70-a5e537584a85">One Team Source.</a> (Access required.)</p>
+<p>VARs can add their various specialization and service designations to their Autodesk Partner logo by using the <a href="https://oneteamsource.seismic.com/Link/Content/DC3q4JHj9RgHhGCXX7PH4G7Rq6Jd#/?anchorId=b6a7b20a-1810-4ec8-8c70-a5e537584a85">VAR Stacked Logo Templates</a>. For any questions about co-branding, email <a href="mailto:partner.marketing@autodesk.com">partner.marketing@autodesk.com</a>.</p>
+<h5><strong>Partner DAM</strong></h5>
+<p>Autodesk&#8217;s Digital Asset Management system, the <a href="https://dam.autodesk.com/" target="_blank" rel="noopener">Partner DAM</a> (access required), is Autodesk’s library of approved branding and marketing assets.  To access, log in using your Autodesk SSO credentials. Or, from within Partner Center, under “Resources,” select <strong>Partner DAM</strong>.</p>
+<p>The DAM is accessible only to Autodesk employees and Autodesk’s agencies, resellers, distributors, and other select partners. Autodesk Partners’ agencies are not allowed access. For questions, contact your local Channel Marketing Manager.</p>
+<h5><strong>One Team Source (OTS)</strong></h5>
+<p>Partners can find sales-related information and assets on our sales enablement solution, <a href="https://oneteamsource.seismic.com/" target="_blank" rel="noopener">One Team Source</a> (access required).</p>
+<h5><strong>Contact us</strong></h5>
+<p>For questions related to our Brand guidelines, usage, or concerns not covered here, contact your local Channel Marketing Manager.</p>
+<h5><strong>Learn more about Autodesk</strong></h5>
+
+                </div>
+                                    <ul class="block__links-repeater">
+                                                                                                            <li>
+                             <a target="_blank" class="external-text-link-icon" href="https://autodesk.com/company">Find out more about who we are and what we do.</a>
+                         </li>
+                                            <li>
+                             <a target="_blank" class="external-text-link-icon" href="https://autodesk.com/customer-stories">Find out how Autodesk customers are redefining what’s possible.</a>
+                         </li>
+                                            <li>
+                             <a target="_blank" class="external-text-link-icon" href="https://www.autodesk.com/partners/overview">Learn about becoming an Autodesk Partner.</a>
+                         </li>
+                                            <li>
+                                                 </li>
+                                                </ul>
+
+            
+        </div>
+    </div>
+</div>
+
+                                            </div>
+                </article>
+            </div>
+            <div id="jump-menu-scroll-marker-bottom"></div>
+        </div>
+    </div>
+    </div>
+
+            <footer class="footer" id="footer">
+    <div class="container footer__top">
+        <div class="row">
+            <div class="col-12">Some footer content</div>
+        </div>
+    </div>
+    <div class="footer__bottom">
+        <div class="container">
+            <div class="row">
+                                    <div class="col-12 d-sm-flex justify-content-sm-start flex-sm-wrap footer__privacy-menu">
+                        
+                    <style>
+    .footer__nav > li:first-of-type > :not(.footer__link) {
+        display: none;
+    }
+    </style>
+    <ul class="footer__nav" style="padding-top: 1rem;">
+                    <li>
+                <a class="footer__link" data-opt-in-preferences="" data-multi-optout-preferences="en" data-wat-linkname="manage-privacy-settings-footer-link" href="javascript:;">Privacy settings</a>
+            </li>
+                            
+                                                                <li>
+                <a target="_blank" rel="noopener noreferrer" href="https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement" class="footer__link">
+                    Privacy statement
+                </a>
+            </li>
+                                                
+                            <li><span class="footer__copyright">&copy; 2025 Autodesk Inc. All rights reserved.</span></li>
+            </ul>
+
+                    </div>
+                            </div>
+        </div>
+    </div>
+</footer>
+    
+</div>
+
+<script type="text/javascript" id="main-js-js-extra">
+/* <![CDATA[ */
+var TorpedoAjax = {"ajaxurl":"https:\/\/brand.autodesk.com\/wp\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://brand.autodesk.com/app/themes/autodesk-brand-hub/assets/dist/js/main.6b7f95e8554b311a9b8e.js" id="main-js-js"></script>
+
+
+</body>
+</html>

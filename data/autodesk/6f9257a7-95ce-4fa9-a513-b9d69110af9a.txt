@@ -1,0 +1,1881 @@
+https://www.autodesk.com/in/partners/locate-a-reseller
+
+<!DOCTYPE HTML>
+<html lang="en-IN" data-locale="en-IN" data-env="prod" data-flex-incentives-enabled="enabled" data-new-buy-panel="enabled" data-minicart-promotion-enabled="enabled" data-odm-minicart-enabled="disabled" data-myab-ppg-enabled="disabled" data-subscription-ppg-enabled="enabled" data-promo-enabled="true" data-ppg-host="https://damassets.autodesk.net/ppg/prices">
+    <head>
+  <meta charset="UTF-8"/>
+
+  <title>Partner Locator | Locate an Autodesk Reseller | Autodesk</title>
+
+  
+  <link rel="canonical" href="https://www.autodesk.com/in/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-us" href="https://www.autodesk.com/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="fr-ca" href="https://www.autodesk.com/ca-fr/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-ca" href="https://www.autodesk.com/ca-en/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="es-mx" href="https://www.autodesk.com/mx/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-au" href="https://www.autodesk.com/au/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="zh-cn" href="https://www.autodesk.com.cn/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="ja-jp" href="https://www.autodesk.com/jp/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="ko-kr" href="https://www.autodesk.com/kr/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="zh-tw" href="https://www.autodesk.com/tw/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-in" href="https://www.autodesk.com/in/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-th" href="https://www.autodesk.com/asean/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-id" href="https://www.autodesk.com/asean/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-ph" href="https://www.autodesk.com/asean/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-bn" href="https://www.autodesk.com/asean/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-kh" href="https://www.autodesk.com/asean/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-la" href="https://www.autodesk.com/asean/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-vn" href="https://www.autodesk.com/asean/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-my" href="https://www.autodesk.com/asean/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-nz" href="https://www.autodesk.com/nz/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-sg" href="https://www.autodesk.com/sg/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-hk" href="https://www.autodesk.com/hk/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-ng" href="https://www.autodesk.com/za/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-na" href="https://www.autodesk.com/za/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-gh" href="https://www.autodesk.com/za/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-za" href="https://www.autodesk.com/za/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-il" href="https://www.autodesk.com/ae/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-sa" href="https://www.autodesk.com/ae/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-qa" href="https://www.autodesk.com/ae/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-kw" href="https://www.autodesk.com/ae/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-eg" href="https://www.autodesk.com/ae/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-om" href="https://www.autodesk.com/ae/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-ae" href="https://www.autodesk.com/ae/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="pt-br" href="https://www.autodesk.com/br/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="es-pe" href="https://www.autodesk.com/latam/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="es-co" href="https://www.autodesk.com/latam/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="es-cl" href="https://www.autodesk.com/latam/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="es-uy" href="https://www.autodesk.com/latam/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="es-ar" href="https://www.autodesk.com/latam/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="cs-cz" href="https://www.autodesk.com/cz/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="da-dk" href="https://www.autodesk.com/dk/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="de-at" href="https://www.autodesk.com/de/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="de-de" href="https://www.autodesk.com/de/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="de-ch" href="https://www.autodesk.com/ch-de/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-gb" href="https://www.autodesk.com/uk/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="es-es" href="https://www.autodesk.com/es/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="fr-be" href="https://www.autodesk.com/be-fr/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="fr-fr" href="https://www.autodesk.com/fr/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="fr-ch" href="https://www.autodesk.com/ch-fr/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="hu-hu" href="https://www.autodesk.com/hu/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="it-it" href="https://www.autodesk.com/it/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="it-ch" href="https://www.autodesk.com/ch-it/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="nl-be" href="https://www.autodesk.com/be-nl/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-ie" href="https://www.autodesk.com/eu/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="en-nl" href="https://www.autodesk.com/eu/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="nl-nl" href="https://www.autodesk.com/nl/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="no-no" href="https://www.autodesk.com/no/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="pl-pl" href="https://www.autodesk.com/pl/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="pt-pt" href="https://www.autodesk.com/pt/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="fi-fi" href="https://www.autodesk.com/fi/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="sv-se" href="https://www.autodesk.com/se/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="tr-tr" href="https://www.autodesk.com/tr/partners/locate-a-reseller"/>
+  <link rel="alternate" hreflang="x-default" href="https://www.autodesk.com/partners/locate-a-reseller"/>
+
+  <meta name="headRosetta" content="true"/>
+  
+    
+<script type="text/javascript">/*
+ Copyright and licenses see https://www.dynatrace.com/company/trust-center/customers/reports/ */
+(function(){function Ma(){document.cookie="__dTCookie=1;SameSite=Lax";const Da=document.cookie.includes("__dTCookie");document.cookie="__dTCookie=1; expires=Thu, 01-Jan-1970 00:00:01 GMT";return Da}function Sa(){return void 0===Va.dialogArguments?navigator.cookieEnabled||Ma():Ma()}function eb(){if(Sa()){var Da=Va.dT_,Ta=null===Da||void 0===Da?void 0:Da.platformPrefix,va;if(va=!Da||Ta){var Ia;(va=null===Da||void 0===Da?void 0:Da.minAgentVersion)&&"10309250310100759"<`${va}`?(console.log("[CookiePrefix/initConfig] Min agent version detected, and javascript agent is older - the javascript agent will not be initialized!"),
+va=!1):(va=(null===(Ia=document.currentScript)||void 0===Ia?void 0:Ia.getAttribute("data-dtconfig"))||"domain=autodesk.com|reportUrl=/rb_bf86358stq|app=5e4183b07b9fbcb4|cuc=qa4lllk7|mel=100000|expw=1|featureHash=A7NVfghqrux|dpvc=1|md=mdcc1=bwindow.adsk_waf_s.Q.Integrate.s.Integrate.s.eVar83,mdcc2=cidentity-sso|lastModification=1742949707799|xb=.*clicktale^bs..*|tp=500,50,0|rdnt=1|uxrgce=1|agentUri=/ruxitagentjs_A7NVfghqrux_10309250310100759.js|auto=1|domain=autodesk.com|rid=RID_409646097|rpid=-204712116",Ta&&!va.includes(`cuc=${Ta}`)?(console.log(`[CookiePrefix/initConfig] value of platformPrefix [${Ta}] does not match the "cuc" value in the current config - initConfig will not initialize!`),va=!1):va=!0)}va&&(Da={cfg:"domain=autodesk.com|reportUrl=/rb_bf86358stq|app=5e4183b07b9fbcb4|cuc=qa4lllk7|mel=100000|expw=1|featureHash=A7NVfghqrux|dpvc=1|md=mdcc1=bwindow.adsk_waf_s.Q.Integrate.s.Integrate.s.eVar83,mdcc2=cidentity-sso|lastModification=1742949707799|xb=.*clicktale^bs..*|tp=500,50,0|rdnt=1|uxrgce=1|agentUri=/ruxitagentjs_A7NVfghqrux_10309250310100759.js|auto=1|domain=autodesk.com|rid=RID_409646097|rpid=-204712116",iCE:Sa,platformCookieOffset:null===
+Da||void 0===Da?void 0:Da.platformCookieOffset},Ta&&(Da.platformPrefix=Ta),Va.dT_=Da)}}this.dT_&&dT_.prm&&dT_.prm();var Va="undefined"!==typeof globalThis?globalThis:"undefined"!==typeof window?window:void 0;if(!("documentMode"in document)||isNaN(document.documentMode)){const Da=Va.dT_;!Da||!Da.cfg&&Da.platformPrefix?eb():Da.gCP||(Va.console.log("Duplicate agent injection detected, turning off redundant initConfig."),Da.di=1)}})();
+(function(){function Ma(f){var q;return function(){if(q)return q;var C,S,V,Ja,cb=-1!==r?r:(null===(S=null===(C=Fa.dT_)||void 0===C?void 0:C.scv)||void 0===S?void 0:S.call(C,"postfix"))||(null===(Ja=null===(V=Fa.dT_)||void 0===V?void 0:V.gCP)||void 0===Ja?void 0:Ja.call(V));return q=C=(r=cb)?"".concat(f).concat(cb):f}}function Sa(){var f=0;try{f=Math.round(Fa.performance.timeOrigin)}catch(q){}if(0>=f||isNaN(f)||!isFinite(f)){re.push({severity:"Warning",type:"ptoi",text:`performance.timeOrigin is invalid, with a value of [${f}]. Falling back to performance.timing.navigationStart`});
+f=0;try{f=Fa.performance.timing.navigationStart}catch(q){}f=0>=f||isNaN(f)||!isFinite(f)?se:f}Lb=f;Ib=eb;return Lb}function eb(){return Lb}function Va(){return Ib()}function Da(){var f;let q=0;if(null===(f=null===Fa||void 0===Fa?void 0:Fa.performance)||void 0===f?0:f.now)try{q=Math.round(Fa.performance.now())}catch(C){}return 0>=q||isNaN(q)||!isFinite(q)?(new Date).getTime()-Ib():q}function Ta(f,q){if(!q)return"";var C=f+"=";f=q.indexOf(C);if(0>f)return"";for(;0<=f;){if(0===f||" "===q.charAt(f-1)||
+";"===q.charAt(f-1))return C=f+C.length,f=q.indexOf(";",f),0<=f?q.substring(C,f):q.substring(C);f=q.indexOf(C,f+C.length)}return""}function va(f){return Ta(f,document.cookie)}function Ia(){}function Ga(f,q=document.cookie){return Ta(f,q)}function ab(){}function Za(f,q){return function(){f.apply(q,arguments)}}function oa(f){if(!(this instanceof oa))throw new TypeError("Promises must be constructed via new");if("function"!==typeof f)throw new TypeError("not a function");this.qa=0;this.mc=!1;this.va=
+void 0;this.La=[];pa(f,this)}function la(f,q){for(;3===f.qa;)f=f.va;0===f.qa?f.La.push(q):(f.mc=!0,oa.Hb(function(){var C=1===f.qa?q.ne:q.oe;if(null===C)(1===f.qa?aa:sa)(q.promise,f.va);else{try{var S=C(f.va)}catch(V){sa(q.promise,V);return}aa(q.promise,S)}}))}function aa(f,q){try{if(q===f)throw new TypeError("A promise cannot be resolved with itself.");if(q&&("object"===typeof q||"function"===typeof q)){var C=q.then;if(q instanceof oa){f.qa=3;f.va=q;Ra(f);return}if("function"===typeof C){pa(Za(C,
+q),f);return}}f.qa=1;f.va=q;Ra(f)}catch(S){sa(f,S)}}function sa(f,q){f.qa=2;f.va=q;Ra(f)}function Ra(f){2===f.qa&&0===f.La.length&&oa.Hb(function(){f.mc||oa.pc(f.va)});for(var q=0,C=f.La.length;q<C;q++)la(f,f.La[q]);f.La=null}function W(f,q,C){this.ne="function"===typeof f?f:null;this.oe="function"===typeof q?q:null;this.promise=C}function pa(f,q){var C=!1;try{f(function(S){C||(C=!0,aa(q,S))},function(S){C||(C=!0,sa(q,S))})}catch(S){C||(C=!0,sa(q,S))}}function Z(){Dc.Hb=function(f){if("string"===
+typeof f)throw Error("Promise polyfill called _immediateFn with string");f()};Dc.pc=()=>{};return Dc}function X(f,q=[]){var C;if(!f||"object"!==typeof f&&"function"!==typeof f)return!1;const S="number"!==typeof q?q:[];let V=null;const Ja=[];switch("number"===typeof q?q:5){case 1:V="Boolean";break;case 2:V="Number";break;case 3:V="String";break;case 4:V="Function";break;case 5:V="Object";break;case 6:V="Date";Ja.push("getTime");break;case 7:V="Error";Ja.push("name","message");break;case 8:V="Element";
+break;case 9:V="HTMLElement";break;case 10:V="HTMLImageElement";Ja.push("complete");break;case 11:V="PerformanceEntry";break;case 12:V="PerformanceTiming";break;case 13:V="PerformanceResourceTiming";break;case 14:V="PerformanceNavigationTiming";break;case 15:V="CSSRule";Ja.push("cssText","parentStyleSheet");break;case 16:V="CSSStyleSheet";Ja.push("cssRules","insertRule");break;case 17:V="Request";Ja.push("url");break;case 18:V="Response";Ja.push("ok","status","statusText");break;case 19:V="Set";Ja.push("add",
+"entries","forEach");break;case 20:V="Map";Ja.push("set","entries","forEach");break;case 21:V="Worker";Ja.push("addEventListener","postMessage","terminate");break;case 22:V="XMLHttpRequest";Ja.push("open","send","setRequestHeader");break;case 23:V="SVGScriptElement";Ja.push("ownerSVGElement","type");break;case 24:V="HTMLMetaElement";Ja.push("httpEquiv","content","name");break;case 25:V="HTMLHeadElement";break;case 26:V="ArrayBuffer";break;case 27:V="ShadowRoot",Ja.push("host","mode")}const {Of:cb,
+bg:Qb}={Of:V,bg:Ja};if(!cb)return!1;q=Qb.length?Qb:S;if(!S.length)try{if(Fa[cb]&&f instanceof Fa[cb]||Object.prototype.toString.call(f)==="[object "+cb+"]")return!0;if(f&&f.nodeType&&1===f.nodeType){const Zb=null===(C=f.ownerDocument.defaultView)||void 0===C?void 0:C[cb];if("function"===typeof Zb&&f instanceof Zb)return!0}}catch(Zb){}for(const Zb of q)if("string"!==typeof Zb&&"number"!==typeof Zb&&"symbol"!==typeof Zb||!(Zb in f))return!1;return!!q.length}function O(f,q,C,S){"undefined"===typeof S&&
+(S=ia(q,!0));"boolean"===typeof S&&(S=ia(q,S));f===Fa?ec&&ec(q,C,S):Yd&&X(f,21)?Tc.call(f,q,C,S):f.addEventListener&&(f===Fa.document||f===Fa.document.documentElement?Qc.call(f,q,C,S):ec.call(f,q,C,S));S=!1;for(let V=Yc.length;0<=--V;){const Ja=Yc[V];if(Ja.object===f&&Ja.event===q&&Ja.I===C){S=!0;break}}S||Yc.push({object:f,event:q,I:C})}function K(f,q,C,S){for(let V=Yc.length;0<=--V;){const Ja=Yc[V];if(Ja.object===f&&Ja.event===q&&Ja.I===C){Yc.splice(V,1);break}}"undefined"===typeof S&&(S=ia(q,!0));
+"boolean"===typeof S&&(S=ia(q,S));f===Fa?mc&&mc(q,C,S):f.removeEventListener&&(f===Fa.document||f===Fa.document.documentElement?kf.call(f,q,C,S):mc.call(f,q,C,S))}function ia(f,q){let C=!1;try{if(ec&&$e.includes(f)){const S=Object.defineProperty({},"passive",{get:function(){C=!0}});ec("test",Ia,S)}}catch(S){}return C?{passive:!0,capture:q}:q}function ra(){const f=Yc;for(let q=f.length;0<=--q;){const C=f[q];K(C.object,C.event,C.I)}Yc=[]}function Ua(f){return"function"===typeof f&&/{\s+\[native code]/.test(Function.prototype.toString.call(f))}
+function N(f,q,...C){return void 0!==Function.prototype.bind&&Ua(Function.prototype.bind)?Function.prototype.bind.call(f,q,...C):function(...S){return f.apply(q,(C||[]).concat(Array.prototype.slice.call(arguments)||[]))}}function ua(){if(fd){const f=new fd;if(yd)for(const q of Uc)void 0!==yd[q]&&(f[q]=N(yd[q],f));return f}return new Fa.XMLHttpRequest}function za(){document.cookie="__dTCookie=1;SameSite=Lax";const f=document.cookie.includes("__dTCookie");document.cookie="__dTCookie=1; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+return f}function Q(){return void 0===Fa.dialogArguments?navigator.cookieEnabled||za():za()}function I(){return Fa.dT_}function ja(f){f=encodeURIComponent(f);const q=[];if(f)for(let C=0;C<f.length;C++){const S=f.charAt(C);q.push(rd[S]||S)}return q.join("")}function ma(f){f.includes("^")&&(f=f.split("^^").join("^"),f=f.split("^dq").join('"'),f=f.split("^rb").join(">"),f=f.split("^lb").join("<"),f=f.split("^p").join("|"),f=f.split("^e").join("="),f=f.split("^s").join(";"),f=f.split("^c").join(","),
+f=f.split("^bs").join("\\"));return f}function ha(){return Zd}function Ea(f){Zd=f}function wa(f){const q=E("rid"),C=E("rpid");q&&(f.rid=q);C&&(f.rpid=C)}function rb(f){if(f=f.xb){f=ma(f);try{Zd=new RegExp(f,"i")}catch(q){}}else Zd=void 0}function Pa(f){return"n"===f||"s"===f||"l"===f?`;SameSite=${$d[f]}`:""}function bc(f,q,C){let S=1,V=0;do document.cookie=f+'=""'+(q?";domain="+q:"")+";path="+C.substring(0,S)+"; expires=Thu, 01 Jan 1970 00:00:01 GMT;",S=C.indexOf("/",S),V++;while(-1!==S&&5>V)}function pc(){const f=
+(document.domain||location.hostname||"").split(".");return 1>=f.length?[]:f}function Xb(f,q){q=`dTValidationCookieValue;path=/;domain=${f}${Pa(q)}`;document.cookie=`${Oa()}=${q}`;return Ga(Oa())?(bc(Oa(),f,"/"),!0):!1}function U(){var f=je.dT_.scv("agentUri");if(!f)return"ruxitagentjs";f=f.substring(f.lastIndexOf("/")+1);return f.includes("_")?f.substring(0,f.indexOf("_")):f}function gb(f){v("eao")?Of=f:Fa.console.log(`${ae} App override configuration is not enabled! The provided app config callback method will not be invoked!`)}
+function rc(){if(Fa.MobileAgent||Fa.dynatraceMobile){const f=va("dtAdkSettings");return wc(f).privacyState||null}return null}function ic(f,q){return!fc()||I().overloadPrevention&&!bb()?null:f.apply(this,q)}function fc(){const f=rc();return 2===f||1===f?!1:!v("coo")||v("cooO")||bb()}function Cc(f,q){try{Fa.sessionStorage.setItem(f,q)}catch(C){}}function tc(f,q){ic(Cc,[f,q])}function kb(f){try{return Fa.sessionStorage.getItem(f)}catch(q){}return null}function ib(f){try{Fa.sessionStorage.removeItem(f)}catch(q){}}
+function Rb(f){document.cookie=f+'="";path=/'+(E("domain")?";domain="+E("domain"):"")+"; expires=Thu, 01 Jan 1970 00:00:01 GMT;"}function Jb(f,q,C,S){q||0===q?(q=(q+"").replace(/[;\n\r]/g,"_"),f=f+"="+q+";path=/"+(E("domain")?";domain="+E("domain"):""),C&&(f+=";expires="+C.toUTCString()),f+=Pa(E("cssm")),S&&"https:"===location.protocol&&(f+=";Secure"),document.cookie=f):Rb(f)}function Wb(f,q,C,S){ic(Jb,[f,q,C,S])}function cc(f){return f.includes("v_4")?!0:!1}function zb(f){f=Ga(A(),f);f||((f=kb(A()))&&
+cc(f)?D(f):f="");return cc(f)?f:""}function D(f){Wb(A(),f,void 0,v("ssc"))}function T(f){return(f=f||zb())?wc(f):{sessionId:"",serverId:"",overloadState:0,appState:{}}}function La(f){return T(f).serverId}function da(f){return T(f).sessionId}function bb(){return navigator.userAgent.includes(Pf)}function nb(f){const q={};f=f.split("|");for(const C of f)f=C.split("="),2===f.length&&(q[f[0]]=decodeURIComponent(f[1].replace(/\+/g," ")));return q}function $a(){const f=U();return(f.indexOf("dbg")===f.length-
+3?f.substring(0,f.length-3):f)+"_"+E("app")+"_Store"}function ob(f,q={},C){f=f.split("|");for(var S of f){var V=S;f=S.indexOf("=");-1===f?q[V]="1":(V=S.substring(0,f),q[V]=S.substring(f+1,S.length))}!C&&(C=q.spc)&&(S=document.createElement("textarea"),S.innerHTML=C,q.spc=S.value);return q}function y(f){var q;return null!==(q=gc[f])&&void 0!==q?q:Id[f]}function v(f){f=y(f);return"false"===f||"0"===f?!1:!!f}function t(f){var q=y(f);q=parseInt(q);isNaN(q)&&(q=Id[f]);return q}function E(f){if("app"===
+f){a:{try{if(Of){var q=Of();if(q&&"string"===typeof q&&dg.test(q)){var C=q;break a}Fa.console.log(`${ae} Registered app config callback method did not return a string in the correct app id format ${dg} The default app ID will be used instead! Got value: ${q}`)}}catch(S){Fa.console.log(`${ae} Failed to execute the registered app config callback method! The default app ID will be used instead!`,S)}C=void 0}if(C)return C}return(y(f)||"")+""}function L(f,q){gc[f]=q+""}function ca(f){return gc=f}function ta(f){const q=
+gc[f];q&&(gc[f]=q.includes("#"+f.toUpperCase())?"":q)}function Ca(f){var q=f.agentUri;(null===q||void 0===q?0:q.includes("_"))&&(q=/([a-zA-Z]*)[0-9]{0,4}_([a-zA-Z_0-9]*)_[0-9]+/g.exec(q))&&q.length&&2<q.length&&(f.featureHash=q[2])}function Bb(f){var q=I().platformCookieOffset;if("number"===typeof q){a:{var C=E("cssm");var S=pc();if(S.length)for(q=S.slice(q);q.length;){if(Xb(q.join("."),C)){C=q.join(".");break a}q.shift()}C=""}C&&(f.domain=C)}else if(C=f.domain||"",q=(q=location.hostname)&&C?q===
+C||q.includes("."+C,q.length-("."+C).length):!0,!C||!q){f.domainOverride||(f.domainOriginal=f.domain||"",f.domainOverride=`${location.hostname},${C}`,delete f.domain);a:{S=E("cssm");const Ja=pc().reverse();if(Ja.length){var V=Ja[0];for(let cb=1;cb<=Ja.length;cb++){if(Xb(V,S)){S=V;break a}const Qb=Ja[cb];Qb&&(V=`${Qb}.${V}`)}}S=""}S&&(f.domain=S);q||re.push({type:"dpi",severity:"Warning",text:`Configured domain "${C}" is invalid for current location "${location.hostname}". Agent will use "${f.domain}" instead.`})}}
+function yb(f,q){Bb(f);const C=gc.pVO;C&&(f.pVO=C);q||(f.bp=(f.bp||Id.bp)+"")}function Pb(f,q){if(null===f||void 0===f||!f.attributes)return q;let C=q;var S=f.attributes.getNamedItem("data-dtconfig");if(!S)return C;f=f.src;S=S.value;const V={};gc.legacy="1";var Ja=/([a-zA-Z]*)_([a-zA-Z_0-9]*)_([0-9]+)/g;f&&(Ja=Ja.exec(f),null===Ja||void 0===Ja?0:Ja.length)&&(V.agentUri=f,V.featureHash=Ja[2],V.agentLocation=f.substring(0,f.indexOf(Ja[1])-1),V.buildNumber=Ja[3]);S&&ob(S,V,!0);Bb(V);if(!q)C=V;else if(!V.syntheticConfig)return V;
+return C}function Db(){return gc}function Nb(f){return Id[f]===y(f)}function jb(){return navigator.userAgent.includes("Googlebot")||navigator.userAgent.includes("AdsBot-Google")}function Sb(f){let q=f;const C=Math.pow(2,32);return function(){q=(1664525*q+1013904223)%C;return q/C}}function Gc(f,q){return isNaN(f)||isNaN(q)?Math.floor(33*lf()):Math.floor(lf()*(q-f+1))+f}function oc(f){if(isNaN(f)||0>f)return"";var q=Fa.crypto;if(q&&!jb())q=q.getRandomValues(new Uint8Array(f));else{q=[];for(var C=0;C<
+f;C++)q.push(Gc(0,32))}f=Array(f);for(C=0;C<q.length;C++){const S=Math.abs(q[C]%32);f.push(String.fromCharCode(S+(9>=S?48:55)))}return f.join("")}function nd(f=!0){Qf=f}function ad(){return te}function Bc(){const f=Fa.dT_;try{let C=Fa.parent;for(;C&&C!==Fa;){const S=C.dT_;var q;if(q=!!(S&&"ea"in S)&&"10309250310100759"===S.version){const V=!f.bcv("ac")||f.scv("app")===S.scv("app"),Ja=f.scv("postfix"),cb=S.scv("postfix");q=V&&Ja===cb}if(q)return S.tdto();C=C!==C.parent?C.parent:void 0}}catch(C){}return f}
+function Lc(f,q="",C){var S=f.indexOf("h"),V=f.indexOf("v");const Ja=f.indexOf("e"),cb=f.substring(f.indexOf("$")+1,S);S=-1!==V?f.substring(S+1,V):f.substring(S+1);q||-1===V||(q=-1!==Ja?f.substring(V+1,Ja):f.substring(V+1));f=null;C||(C=parseInt(cb.split("_")[0]),V=Ic()%Cf,V<C&&(V+=Cf),C=C+9E5>V);C&&(f={frameId:cb,D:"-"===S?"-":parseInt(S),visitId:""});return{visitId:q,te:f}}function Dd(f,q,C){var S=t("pcl");S=f.length-S;0<S&&f.splice(0,S);S=La(Ga(A(),C));const V=[],Ja=S?`${S}$`:"";for(const cb of f)"-"!==
+cb.D&&V.push(`${Ja}${cb.frameId}h${cb.D}`);f=V.join("p");f||(Qf&&(Pc(!0,"a",C),nd(!1)),f+=`${S}$${te}h-`);f+=`v${q||sb(C)}`;q=f+"e0";Wb(u(),q,void 0,v("ssc"))}function Vc(f,q=document.cookie){var C=Ga(u(),q);q=[];if(C&&"-"!==C){var S=C.split("p");C="";for(const V of S)S=Lc(V,C,f),C=S.visitId,S.te&&q.push(S.te);for(const V of q)V.visitId=C}return q}function H(f,q){const C=document.cookie;q=Vc(q,C);let S=!1;for(const V of q)V.frameId===te&&(V.D=f,S=!0);S||q.push({frameId:te,D:f,visitId:""});Dd(q,void 0,
+C)}function ea(){return mf}function G(f,q){try{Fa.localStorage.setItem(f,q)}catch(C){}}function na(f){try{Fa.localStorage.removeItem(f)}catch(q){}}function Ba(f){try{return Fa.localStorage.getItem(f)}catch(q){}return null}function Qa(f,q=!1){fc()?f():q?Rf.push(f):Sf.push(f)}function Aa(){if(!v("coo")||fc())return!1;for(const f of Sf)jd(f,0);Sf=[];L("cooO",!0);for(const f of Rf)f();Rf.length=0;return!0}function pb(){if(!v("coo")||!fc())return!1;L("cooO",!1);Rb(A());Rb(u());Rb(hb());Rb("dtAdk");Rb(fa());
+Rb(R());try{ib(Sd()),ib(R()),na(Sd()),na(R()),ib(fa()),ib(A()),na($a()),na("dtAdk")}catch(f){}return!0}function tb(f,q=document.cookie||""){return q.split(f+"=").length-1}function fb(f,q){var C=tb(f,q);if(1<C){q=E("domain")||Fa.location.hostname;const S=Fa.location.hostname,V=Fa.location.pathname;let Ja=0,cb=0;zd.add(f);do{const Qb=S.substring(Ja);if(Qb!==q||"/"!==V){bc(f,Qb===q?"":Qb,V);const Zb=tb(f);Zb<C&&(zd.add(Qb),C=Zb)}Ja=S.indexOf(".",Ja)+1;cb++}while(0!==Ja&&10>cb&&1<C);E("domain")&&1<C&&
+bc(f,"",V)}}function Gb(){var f=document.cookie;fb(u(),f);fb(A(),f);fb(R(),f);f=zd.size;0<f&&f!==ue&&(ue=f,re.push({severity:"Error",type:"dcn",text:`Duplicate cookie name${1!==f?"s":""} detected: ${Array.from(zd).join(",")}`}))}function Vb(){zd=new Set;Gb();z(function(f,q,C,S){0===zd.size||q||(f.av(S,"dCN",Array.from(zd).join(",")),zd.clear(),ue=0)})}function sb(f){return Mc(f)||Pc(!0,"c",f)}function Mc(f){if(Nc(f)<=Ic())return Pc(!0,"t",f);const q=Nd(f);if(!q)return Pc(!0,"c",f);const C=be.exec(q);
+if(!C||3!==C.length||32!==C[1].length||isNaN(parseInt(C[2])))return Pc(!0,"i",f);tc(Sd(),q);return q}function uc(f,q){var C=Ic();q=od(q).Hc;f&&(q=C);Oc(C+Ed+"|"+q);kd()}function ud(f){const q="t"+(Ic()-Nc(f));Pc(!0,q,f)}function Nd(f){var q,C;return null!==(C=null===(q=Vc(!0,f)[0])||void 0===q?void 0:q.visitId)&&void 0!==C?C:kb(Sd())}function Ie(){let f=oc(Je);try{f=f.replace(/[0-9]/g,function(q){return String.fromCharCode(Math.floor(2.5*parseInt(q)+65))})}catch(q){throw X(q,7),q;}return f+"-0"}function sd(f,
+q){const C=Vc(!1,q);Dd(C,f,q);tc(Sd(),f);uc(!0)}function vd(f,q,C){return Pc(f,q,C)}function Pc(f,q,C){f&&(Ke=!0);f=Nd(C);C=Ie();sd(C);if(Nd(document.cookie))for(const S of Jd)S(C,Ke,q,f);return C}function td(f){Jd.push(f)}function Ad(f){f=Jd.indexOf(f);-1!==f&&Jd.splice(f)}function kd(f){ce&&m(ce);ce=jd(Od,Nc(f)-Ic())}function Od(){const f=document.cookie;if(Nc(f)<=Ic())return ic(ud,[f]),!0;Qa(kd);return!1}function Oc(f){const q=N(Wb,null,R(),f,void 0,v("ssc"));q();const C=Ga(R());""!==C&&f!==C&&
+(Gb(),q(),f===Ga(R())||ve||(re.push({severity:"Error",type:"dcn",text:"Could not sanitize cookies"}),ve=!0));tc(R(),f)}function Fd(f,q){(q=Ga(f,q))||(q=kb(f)||"");return q}function Jc(){var f=Mc()||"";tc(Sd(),f);f=Fd(R());Oc(f);na(Sd());na(R())}function od(f){const q={Gd:0,Hc:0};if(f=Fd(R(),f))try{const C=f.split("|");2===C.length&&(q.Gd=parseInt(C[0]),q.Hc=parseInt(C[1]))}catch(C){}return q}function Nc(f){f=od(f);return Math.min(f.Gd,f.Hc+af)}function de(f){Ed=f}function we(){const f=Ke;Ke=!1;return f}
+function ke(){Od()||uc(!1)}function Bd(){if(v("nsfnv")){var f=Ga(A());if(!f.includes("_srv_-")){const q=wc(f).serverId;f=f.replace(`${"_srv_"}${q}`,`${"_srv_"}${`${-1*Gc(2,xe)}`.replace("-","-2D")}`);D(f)}}}function Wc(){Qa(function(){if(!da()){const f=-1*Gc(2,xe),q=oc(Je);D(`v_4${"_srv_"}${`${f}`.replace("-","-2D")}_sn_${q}`)}},!0);td(Bd)}function wc(f){var q;const C={},S={sessionId:"",serverId:"",overloadState:0,appState:C};var V=f.split("_");if(2<V.length&&0===V.length%2){f=+V[1];if(isNaN(f)||
+3>f)return S;f={};for(var Ja=2;Ja<V.length;Ja++){const cb=V[Ja];cb.startsWith(tg)?C[cb.substring(6).toLowerCase()]=+V[Ja+1]:f[cb]=V[Ja+1];Ja++}f.sn?(V=f.sn,V=V.length===Je||12>=V.length?V:""):V="hybrid";S.sessionId=V;if(f.srv){a:{V=f.srv.replace("-2D","-");if(!isNaN(+V)&&(Ja=parseInt(V),Ja>=-xe&&Ja<=xe))break a;V=""}S.serverId=V}V=+f.ol;1===V&&gd(bb());0<=V&&2>=V&&(S.overloadState=V);f=+f.prv;isNaN(f)||(S.privacyState=1>f||4<f?1:f);f=null===(q=E("app"))||void 0===q?void 0:q.toLowerCase();q=C[f];isNaN(q)||
+0!==q||gd(bb())}return S}function gd(f){const q=I();f||(q.disabled=!0,q.overloadPrevention=!0)}function le(){return Ic()}function jd(f,q,...C){function S(){delete Le[V];f.apply(this,arguments)}let V;"apply"in me?(C.unshift(S,q),V=me.apply(Fa,C)):V=me(S,q);Le[V]=!0;return V}function m(f){delete Le[f];"apply"in ee?ee.call(Fa,f):ee(f)}function z(f){Pd.push(f)}function w(f){let q=Pd.length;for(;q--;)if(Pd[q]===f){Pd.splice(q,1);break}}function J(){return Pd}function M(f,q){return eg(f,q)}function ka(f){bf(f)}
+function xa(f,q){if(!ug||!vg)return"";f=new ug([f],{type:q});return vg(f)}function Ka(f,q){return wg?new wg(f,q):void 0}function Na(f){"function"===typeof f&&Tf.push(f)}function qb(){return Tf}function ub(){return se}function Ab(f){function q(...C){if("number"!==typeof C[0]||!Le[C[0]])try{return f.apply(this,C)}catch(S){return f(C[0])}}q[Kb]=f;return q}function nc(){return re}function Rc(){Ib=Sa;Fa.performance&&(Ic=()=>Math.round(Ib()+Da()));if(!Ic||isNaN(Ic())||0>=Ic()||!isFinite(Ic()))Ic=()=>(new Date).getTime()}
+function Zc(){Me&&(Fa.clearTimeout=ee,Fa.clearInterval=bf,Me=!1)}function ld(){var f=Ga(fa());f&&45===(null===f||void 0===f?void 0:f.length)||(f=Ba(fa())||kb(fa()),45!==(null===f||void 0===f?void 0:f.length)&&(xg=!0,f=Ic()+"",f+=oc(45-f.length)));Gd(f);return f}function Gd(f){let q;if(v("dpvc")||v("pVO"))tc(fa(),f);else{q=new Date;var C=q.getMonth()+Math.min(24,Math.max(1,t("rvcl")));q.setMonth(C);C=fa();ic(G,[C,f])}Wb(fa(),f,q,v("ssc"))}function ye(){return xg}function fg(f){const q=Ga(fa());Rb(fa());
+ib(fa());na(fa());L("pVO",!0);Gd(q);f&&ic(G,["dt-pVO","1"]);Jc()}function gg(){na("dt-pVO");v("pVO")&&(L("pVO",!1),ld());ib(fa());Jc()}function Df(f,q,C,S,V,Ja){const cb=document.createElement("script");cb.setAttribute("src",f);q&&cb.setAttribute("defer","defer");C&&(cb.onload=C);S&&(cb.onerror=S);V&&cb.setAttribute("id",V);if(f=Ja){var Qb;f=null!=(null===(Qb=document.currentScript)||void 0===Qb?void 0:Qb.attributes.getNamedItem("integrity"))}f&&cb.setAttribute("integrity",Ja);cb.setAttribute("crossorigin",
+"anonymous");Ja=document.getElementsByTagName("script")[0];Ja.parentElement.insertBefore(cb,Ja)}function Uf(f){return lh+"/"+ze+"_"+f+"_"+(t("buildNumber")||I().version)+".js"}function Og(){var f,q;try{null===(q=null===(f=Fa.MobileAgent)||void 0===f?void 0:f.incrementActionCount)||void 0===q||q.call(f)}catch(C){}}function Ef(){const f=Fa.dT_;Fa.dT_={di:0,version:"10309250310100759",cfg:f?f.cfg:"",iCE:f?Q:function(){return navigator.cookieEnabled},ica:1,disabled:!1,disabledReason:"",overloadPrevention:!1,
+gAST:ub,ww:Ka,stu:xa,nw:le,st:jd,si:M,aBPSL:z,rBPSL:w,gBPSL:J,aBPSCC:Na,gBPSCC:qb,buildType:"dynatrace",gSSV:kb,sSSV:tc,rSSV:ib,rvl:na,iVSC:cc,p3SC:wc,dC:Rb,sC:Wb,esc:ja,gSId:La,gDtc:da,gSC:zb,sSC:D,gC:va,cRN:Gc,cRS:oc,cfgO:Db,pCfg:nb,pCSAA:ob,cFHFAU:Ca,sCD:yb,bcv:v,ncv:t,scv:E,stcv:L,rplC:ca,cLSCK:$a,gFId:ad,gBAU:Uf,iS:Df,eWE:Qa,oEIEWA:ic,eA:Aa,dA:pb,iNV:ye,gVID:ld,dPV:fg,ePV:gg,sVIdUP:nd,sVTT:de,sVID:sd,rVID:Mc,gVI:sb,gNVIdN:vd,gARnVF:we,cAUV:ke,uVT:uc,aNVL:td,rNVL:Ad,gPC:Vc,cPC:H,sPC:Dd,clB:Zc,
+ct:m,aRI:wa,iXB:rb,gXBR:ha,sXBR:Ea,de:ma,iEC:Og,rnw:Da,gto:Va,ael:O,rel:K,sup:ia,cuel:ra,iAEPOO:fc,iSM:bb,gxwp:ua,iIO:X,prm:Z,cI:ka,gidi:nc,iDCV:Nb,gCF:Ga,gPSMB:rc,lvl:Ba,gCP:(null===f||void 0===f?0:f.platformPrefix)?function(){return f.platformPrefix||""}:void 0,platformCookieOffset:null===f||void 0===f?void 0:f.platformCookieOffset,tdto:Bc,gFLAI:ea,rACC:gb,gAN:U}}function ne(...f){Fa.console.log.apply(Fa.console,f)}this.dT_&&dT_.prm&&dT_.prm();var je="undefined"!==typeof window?window:self,Fa="undefined"!==
+typeof globalThis?globalThis:"undefined"!==typeof window?window:void 0,nf;(function(f){f[f.ENABLED=0]="ENABLED";f[f.DISABLED=1]="DISABLED";f[f.DELAYED=2]="DELAYED"})(nf||(nf={}));var yg;(function(f){f[f.BLOCKED_BY_PERCENTAGE=0]="BLOCKED_BY_PERCENTAGE";f[f.ENABLED=1]="ENABLED";f[f.BLOCKED=2]="BLOCKED"})(yg||(yg={}));var Ne;(function(f){f[f.NONE=1]="NONE";f[f.OFF=2]="OFF";f[f.PERFORMANCE=3]="PERFORMANCE";f[f.BEHAVIOR=4]="BEHAVIOR"})(Ne||(Ne={}));var zg;(function(f){f.OVERLOAD_PREVENTION="ol";f.PRIVACY_STATE=
+"prv";f.SERVER_ID="srv";f.SESSION_ID="sn"})(zg||(zg={}));var Ag;(function(f){f.DYNATRACE_MOBILE="dynatraceMobile";f.MOBILE_AGENT="MobileAgent"})(Ag||(Ag={}));var Bg;(function(f){f[f.ARRAY=0]="ARRAY";f[f.BOOLEAN=1]="BOOLEAN";f[f.NUMBER=2]="NUMBER";f[f.STRING=3]="STRING";f[f.FUNCTION=4]="FUNCTION";f[f.OBJECT=5]="OBJECT";f[f.DATE=6]="DATE";f[f.ERROR=7]="ERROR";f[f.ELEMENT=8]="ELEMENT";f[f.HTML_ELEMENT=9]="HTML_ELEMENT";f[f.HTML_IMAGE_ELEMENT=10]="HTML_IMAGE_ELEMENT";f[f.PERFORMANCE_ENTRY=11]="PERFORMANCE_ENTRY";
+f[f.PERFORMANCE_TIMING=12]="PERFORMANCE_TIMING";f[f.PERFORMANCE_RESOURCE_TIMING=13]="PERFORMANCE_RESOURCE_TIMING";f[f.PERFORMANCE_NAVIGATION_TIMING=14]="PERFORMANCE_NAVIGATION_TIMING";f[f.CSS_RULE=15]="CSS_RULE";f[f.CSS_STYLE_SHEET=16]="CSS_STYLE_SHEET";f[f.REQUEST=17]="REQUEST";f[f.RESPONSE=18]="RESPONSE";f[f.SET=19]="SET";f[f.MAP=20]="MAP";f[f.WORKER=21]="WORKER";f[f.XML_HTTP_REQUEST=22]="XML_HTTP_REQUEST";f[f.SVG_SCRIPT_ELEMENT=23]="SVG_SCRIPT_ELEMENT";f[f.HTML_META_ELEMENT=24]="HTML_META_ELEMENT";
+f[f.HTML_HEAD_ELEMENT=25]="HTML_HEAD_ELEMENT";f[f.ARRAY_BUFFER=26]="ARRAY_BUFFER";f[f.SHADOW_ROOT=27]="SHADOW_ROOT"})(Bg||(Bg={}));var r=-1,u=Ma("dtPC"),A=Ma("dtCookie"),R=Ma("rxvt"),fa=Ma("rxVisitor"),Oa=Ma("dTValidationCookie"),hb=Ma("dtSa"),Kb=Symbol.for("dt_2");Symbol.for("dt_3");var Lb,Ib,jc=setTimeout;oa.prototype["catch"]=function(f){return this.then(null,f)};oa.prototype.then=function(f,q){var C=new this.constructor(ab);la(this,new W(f,q,C));return C};oa.prototype["finally"]=function(f){var q=
+this.constructor;return this.then(function(C){return q.resolve(f()).then(function(){return C})},function(C){return q.resolve(f()).then(function(){return q.reject(C)})})};oa.all=function(f){return new oa(function(q,C){function S(Qb,Zb){try{if(Zb&&("object"===typeof Zb||"function"===typeof Zb)){var bd=Zb.then;if("function"===typeof bd){bd.call(Zb,function(wd){S(Qb,wd)},C);return}}V[Qb]=Zb;0===--Ja&&q(V)}catch(wd){C(wd)}}if(!f||"undefined"===typeof f.length)return C(new TypeError("Promise.all accepts an array"));
+var V=Array.prototype.slice.call(f);if(0===V.length)return q([]);for(var Ja=V.length,cb=0;cb<V.length;cb++)S(cb,V[cb])})};oa.allSettled=function(f){return new this(function(q,C){function S(cb,Qb){if(Qb&&("object"===typeof Qb||"function"===typeof Qb)){var Zb=Qb.then;if("function"===typeof Zb){Zb.call(Qb,function(bd){S(cb,bd)},function(bd){V[cb]={status:"rejected",reason:bd};0===--Ja&&q(V)});return}}V[cb]={status:"fulfilled",value:Qb};0===--Ja&&q(V)}if(!f||"undefined"===typeof f.length)return C(new TypeError(typeof f+
+" "+f+" is not iterable(cannot read property Symbol(Symbol.iterator))"));var V=Array.prototype.slice.call(f);if(0===V.length)return q([]);var Ja=V.length;for(C=0;C<V.length;C++)S(C,V[C])})};oa.resolve=function(f){return f&&"object"===typeof f&&f.constructor===oa?f:new oa(function(q){q(f)})};oa.reject=function(f){return new oa(function(q,C){C(f)})};oa.race=function(f){return new oa(function(q,C){if(!f||"undefined"===typeof f.length)return C(new TypeError("Promise.race accepts an array"));for(var S=
+0,V=f.length;S<V;S++)oa.resolve(f[S]).then(q,C)})};oa.Hb="function"===typeof setImmediate&&function(f){setImmediate(f)}||function(f){jc(f,0)};oa.pc=function(f){"undefined"!==typeof console&&console&&console.warn("Possible Unhandled Promise Rejection:",f)};var Dc=oa,xc;(function(f){f.ANCHOR="A";f.BUTTON="BUTTON";f.FORM="FORM";f.I_FRAME="IFRAME";f.IMAGE="IMG";f.INPUT="INPUT";f.LABEL="LABEL";f.LINK="LINK";f.OPTION="OPTION";f.SCRIPT="SCRIPT";f.SELECT="SELECT";f.STYLE="STYLE";f.TEXT_AREA="TEXTAREA"})(xc||
+(xc={}));var ec,mc,Qc,kf,Yd=Fa.Worker,Tc=Yd&&Yd.prototype.addEventListener,Yc=[],$e=["touchstart","touchend","scroll"],fd,Uc="abort getAllResponseHeaders getResponseHeader open overrideMimeType send setRequestHeader".split(" "),yd,rd={"!":"%21","~":"%7E","*":"%2A","(":"%28",")":"%29","'":"%27",$:"%24",";":"%3B",",":"%2C"},Zd,$d={l:"Lax",s:"Strict",n:"None"},Id,ae="[Dynatrace RUM JavaScript]",dg=/^[a-f0-9]{12,16}$/,Of,Pf="RuxitSynthetic",Je=32,Ff;(function(f){f.LAX="l";f.NONE="n";f.NOT_SET="0";f.STRICT=
+"s"})(Ff||(Ff={}));var Sd=Ma("rxvisitid"),Di=/c(\w+)=([^ ]+(?: (?!c?\w+=)[^( c)]+)*)/g,gc={},lf,Pg,Qf=!1,te,Cf=6E8,mf,Sf=[],Rf=[],zd,ue=0,be=/([A-Z]+)-([0-9]+)/,Jd=[],Ed,af,Ke=!1,ce,ve=!1,xe=32768,tg="app-3A",wg=Fa.Worker,ug=Fa.Blob,vg=Fa.URL&&Fa.URL.createObjectURL,ee,bf,me,eg,Me=!1,Pd,Tf=[],re=[],se,Td,Le={},Ic,xg=!1,mh,lh,ze;(function(){var f,q,C;if(!("documentMode"in document)||isNaN(document.documentMode)){var S=!(null===(f=navigator.userAgent)||void 0===f?0:f.includes("RuxitSynthetic"));if(!Fa.dT_||
+!Fa.dT_.cfg||"string"!==typeof Fa.dT_.cfg||"initialized"in Fa.dT_&&Fa.dT_.initialized)(null===(q=Fa.dT_)||void 0===q?0:q.gCP)?ne("[CookiePrefix/initCode] initCode with cookie prefix already initialized, not initializing initCode!"):ne("InitConfig not found or agent already initialized! This is an injection issue."),Fa.dT_&&(Fa.dT_.di=3);else if(S)try{Ef();Id={ade:"",aew:!0,apn:"",agentLocation:"",agentUri:"",app:"",ac:!0,async:!1,ase:!1,auto:!1,bp:3,bs:!1,buildNumber:0,csprv:!0,cepl:16E3,cls:!0,ccNcss:!1,
+coo:!1,cooO:!1,cssm:"0",cwtDomains:"",cwtUrl:"w2dax4xgw3",cwt:"",cors:!1,cuc:"",cce:!1,cux:!1,postfix:"",dataDtConfig:"",debugName:"",dvl:500,dASXH:!1,disableCookieManager:!1,dKAH:!1,disableLogging:!1,dmo:!1,doel:!1,dpch:!1,dpvc:!1,disableXhrFailures:!1,domain:"",domainOverride:"",domainOriginal:"",doNotDetect:"",ds:!0,dsndb:!1,dsa:!1,dsss:!1,dssv:!0,earxa:!0,eao:!1,exp:!1,eni:!0,etc:!1,expw:!1,instr:"",evl:"",fa:!1,fvdi:!1,featureHash:"",hvt:216E5,imm:!1,ign:"",iub:"",iqvn:!1,initializedModules:"",
+lastModification:0,lupr:!0,lab:!1,legacy:!1,lt:!0,mb:"",md:"",mdp:"",mdl:"",mcepsl:100,mdn:5E3,mhl:4E3,mpl:1024,mmds:2E4,msl:3E4,bismepl:2E3,mel:200,mepp:10,moa:30,mrt:3,ntd:!1,nsfnv:!1,ncw:!1,oat:180,ote:!1,owasp:!1,pcl:20,pt:!0,perfbv:1,prfSmpl:0,pVO:!1,peti:!1,raxeh:!0,rdnt:0,nosr:!0,reportUrl:"dynaTraceMonitor",rid:"",ridPath:"",rpid:"",rcdec:12096E5,rtl:0,rtp:2,rtt:1E3,rtu:200,rvcl:24,sl:100,ssc:!1,svNB:!1,srad:!0,srbbv:1,srbw:!0,srdinitrec:!0,srmr:100,srms:"1,1,,,",srsr:1E5,srtbv:3,srtd:1,srtr:500,
+srvr:"",srvi:0,srwo:!1,srre:"",srxcss:!0,srxicss:!0,srficros:!0,srmrc:!1,srsdom:!0,srfirrbv:!0,srcss:!0,srmcrl:1,srmcrv:10,st:3E3,spc:"",syntheticConfig:!1,tal:0,tt:100,tvc:3E3,uxdce:!1,uxdcw:1500,uxrgce:!0,uxrgcm:"100,25,300,3;100,25,300,3",uam:!1,uana:"data-dtname,data-dtName",uanpi:0,pui:!1,usrvd:!0,vrt:!1,vcfi:!0,vcsb:!1,vcit:1E3,vct:50,vcx:50,vscl:0,vncm:1,vrei:"",xb:"",chw:"",xt:0,xhb:""};var V;Z();var Ja;fd=Fa.XMLHttpRequest;const Kd=null===(Ja=Fa.XMLHttpRequest)||void 0===Ja?void 0:Ja.prototype;
+if(Kd){yd={};for(const Ec of Uc)void 0!==Kd[Ec]&&(yd[Ec]=Kd[Ec])}ec=Fa.addEventListener;mc=Fa.removeEventListener;Qc=Fa.document.addEventListener;kf=Fa.document.removeEventListener;me=Fa.setTimeout;eg=Fa.setInterval;Me||(ee=Fa.clearTimeout,bf=Fa.clearInterval);const pd=Q?Q():navigator.cookieEnabled,fe=1===wc(Ga("dtAdkSettings")||(null===(V=Td)||void 0===V?void 0:V.getItem("dtAdkSettings"))||"").overloadState;if(!(!pd||fe?0:"complete"!==document.readyState||Fa.performance&&Fa.performance.timing))throw Error("Error during initCode initialization");
+try{Td=Fa.localStorage}catch(Ec){}re=[];Rc();se=Ic();Pd=[];Le={};Me||(Fa.clearTimeout=Ab(ee),Fa.clearInterval=Ab(bf),Me=!0);const md=Math.random(),Hd=Math.random();Pg=0!==md&&0!==Hd&&md!==Hd;if(jb()){var cb=performance.getEntriesByType("navigation")[0];if(cb){f=0;for(var Qb in cb){const Ec=+cb[Qb];!isNaN(Ec)&&isFinite(Ec)&&(f+=Math.abs(Ec))}var Zb=Math.floor(1E4*f)}else Zb=Ic();lf=Sb(Zb)}else Pg?lf=Math.random:lf=Sb(Ic());te=se%Cf+"_"+parseInt(Gc(0,1E3)+"");a:{const Ec=I().cfg;gc={reportUrl:"dynaTraceMonitor",
+initializedModules:"",dataDtConfig:"string"===typeof Ec?Ec:""};I().cfg=gc;const Oe=gc.dataDtConfig;Oe&&!Oe.includes("#CONFIGSTRING")&&(ob(Oe,gc),ta("domain"),ta("auto"),ta("app"),Ca(gc));let hd=(gc.dataDtConfig||"").includes("#CONFIGSTRING")?null:gc;if(hd=Pb(document.currentScript,hd))for(const cd in hd)if(Object.prototype.hasOwnProperty.call(hd,cd)){cb=cd;Zb=gc;Qb=cb;var bd=hd[cb];"undefined"!==typeof bd&&(Zb[Qb]=bd)}const Gf=$a();try{const cd=(bd=Td)&&bd.getItem(Gf);if(cd){const of=nb(cd),ge=ob(of.config||
+""),Pe=gc.lastModification||"0",Sh=parseInt((ge.lastModification||of.lastModification||"0").substring(0,13)),nh="string"===typeof Pe?parseInt(Pe.substring(0,13)):Pe;if(!(Pe&&Sh<nh)&&(ge.agentUri=ge.agentUri||E("agentUri"),ge.featureHash=of.featureHash||E("featureHash"),ge.agentUri&&Ca(ge),yb(ge,!0),rb(ge),wa(ge),Sh>(+gc.lastModification||0))){const fj=v("auto"),Tj=v("legacy");gc=ca(ge);gc.auto=fj?"1":"0";gc.legacy=Tj?"1":"0"}}}catch(cd){}yb(gc);try{const cd=gc.ign;if(cd&&(new RegExp(cd)).test(Fa.location.href)){delete Fa.dT_;
+var wd=!1;break a}}catch(cd){}if(bb()){{var pf=navigator.userAgent;const of=pf.lastIndexOf(Pf);if(-1===of)var Ve={};else{var hg=pf.substring(of).matchAll(Di);if(hg){pf={};for(var Ud of hg){const [,ge,Pe]=Ud;pf[ge]=Pe}Ve=pf}else Ve={}}}Ud=Ve;let cd;for(cd in Ud)if(Object.prototype.hasOwnProperty.call(Ud,cd)&&Ud[cd]){Ve=gc;hg=cd;var Vf=Ud[cd];"undefined"!==typeof Vf&&(Ve[hg]=Vf)}ca(gc)}var Th=E("cuc"),Cg,ig;const cf=null===(ig=null===(Cg=Fa.dT_)||void 0===Cg?void 0:Cg.gCP)||void 0===ig?void 0:ig.call(Cg);
+if(Th&&cf&&Th!==cf)throw Error("platformPrefix and cuc do not match!");wd=!0}if(!wd)throw Error("Error during config initialization");Vb();mh=I().disabled;var xd;if(!(xd=E("agentLocation")))a:{const Ec=E("agentUri");if(Ec||document.currentScript){let hd=Ec||document.currentScript.src;if(hd){const Gf=hd.includes("_complete")?2:1;let cf=hd.lastIndexOf("/");for(wd=0;wd<Gf&&-1!==cf;wd++)hd=hd.substring(0,cf),cf=hd.lastIndexOf("/");xd=hd;break a}}const Oe=location.pathname;xd=Oe.substring(0,Oe.lastIndexOf("/"))}lh=
+xd;ze=U();"true"!==Ga("dtUseDebugAgent")||ze.includes("dbg")||(ze=E("debugName")||ze+"dbg");if(!v("auto")&&!v("legacy")&&!mh){const Ec=E("agentUri")||Uf(E("featureHash"));v("async")||"complete"===document.readyState?Df(Ec,v("async"),void 0,void 0,"dtjsagent"):(document.write(`<script id="${"dtjsagentdw"}" type="text/javascript" src="${Ec}" crossorigin="anonymous"><\/script>`),document.getElementById("dtjsagentdw")||Df(Ec,v("async"),void 0,void 0,"dtjsagent"))}Ga(A())&&L("cooO",!0);Wc();L("pVO",!!Ba("dt-pVO"));
+Qa(ld);Ed=18E5;af=t("hvt")||216E5;const qf=Bc();mf=void 0;qf&&"ea"in qf&&(mf=qf.gITAID());ic(H,[mf||1])}catch(Kd){"platformPrefix and cuc do not match!"===Kd.message?(xd=Fa.dT_,Fa.dT_={minAgentVersion:xd.minAgentVersion,platformPrefix:(null===(C=xd.gCP)||void 0===C?void 0:C.call(xd))||xd.platformPrefix,platformCookieOffset:xd.platformCookieOffset},ne("[CookiePrefix/initCode] cuc and platformPrefix do not match, disabling agent!")):(delete Fa.dT_,ne("JsAgent initCode initialization failed!",Kd))}}})()})();
+</script><script type="text/javascript" src="/ruxitagentjs_A7NVfghqrux_10309250310100759.js" defer="defer"></script><script type="text/javascript">/*
+ Copyright and licenses see https://www.dynatrace.com/company/trust-center/customers/reports/ */
+(function(){function Ma(){document.cookie="__dTCookie=1;SameSite=Lax";const Da=document.cookie.includes("__dTCookie");document.cookie="__dTCookie=1; expires=Thu, 01-Jan-1970 00:00:01 GMT";return Da}function Sa(){return void 0===Va.dialogArguments?navigator.cookieEnabled||Ma():Ma()}function eb(){if(Sa()){var Da=Va.dT_,Ta=null===Da||void 0===Da?void 0:Da.platformPrefix,va;if(va=!Da||Ta){var Ia;(va=null===Da||void 0===Da?void 0:Da.minAgentVersion)&&"10309250310100759"<`${va}`?(console.log("[CookiePrefix/initConfig] Min agent version detected, and javascript agent is older - the javascript agent will not be initialized!"),
+va=!1):(va=(null===(Ia=document.currentScript)||void 0===Ia?void 0:Ia.getAttribute("data-dtconfig"))||"app=5e4183b07b9fbcb4|cuc=qa4lllk7|mel=100000|expw=1|featureHash=A7NVfghqrux|dpvc=1|md=mdcc1=bwindow.adsk_waf_s.Q.Integrate.s.Integrate.s.eVar83,mdcc2=cidentity-sso|lastModification=1742949707799|xb=.*clicktale^bs..*|tp=500,50,0|rdnt=1|uxrgce=1|agentUri=/ruxitagentjs_A7NVfghqrux_10309250310100759.js|reportUrl=/rb_bf86358stq|auto=1|domain=autodesk.com|rid=RID_-1329250792|rpid=1981637693",Ta&&!va.includes(`cuc=${Ta}`)?(console.log(`[CookiePrefix/initConfig] value of platformPrefix [${Ta}] does not match the "cuc" value in the current config - initConfig will not initialize!`),va=!1):va=!0)}va&&(Da={cfg:"app=5e4183b07b9fbcb4|cuc=qa4lllk7|mel=100000|expw=1|featureHash=A7NVfghqrux|dpvc=1|md=mdcc1=bwindow.adsk_waf_s.Q.Integrate.s.Integrate.s.eVar83,mdcc2=cidentity-sso|lastModification=1742949707799|xb=.*clicktale^bs..*|tp=500,50,0|rdnt=1|uxrgce=1|agentUri=/ruxitagentjs_A7NVfghqrux_10309250310100759.js|reportUrl=/rb_bf86358stq|auto=1|domain=autodesk.com|rid=RID_-1329250792|rpid=1981637693",iCE:Sa,platformCookieOffset:null===
+Da||void 0===Da?void 0:Da.platformCookieOffset},Ta&&(Da.platformPrefix=Ta),Va.dT_=Da)}}this.dT_&&dT_.prm&&dT_.prm();var Va="undefined"!==typeof globalThis?globalThis:"undefined"!==typeof window?window:void 0;if(!("documentMode"in document)||isNaN(document.documentMode)){const Da=Va.dT_;!Da||!Da.cfg&&Da.platformPrefix?eb():Da.gCP||(Va.console.log("Duplicate agent injection detected, turning off redundant initConfig."),Da.di=1)}})();
+(function(){function Ma(f){var q;return function(){if(q)return q;var C,S,V,Ja,cb=-1!==r?r:(null===(S=null===(C=Fa.dT_)||void 0===C?void 0:C.scv)||void 0===S?void 0:S.call(C,"postfix"))||(null===(Ja=null===(V=Fa.dT_)||void 0===V?void 0:V.gCP)||void 0===Ja?void 0:Ja.call(V));return q=C=(r=cb)?"".concat(f).concat(cb):f}}function Sa(){var f=0;try{f=Math.round(Fa.performance.timeOrigin)}catch(q){}if(0>=f||isNaN(f)||!isFinite(f)){re.push({severity:"Warning",type:"ptoi",text:`performance.timeOrigin is invalid, with a value of [${f}]. Falling back to performance.timing.navigationStart`});
+f=0;try{f=Fa.performance.timing.navigationStart}catch(q){}f=0>=f||isNaN(f)||!isFinite(f)?se:f}Lb=f;Ib=eb;return Lb}function eb(){return Lb}function Va(){return Ib()}function Da(){var f;let q=0;if(null===(f=null===Fa||void 0===Fa?void 0:Fa.performance)||void 0===f?0:f.now)try{q=Math.round(Fa.performance.now())}catch(C){}return 0>=q||isNaN(q)||!isFinite(q)?(new Date).getTime()-Ib():q}function Ta(f,q){if(!q)return"";var C=f+"=";f=q.indexOf(C);if(0>f)return"";for(;0<=f;){if(0===f||" "===q.charAt(f-1)||
+";"===q.charAt(f-1))return C=f+C.length,f=q.indexOf(";",f),0<=f?q.substring(C,f):q.substring(C);f=q.indexOf(C,f+C.length)}return""}function va(f){return Ta(f,document.cookie)}function Ia(){}function Ga(f,q=document.cookie){return Ta(f,q)}function ab(){}function Za(f,q){return function(){f.apply(q,arguments)}}function oa(f){if(!(this instanceof oa))throw new TypeError("Promises must be constructed via new");if("function"!==typeof f)throw new TypeError("not a function");this.qa=0;this.mc=!1;this.va=
+void 0;this.La=[];pa(f,this)}function la(f,q){for(;3===f.qa;)f=f.va;0===f.qa?f.La.push(q):(f.mc=!0,oa.Hb(function(){var C=1===f.qa?q.ne:q.oe;if(null===C)(1===f.qa?aa:sa)(q.promise,f.va);else{try{var S=C(f.va)}catch(V){sa(q.promise,V);return}aa(q.promise,S)}}))}function aa(f,q){try{if(q===f)throw new TypeError("A promise cannot be resolved with itself.");if(q&&("object"===typeof q||"function"===typeof q)){var C=q.then;if(q instanceof oa){f.qa=3;f.va=q;Ra(f);return}if("function"===typeof C){pa(Za(C,
+q),f);return}}f.qa=1;f.va=q;Ra(f)}catch(S){sa(f,S)}}function sa(f,q){f.qa=2;f.va=q;Ra(f)}function Ra(f){2===f.qa&&0===f.La.length&&oa.Hb(function(){f.mc||oa.pc(f.va)});for(var q=0,C=f.La.length;q<C;q++)la(f,f.La[q]);f.La=null}function W(f,q,C){this.ne="function"===typeof f?f:null;this.oe="function"===typeof q?q:null;this.promise=C}function pa(f,q){var C=!1;try{f(function(S){C||(C=!0,aa(q,S))},function(S){C||(C=!0,sa(q,S))})}catch(S){C||(C=!0,sa(q,S))}}function Z(){Dc.Hb=function(f){if("string"===
+typeof f)throw Error("Promise polyfill called _immediateFn with string");f()};Dc.pc=()=>{};return Dc}function X(f,q=[]){var C;if(!f||"object"!==typeof f&&"function"!==typeof f)return!1;const S="number"!==typeof q?q:[];let V=null;const Ja=[];switch("number"===typeof q?q:5){case 1:V="Boolean";break;case 2:V="Number";break;case 3:V="String";break;case 4:V="Function";break;case 5:V="Object";break;case 6:V="Date";Ja.push("getTime");break;case 7:V="Error";Ja.push("name","message");break;case 8:V="Element";
+break;case 9:V="HTMLElement";break;case 10:V="HTMLImageElement";Ja.push("complete");break;case 11:V="PerformanceEntry";break;case 12:V="PerformanceTiming";break;case 13:V="PerformanceResourceTiming";break;case 14:V="PerformanceNavigationTiming";break;case 15:V="CSSRule";Ja.push("cssText","parentStyleSheet");break;case 16:V="CSSStyleSheet";Ja.push("cssRules","insertRule");break;case 17:V="Request";Ja.push("url");break;case 18:V="Response";Ja.push("ok","status","statusText");break;case 19:V="Set";Ja.push("add",
+"entries","forEach");break;case 20:V="Map";Ja.push("set","entries","forEach");break;case 21:V="Worker";Ja.push("addEventListener","postMessage","terminate");break;case 22:V="XMLHttpRequest";Ja.push("open","send","setRequestHeader");break;case 23:V="SVGScriptElement";Ja.push("ownerSVGElement","type");break;case 24:V="HTMLMetaElement";Ja.push("httpEquiv","content","name");break;case 25:V="HTMLHeadElement";break;case 26:V="ArrayBuffer";break;case 27:V="ShadowRoot",Ja.push("host","mode")}const {Of:cb,
+bg:Qb}={Of:V,bg:Ja};if(!cb)return!1;q=Qb.length?Qb:S;if(!S.length)try{if(Fa[cb]&&f instanceof Fa[cb]||Object.prototype.toString.call(f)==="[object "+cb+"]")return!0;if(f&&f.nodeType&&1===f.nodeType){const Zb=null===(C=f.ownerDocument.defaultView)||void 0===C?void 0:C[cb];if("function"===typeof Zb&&f instanceof Zb)return!0}}catch(Zb){}for(const Zb of q)if("string"!==typeof Zb&&"number"!==typeof Zb&&"symbol"!==typeof Zb||!(Zb in f))return!1;return!!q.length}function O(f,q,C,S){"undefined"===typeof S&&
+(S=ia(q,!0));"boolean"===typeof S&&(S=ia(q,S));f===Fa?ec&&ec(q,C,S):Yd&&X(f,21)?Tc.call(f,q,C,S):f.addEventListener&&(f===Fa.document||f===Fa.document.documentElement?Qc.call(f,q,C,S):ec.call(f,q,C,S));S=!1;for(let V=Yc.length;0<=--V;){const Ja=Yc[V];if(Ja.object===f&&Ja.event===q&&Ja.I===C){S=!0;break}}S||Yc.push({object:f,event:q,I:C})}function K(f,q,C,S){for(let V=Yc.length;0<=--V;){const Ja=Yc[V];if(Ja.object===f&&Ja.event===q&&Ja.I===C){Yc.splice(V,1);break}}"undefined"===typeof S&&(S=ia(q,!0));
+"boolean"===typeof S&&(S=ia(q,S));f===Fa?mc&&mc(q,C,S):f.removeEventListener&&(f===Fa.document||f===Fa.document.documentElement?kf.call(f,q,C,S):mc.call(f,q,C,S))}function ia(f,q){let C=!1;try{if(ec&&$e.includes(f)){const S=Object.defineProperty({},"passive",{get:function(){C=!0}});ec("test",Ia,S)}}catch(S){}return C?{passive:!0,capture:q}:q}function ra(){const f=Yc;for(let q=f.length;0<=--q;){const C=f[q];K(C.object,C.event,C.I)}Yc=[]}function Ua(f){return"function"===typeof f&&/{\s+\[native code]/.test(Function.prototype.toString.call(f))}
+function N(f,q,...C){return void 0!==Function.prototype.bind&&Ua(Function.prototype.bind)?Function.prototype.bind.call(f,q,...C):function(...S){return f.apply(q,(C||[]).concat(Array.prototype.slice.call(arguments)||[]))}}function ua(){if(fd){const f=new fd;if(yd)for(const q of Uc)void 0!==yd[q]&&(f[q]=N(yd[q],f));return f}return new Fa.XMLHttpRequest}function za(){document.cookie="__dTCookie=1;SameSite=Lax";const f=document.cookie.includes("__dTCookie");document.cookie="__dTCookie=1; expires=Thu, 01-Jan-1970 00:00:01 GMT";
+return f}function Q(){return void 0===Fa.dialogArguments?navigator.cookieEnabled||za():za()}function I(){return Fa.dT_}function ja(f){f=encodeURIComponent(f);const q=[];if(f)for(let C=0;C<f.length;C++){const S=f.charAt(C);q.push(rd[S]||S)}return q.join("")}function ma(f){f.includes("^")&&(f=f.split("^^").join("^"),f=f.split("^dq").join('"'),f=f.split("^rb").join(">"),f=f.split("^lb").join("<"),f=f.split("^p").join("|"),f=f.split("^e").join("="),f=f.split("^s").join(";"),f=f.split("^c").join(","),
+f=f.split("^bs").join("\\"));return f}function ha(){return Zd}function Ea(f){Zd=f}function wa(f){const q=E("rid"),C=E("rpid");q&&(f.rid=q);C&&(f.rpid=C)}function rb(f){if(f=f.xb){f=ma(f);try{Zd=new RegExp(f,"i")}catch(q){}}else Zd=void 0}function Pa(f){return"n"===f||"s"===f||"l"===f?`;SameSite=${$d[f]}`:""}function bc(f,q,C){let S=1,V=0;do document.cookie=f+'=""'+(q?";domain="+q:"")+";path="+C.substring(0,S)+"; expires=Thu, 01 Jan 1970 00:00:01 GMT;",S=C.indexOf("/",S),V++;while(-1!==S&&5>V)}function pc(){const f=
+(document.domain||location.hostname||"").split(".");return 1>=f.length?[]:f}function Xb(f,q){q=`dTValidationCookieValue;path=/;domain=${f}${Pa(q)}`;document.cookie=`${Oa()}=${q}`;return Ga(Oa())?(bc(Oa(),f,"/"),!0):!1}function U(){var f=je.dT_.scv("agentUri");if(!f)return"ruxitagentjs";f=f.substring(f.lastIndexOf("/")+1);return f.includes("_")?f.substring(0,f.indexOf("_")):f}function gb(f){v("eao")?Of=f:Fa.console.log(`${ae} App override configuration is not enabled! The provided app config callback method will not be invoked!`)}
+function rc(){if(Fa.MobileAgent||Fa.dynatraceMobile){const f=va("dtAdkSettings");return wc(f).privacyState||null}return null}function ic(f,q){return!fc()||I().overloadPrevention&&!bb()?null:f.apply(this,q)}function fc(){const f=rc();return 2===f||1===f?!1:!v("coo")||v("cooO")||bb()}function Cc(f,q){try{Fa.sessionStorage.setItem(f,q)}catch(C){}}function tc(f,q){ic(Cc,[f,q])}function kb(f){try{return Fa.sessionStorage.getItem(f)}catch(q){}return null}function ib(f){try{Fa.sessionStorage.removeItem(f)}catch(q){}}
+function Rb(f){document.cookie=f+'="";path=/'+(E("domain")?";domain="+E("domain"):"")+"; expires=Thu, 01 Jan 1970 00:00:01 GMT;"}function Jb(f,q,C,S){q||0===q?(q=(q+"").replace(/[;\n\r]/g,"_"),f=f+"="+q+";path=/"+(E("domain")?";domain="+E("domain"):""),C&&(f+=";expires="+C.toUTCString()),f+=Pa(E("cssm")),S&&"https:"===location.protocol&&(f+=";Secure"),document.cookie=f):Rb(f)}function Wb(f,q,C,S){ic(Jb,[f,q,C,S])}function cc(f){return f.includes("v_4")?!0:!1}function zb(f){f=Ga(A(),f);f||((f=kb(A()))&&
+cc(f)?D(f):f="");return cc(f)?f:""}function D(f){Wb(A(),f,void 0,v("ssc"))}function T(f){return(f=f||zb())?wc(f):{sessionId:"",serverId:"",overloadState:0,appState:{}}}function La(f){return T(f).serverId}function da(f){return T(f).sessionId}function bb(){return navigator.userAgent.includes(Pf)}function nb(f){const q={};f=f.split("|");for(const C of f)f=C.split("="),2===f.length&&(q[f[0]]=decodeURIComponent(f[1].replace(/\+/g," ")));return q}function $a(){const f=U();return(f.indexOf("dbg")===f.length-
+3?f.substring(0,f.length-3):f)+"_"+E("app")+"_Store"}function ob(f,q={},C){f=f.split("|");for(var S of f){var V=S;f=S.indexOf("=");-1===f?q[V]="1":(V=S.substring(0,f),q[V]=S.substring(f+1,S.length))}!C&&(C=q.spc)&&(S=document.createElement("textarea"),S.innerHTML=C,q.spc=S.value);return q}function y(f){var q;return null!==(q=gc[f])&&void 0!==q?q:Id[f]}function v(f){f=y(f);return"false"===f||"0"===f?!1:!!f}function t(f){var q=y(f);q=parseInt(q);isNaN(q)&&(q=Id[f]);return q}function E(f){if("app"===
+f){a:{try{if(Of){var q=Of();if(q&&"string"===typeof q&&dg.test(q)){var C=q;break a}Fa.console.log(`${ae} Registered app config callback method did not return a string in the correct app id format ${dg} The default app ID will be used instead! Got value: ${q}`)}}catch(S){Fa.console.log(`${ae} Failed to execute the registered app config callback method! The default app ID will be used instead!`,S)}C=void 0}if(C)return C}return(y(f)||"")+""}function L(f,q){gc[f]=q+""}function ca(f){return gc=f}function ta(f){const q=
+gc[f];q&&(gc[f]=q.includes("#"+f.toUpperCase())?"":q)}function Ca(f){var q=f.agentUri;(null===q||void 0===q?0:q.includes("_"))&&(q=/([a-zA-Z]*)[0-9]{0,4}_([a-zA-Z_0-9]*)_[0-9]+/g.exec(q))&&q.length&&2<q.length&&(f.featureHash=q[2])}function Bb(f){var q=I().platformCookieOffset;if("number"===typeof q){a:{var C=E("cssm");var S=pc();if(S.length)for(q=S.slice(q);q.length;){if(Xb(q.join("."),C)){C=q.join(".");break a}q.shift()}C=""}C&&(f.domain=C)}else if(C=f.domain||"",q=(q=location.hostname)&&C?q===
+C||q.includes("."+C,q.length-("."+C).length):!0,!C||!q){f.domainOverride||(f.domainOriginal=f.domain||"",f.domainOverride=`${location.hostname},${C}`,delete f.domain);a:{S=E("cssm");const Ja=pc().reverse();if(Ja.length){var V=Ja[0];for(let cb=1;cb<=Ja.length;cb++){if(Xb(V,S)){S=V;break a}const Qb=Ja[cb];Qb&&(V=`${Qb}.${V}`)}}S=""}S&&(f.domain=S);q||re.push({type:"dpi",severity:"Warning",text:`Configured domain "${C}" is invalid for current location "${location.hostname}". Agent will use "${f.domain}" instead.`})}}
+function yb(f,q){Bb(f);const C=gc.pVO;C&&(f.pVO=C);q||(f.bp=(f.bp||Id.bp)+"")}function Pb(f,q){if(null===f||void 0===f||!f.attributes)return q;let C=q;var S=f.attributes.getNamedItem("data-dtconfig");if(!S)return C;f=f.src;S=S.value;const V={};gc.legacy="1";var Ja=/([a-zA-Z]*)_([a-zA-Z_0-9]*)_([0-9]+)/g;f&&(Ja=Ja.exec(f),null===Ja||void 0===Ja?0:Ja.length)&&(V.agentUri=f,V.featureHash=Ja[2],V.agentLocation=f.substring(0,f.indexOf(Ja[1])-1),V.buildNumber=Ja[3]);S&&ob(S,V,!0);Bb(V);if(!q)C=V;else if(!V.syntheticConfig)return V;
+return C}function Db(){return gc}function Nb(f){return Id[f]===y(f)}function jb(){return navigator.userAgent.includes("Googlebot")||navigator.userAgent.includes("AdsBot-Google")}function Sb(f){let q=f;const C=Math.pow(2,32);return function(){q=(1664525*q+1013904223)%C;return q/C}}function Gc(f,q){return isNaN(f)||isNaN(q)?Math.floor(33*lf()):Math.floor(lf()*(q-f+1))+f}function oc(f){if(isNaN(f)||0>f)return"";var q=Fa.crypto;if(q&&!jb())q=q.getRandomValues(new Uint8Array(f));else{q=[];for(var C=0;C<
+f;C++)q.push(Gc(0,32))}f=Array(f);for(C=0;C<q.length;C++){const S=Math.abs(q[C]%32);f.push(String.fromCharCode(S+(9>=S?48:55)))}return f.join("")}function nd(f=!0){Qf=f}function ad(){return te}function Bc(){const f=Fa.dT_;try{let C=Fa.parent;for(;C&&C!==Fa;){const S=C.dT_;var q;if(q=!!(S&&"ea"in S)&&"10309250310100759"===S.version){const V=!f.bcv("ac")||f.scv("app")===S.scv("app"),Ja=f.scv("postfix"),cb=S.scv("postfix");q=V&&Ja===cb}if(q)return S.tdto();C=C!==C.parent?C.parent:void 0}}catch(C){}return f}
+function Lc(f,q="",C){var S=f.indexOf("h"),V=f.indexOf("v");const Ja=f.indexOf("e"),cb=f.substring(f.indexOf("$")+1,S);S=-1!==V?f.substring(S+1,V):f.substring(S+1);q||-1===V||(q=-1!==Ja?f.substring(V+1,Ja):f.substring(V+1));f=null;C||(C=parseInt(cb.split("_")[0]),V=Ic()%Cf,V<C&&(V+=Cf),C=C+9E5>V);C&&(f={frameId:cb,D:"-"===S?"-":parseInt(S),visitId:""});return{visitId:q,te:f}}function Dd(f,q,C){var S=t("pcl");S=f.length-S;0<S&&f.splice(0,S);S=La(Ga(A(),C));const V=[],Ja=S?`${S}$`:"";for(const cb of f)"-"!==
+cb.D&&V.push(`${Ja}${cb.frameId}h${cb.D}`);f=V.join("p");f||(Qf&&(Pc(!0,"a",C),nd(!1)),f+=`${S}$${te}h-`);f+=`v${q||sb(C)}`;q=f+"e0";Wb(u(),q,void 0,v("ssc"))}function Vc(f,q=document.cookie){var C=Ga(u(),q);q=[];if(C&&"-"!==C){var S=C.split("p");C="";for(const V of S)S=Lc(V,C,f),C=S.visitId,S.te&&q.push(S.te);for(const V of q)V.visitId=C}return q}function H(f,q){const C=document.cookie;q=Vc(q,C);let S=!1;for(const V of q)V.frameId===te&&(V.D=f,S=!0);S||q.push({frameId:te,D:f,visitId:""});Dd(q,void 0,
+C)}function ea(){return mf}function G(f,q){try{Fa.localStorage.setItem(f,q)}catch(C){}}function na(f){try{Fa.localStorage.removeItem(f)}catch(q){}}function Ba(f){try{return Fa.localStorage.getItem(f)}catch(q){}return null}function Qa(f,q=!1){fc()?f():q?Rf.push(f):Sf.push(f)}function Aa(){if(!v("coo")||fc())return!1;for(const f of Sf)jd(f,0);Sf=[];L("cooO",!0);for(const f of Rf)f();Rf.length=0;return!0}function pb(){if(!v("coo")||!fc())return!1;L("cooO",!1);Rb(A());Rb(u());Rb(hb());Rb("dtAdk");Rb(fa());
+Rb(R());try{ib(Sd()),ib(R()),na(Sd()),na(R()),ib(fa()),ib(A()),na($a()),na("dtAdk")}catch(f){}return!0}function tb(f,q=document.cookie||""){return q.split(f+"=").length-1}function fb(f,q){var C=tb(f,q);if(1<C){q=E("domain")||Fa.location.hostname;const S=Fa.location.hostname,V=Fa.location.pathname;let Ja=0,cb=0;zd.add(f);do{const Qb=S.substring(Ja);if(Qb!==q||"/"!==V){bc(f,Qb===q?"":Qb,V);const Zb=tb(f);Zb<C&&(zd.add(Qb),C=Zb)}Ja=S.indexOf(".",Ja)+1;cb++}while(0!==Ja&&10>cb&&1<C);E("domain")&&1<C&&
+bc(f,"",V)}}function Gb(){var f=document.cookie;fb(u(),f);fb(A(),f);fb(R(),f);f=zd.size;0<f&&f!==ue&&(ue=f,re.push({severity:"Error",type:"dcn",text:`Duplicate cookie name${1!==f?"s":""} detected: ${Array.from(zd).join(",")}`}))}function Vb(){zd=new Set;Gb();z(function(f,q,C,S){0===zd.size||q||(f.av(S,"dCN",Array.from(zd).join(",")),zd.clear(),ue=0)})}function sb(f){return Mc(f)||Pc(!0,"c",f)}function Mc(f){if(Nc(f)<=Ic())return Pc(!0,"t",f);const q=Nd(f);if(!q)return Pc(!0,"c",f);const C=be.exec(q);
+if(!C||3!==C.length||32!==C[1].length||isNaN(parseInt(C[2])))return Pc(!0,"i",f);tc(Sd(),q);return q}function uc(f,q){var C=Ic();q=od(q).Hc;f&&(q=C);Oc(C+Ed+"|"+q);kd()}function ud(f){const q="t"+(Ic()-Nc(f));Pc(!0,q,f)}function Nd(f){var q,C;return null!==(C=null===(q=Vc(!0,f)[0])||void 0===q?void 0:q.visitId)&&void 0!==C?C:kb(Sd())}function Ie(){let f=oc(Je);try{f=f.replace(/[0-9]/g,function(q){return String.fromCharCode(Math.floor(2.5*parseInt(q)+65))})}catch(q){throw X(q,7),q;}return f+"-0"}function sd(f,
+q){const C=Vc(!1,q);Dd(C,f,q);tc(Sd(),f);uc(!0)}function vd(f,q,C){return Pc(f,q,C)}function Pc(f,q,C){f&&(Ke=!0);f=Nd(C);C=Ie();sd(C);if(Nd(document.cookie))for(const S of Jd)S(C,Ke,q,f);return C}function td(f){Jd.push(f)}function Ad(f){f=Jd.indexOf(f);-1!==f&&Jd.splice(f)}function kd(f){ce&&m(ce);ce=jd(Od,Nc(f)-Ic())}function Od(){const f=document.cookie;if(Nc(f)<=Ic())return ic(ud,[f]),!0;Qa(kd);return!1}function Oc(f){const q=N(Wb,null,R(),f,void 0,v("ssc"));q();const C=Ga(R());""!==C&&f!==C&&
+(Gb(),q(),f===Ga(R())||ve||(re.push({severity:"Error",type:"dcn",text:"Could not sanitize cookies"}),ve=!0));tc(R(),f)}function Fd(f,q){(q=Ga(f,q))||(q=kb(f)||"");return q}function Jc(){var f=Mc()||"";tc(Sd(),f);f=Fd(R());Oc(f);na(Sd());na(R())}function od(f){const q={Gd:0,Hc:0};if(f=Fd(R(),f))try{const C=f.split("|");2===C.length&&(q.Gd=parseInt(C[0]),q.Hc=parseInt(C[1]))}catch(C){}return q}function Nc(f){f=od(f);return Math.min(f.Gd,f.Hc+af)}function de(f){Ed=f}function we(){const f=Ke;Ke=!1;return f}
+function ke(){Od()||uc(!1)}function Bd(){if(v("nsfnv")){var f=Ga(A());if(!f.includes("_srv_-")){const q=wc(f).serverId;f=f.replace(`${"_srv_"}${q}`,`${"_srv_"}${`${-1*Gc(2,xe)}`.replace("-","-2D")}`);D(f)}}}function Wc(){Qa(function(){if(!da()){const f=-1*Gc(2,xe),q=oc(Je);D(`v_4${"_srv_"}${`${f}`.replace("-","-2D")}_sn_${q}`)}},!0);td(Bd)}function wc(f){var q;const C={},S={sessionId:"",serverId:"",overloadState:0,appState:C};var V=f.split("_");if(2<V.length&&0===V.length%2){f=+V[1];if(isNaN(f)||
+3>f)return S;f={};for(var Ja=2;Ja<V.length;Ja++){const cb=V[Ja];cb.startsWith(tg)?C[cb.substring(6).toLowerCase()]=+V[Ja+1]:f[cb]=V[Ja+1];Ja++}f.sn?(V=f.sn,V=V.length===Je||12>=V.length?V:""):V="hybrid";S.sessionId=V;if(f.srv){a:{V=f.srv.replace("-2D","-");if(!isNaN(+V)&&(Ja=parseInt(V),Ja>=-xe&&Ja<=xe))break a;V=""}S.serverId=V}V=+f.ol;1===V&&gd(bb());0<=V&&2>=V&&(S.overloadState=V);f=+f.prv;isNaN(f)||(S.privacyState=1>f||4<f?1:f);f=null===(q=E("app"))||void 0===q?void 0:q.toLowerCase();q=C[f];isNaN(q)||
+0!==q||gd(bb())}return S}function gd(f){const q=I();f||(q.disabled=!0,q.overloadPrevention=!0)}function le(){return Ic()}function jd(f,q,...C){function S(){delete Le[V];f.apply(this,arguments)}let V;"apply"in me?(C.unshift(S,q),V=me.apply(Fa,C)):V=me(S,q);Le[V]=!0;return V}function m(f){delete Le[f];"apply"in ee?ee.call(Fa,f):ee(f)}function z(f){Pd.push(f)}function w(f){let q=Pd.length;for(;q--;)if(Pd[q]===f){Pd.splice(q,1);break}}function J(){return Pd}function M(f,q){return eg(f,q)}function ka(f){bf(f)}
+function xa(f,q){if(!ug||!vg)return"";f=new ug([f],{type:q});return vg(f)}function Ka(f,q){return wg?new wg(f,q):void 0}function Na(f){"function"===typeof f&&Tf.push(f)}function qb(){return Tf}function ub(){return se}function Ab(f){function q(...C){if("number"!==typeof C[0]||!Le[C[0]])try{return f.apply(this,C)}catch(S){return f(C[0])}}q[Kb]=f;return q}function nc(){return re}function Rc(){Ib=Sa;Fa.performance&&(Ic=()=>Math.round(Ib()+Da()));if(!Ic||isNaN(Ic())||0>=Ic()||!isFinite(Ic()))Ic=()=>(new Date).getTime()}
+function Zc(){Me&&(Fa.clearTimeout=ee,Fa.clearInterval=bf,Me=!1)}function ld(){var f=Ga(fa());f&&45===(null===f||void 0===f?void 0:f.length)||(f=Ba(fa())||kb(fa()),45!==(null===f||void 0===f?void 0:f.length)&&(xg=!0,f=Ic()+"",f+=oc(45-f.length)));Gd(f);return f}function Gd(f){let q;if(v("dpvc")||v("pVO"))tc(fa(),f);else{q=new Date;var C=q.getMonth()+Math.min(24,Math.max(1,t("rvcl")));q.setMonth(C);C=fa();ic(G,[C,f])}Wb(fa(),f,q,v("ssc"))}function ye(){return xg}function fg(f){const q=Ga(fa());Rb(fa());
+ib(fa());na(fa());L("pVO",!0);Gd(q);f&&ic(G,["dt-pVO","1"]);Jc()}function gg(){na("dt-pVO");v("pVO")&&(L("pVO",!1),ld());ib(fa());Jc()}function Df(f,q,C,S,V,Ja){const cb=document.createElement("script");cb.setAttribute("src",f);q&&cb.setAttribute("defer","defer");C&&(cb.onload=C);S&&(cb.onerror=S);V&&cb.setAttribute("id",V);if(f=Ja){var Qb;f=null!=(null===(Qb=document.currentScript)||void 0===Qb?void 0:Qb.attributes.getNamedItem("integrity"))}f&&cb.setAttribute("integrity",Ja);cb.setAttribute("crossorigin",
+"anonymous");Ja=document.getElementsByTagName("script")[0];Ja.parentElement.insertBefore(cb,Ja)}function Uf(f){return lh+"/"+ze+"_"+f+"_"+(t("buildNumber")||I().version)+".js"}function Og(){var f,q;try{null===(q=null===(f=Fa.MobileAgent)||void 0===f?void 0:f.incrementActionCount)||void 0===q||q.call(f)}catch(C){}}function Ef(){const f=Fa.dT_;Fa.dT_={di:0,version:"10309250310100759",cfg:f?f.cfg:"",iCE:f?Q:function(){return navigator.cookieEnabled},ica:1,disabled:!1,disabledReason:"",overloadPrevention:!1,
+gAST:ub,ww:Ka,stu:xa,nw:le,st:jd,si:M,aBPSL:z,rBPSL:w,gBPSL:J,aBPSCC:Na,gBPSCC:qb,buildType:"dynatrace",gSSV:kb,sSSV:tc,rSSV:ib,rvl:na,iVSC:cc,p3SC:wc,dC:Rb,sC:Wb,esc:ja,gSId:La,gDtc:da,gSC:zb,sSC:D,gC:va,cRN:Gc,cRS:oc,cfgO:Db,pCfg:nb,pCSAA:ob,cFHFAU:Ca,sCD:yb,bcv:v,ncv:t,scv:E,stcv:L,rplC:ca,cLSCK:$a,gFId:ad,gBAU:Uf,iS:Df,eWE:Qa,oEIEWA:ic,eA:Aa,dA:pb,iNV:ye,gVID:ld,dPV:fg,ePV:gg,sVIdUP:nd,sVTT:de,sVID:sd,rVID:Mc,gVI:sb,gNVIdN:vd,gARnVF:we,cAUV:ke,uVT:uc,aNVL:td,rNVL:Ad,gPC:Vc,cPC:H,sPC:Dd,clB:Zc,
+ct:m,aRI:wa,iXB:rb,gXBR:ha,sXBR:Ea,de:ma,iEC:Og,rnw:Da,gto:Va,ael:O,rel:K,sup:ia,cuel:ra,iAEPOO:fc,iSM:bb,gxwp:ua,iIO:X,prm:Z,cI:ka,gidi:nc,iDCV:Nb,gCF:Ga,gPSMB:rc,lvl:Ba,gCP:(null===f||void 0===f?0:f.platformPrefix)?function(){return f.platformPrefix||""}:void 0,platformCookieOffset:null===f||void 0===f?void 0:f.platformCookieOffset,tdto:Bc,gFLAI:ea,rACC:gb,gAN:U}}function ne(...f){Fa.console.log.apply(Fa.console,f)}this.dT_&&dT_.prm&&dT_.prm();var je="undefined"!==typeof window?window:self,Fa="undefined"!==
+typeof globalThis?globalThis:"undefined"!==typeof window?window:void 0,nf;(function(f){f[f.ENABLED=0]="ENABLED";f[f.DISABLED=1]="DISABLED";f[f.DELAYED=2]="DELAYED"})(nf||(nf={}));var yg;(function(f){f[f.BLOCKED_BY_PERCENTAGE=0]="BLOCKED_BY_PERCENTAGE";f[f.ENABLED=1]="ENABLED";f[f.BLOCKED=2]="BLOCKED"})(yg||(yg={}));var Ne;(function(f){f[f.NONE=1]="NONE";f[f.OFF=2]="OFF";f[f.PERFORMANCE=3]="PERFORMANCE";f[f.BEHAVIOR=4]="BEHAVIOR"})(Ne||(Ne={}));var zg;(function(f){f.OVERLOAD_PREVENTION="ol";f.PRIVACY_STATE=
+"prv";f.SERVER_ID="srv";f.SESSION_ID="sn"})(zg||(zg={}));var Ag;(function(f){f.DYNATRACE_MOBILE="dynatraceMobile";f.MOBILE_AGENT="MobileAgent"})(Ag||(Ag={}));var Bg;(function(f){f[f.ARRAY=0]="ARRAY";f[f.BOOLEAN=1]="BOOLEAN";f[f.NUMBER=2]="NUMBER";f[f.STRING=3]="STRING";f[f.FUNCTION=4]="FUNCTION";f[f.OBJECT=5]="OBJECT";f[f.DATE=6]="DATE";f[f.ERROR=7]="ERROR";f[f.ELEMENT=8]="ELEMENT";f[f.HTML_ELEMENT=9]="HTML_ELEMENT";f[f.HTML_IMAGE_ELEMENT=10]="HTML_IMAGE_ELEMENT";f[f.PERFORMANCE_ENTRY=11]="PERFORMANCE_ENTRY";
+f[f.PERFORMANCE_TIMING=12]="PERFORMANCE_TIMING";f[f.PERFORMANCE_RESOURCE_TIMING=13]="PERFORMANCE_RESOURCE_TIMING";f[f.PERFORMANCE_NAVIGATION_TIMING=14]="PERFORMANCE_NAVIGATION_TIMING";f[f.CSS_RULE=15]="CSS_RULE";f[f.CSS_STYLE_SHEET=16]="CSS_STYLE_SHEET";f[f.REQUEST=17]="REQUEST";f[f.RESPONSE=18]="RESPONSE";f[f.SET=19]="SET";f[f.MAP=20]="MAP";f[f.WORKER=21]="WORKER";f[f.XML_HTTP_REQUEST=22]="XML_HTTP_REQUEST";f[f.SVG_SCRIPT_ELEMENT=23]="SVG_SCRIPT_ELEMENT";f[f.HTML_META_ELEMENT=24]="HTML_META_ELEMENT";
+f[f.HTML_HEAD_ELEMENT=25]="HTML_HEAD_ELEMENT";f[f.ARRAY_BUFFER=26]="ARRAY_BUFFER";f[f.SHADOW_ROOT=27]="SHADOW_ROOT"})(Bg||(Bg={}));var r=-1,u=Ma("dtPC"),A=Ma("dtCookie"),R=Ma("rxvt"),fa=Ma("rxVisitor"),Oa=Ma("dTValidationCookie"),hb=Ma("dtSa"),Kb=Symbol.for("dt_2");Symbol.for("dt_3");var Lb,Ib,jc=setTimeout;oa.prototype["catch"]=function(f){return this.then(null,f)};oa.prototype.then=function(f,q){var C=new this.constructor(ab);la(this,new W(f,q,C));return C};oa.prototype["finally"]=function(f){var q=
+this.constructor;return this.then(function(C){return q.resolve(f()).then(function(){return C})},function(C){return q.resolve(f()).then(function(){return q.reject(C)})})};oa.all=function(f){return new oa(function(q,C){function S(Qb,Zb){try{if(Zb&&("object"===typeof Zb||"function"===typeof Zb)){var bd=Zb.then;if("function"===typeof bd){bd.call(Zb,function(wd){S(Qb,wd)},C);return}}V[Qb]=Zb;0===--Ja&&q(V)}catch(wd){C(wd)}}if(!f||"undefined"===typeof f.length)return C(new TypeError("Promise.all accepts an array"));
+var V=Array.prototype.slice.call(f);if(0===V.length)return q([]);for(var Ja=V.length,cb=0;cb<V.length;cb++)S(cb,V[cb])})};oa.allSettled=function(f){return new this(function(q,C){function S(cb,Qb){if(Qb&&("object"===typeof Qb||"function"===typeof Qb)){var Zb=Qb.then;if("function"===typeof Zb){Zb.call(Qb,function(bd){S(cb,bd)},function(bd){V[cb]={status:"rejected",reason:bd};0===--Ja&&q(V)});return}}V[cb]={status:"fulfilled",value:Qb};0===--Ja&&q(V)}if(!f||"undefined"===typeof f.length)return C(new TypeError(typeof f+
+" "+f+" is not iterable(cannot read property Symbol(Symbol.iterator))"));var V=Array.prototype.slice.call(f);if(0===V.length)return q([]);var Ja=V.length;for(C=0;C<V.length;C++)S(C,V[C])})};oa.resolve=function(f){return f&&"object"===typeof f&&f.constructor===oa?f:new oa(function(q){q(f)})};oa.reject=function(f){return new oa(function(q,C){C(f)})};oa.race=function(f){return new oa(function(q,C){if(!f||"undefined"===typeof f.length)return C(new TypeError("Promise.race accepts an array"));for(var S=
+0,V=f.length;S<V;S++)oa.resolve(f[S]).then(q,C)})};oa.Hb="function"===typeof setImmediate&&function(f){setImmediate(f)}||function(f){jc(f,0)};oa.pc=function(f){"undefined"!==typeof console&&console&&console.warn("Possible Unhandled Promise Rejection:",f)};var Dc=oa,xc;(function(f){f.ANCHOR="A";f.BUTTON="BUTTON";f.FORM="FORM";f.I_FRAME="IFRAME";f.IMAGE="IMG";f.INPUT="INPUT";f.LABEL="LABEL";f.LINK="LINK";f.OPTION="OPTION";f.SCRIPT="SCRIPT";f.SELECT="SELECT";f.STYLE="STYLE";f.TEXT_AREA="TEXTAREA"})(xc||
+(xc={}));var ec,mc,Qc,kf,Yd=Fa.Worker,Tc=Yd&&Yd.prototype.addEventListener,Yc=[],$e=["touchstart","touchend","scroll"],fd,Uc="abort getAllResponseHeaders getResponseHeader open overrideMimeType send setRequestHeader".split(" "),yd,rd={"!":"%21","~":"%7E","*":"%2A","(":"%28",")":"%29","'":"%27",$:"%24",";":"%3B",",":"%2C"},Zd,$d={l:"Lax",s:"Strict",n:"None"},Id,ae="[Dynatrace RUM JavaScript]",dg=/^[a-f0-9]{12,16}$/,Of,Pf="RuxitSynthetic",Je=32,Ff;(function(f){f.LAX="l";f.NONE="n";f.NOT_SET="0";f.STRICT=
+"s"})(Ff||(Ff={}));var Sd=Ma("rxvisitid"),Di=/c(\w+)=([^ ]+(?: (?!c?\w+=)[^( c)]+)*)/g,gc={},lf,Pg,Qf=!1,te,Cf=6E8,mf,Sf=[],Rf=[],zd,ue=0,be=/([A-Z]+)-([0-9]+)/,Jd=[],Ed,af,Ke=!1,ce,ve=!1,xe=32768,tg="app-3A",wg=Fa.Worker,ug=Fa.Blob,vg=Fa.URL&&Fa.URL.createObjectURL,ee,bf,me,eg,Me=!1,Pd,Tf=[],re=[],se,Td,Le={},Ic,xg=!1,mh,lh,ze;(function(){var f,q,C;if(!("documentMode"in document)||isNaN(document.documentMode)){var S=!(null===(f=navigator.userAgent)||void 0===f?0:f.includes("RuxitSynthetic"));if(!Fa.dT_||
+!Fa.dT_.cfg||"string"!==typeof Fa.dT_.cfg||"initialized"in Fa.dT_&&Fa.dT_.initialized)(null===(q=Fa.dT_)||void 0===q?0:q.gCP)?ne("[CookiePrefix/initCode] initCode with cookie prefix already initialized, not initializing initCode!"):ne("InitConfig not found or agent already initialized! This is an injection issue."),Fa.dT_&&(Fa.dT_.di=3);else if(S)try{Ef();Id={ade:"",aew:!0,apn:"",agentLocation:"",agentUri:"",app:"",ac:!0,async:!1,ase:!1,auto:!1,bp:3,bs:!1,buildNumber:0,csprv:!0,cepl:16E3,cls:!0,ccNcss:!1,
+coo:!1,cooO:!1,cssm:"0",cwtDomains:"",cwtUrl:"w2dax4xgw3",cwt:"",cors:!1,cuc:"",cce:!1,cux:!1,postfix:"",dataDtConfig:"",debugName:"",dvl:500,dASXH:!1,disableCookieManager:!1,dKAH:!1,disableLogging:!1,dmo:!1,doel:!1,dpch:!1,dpvc:!1,disableXhrFailures:!1,domain:"",domainOverride:"",domainOriginal:"",doNotDetect:"",ds:!0,dsndb:!1,dsa:!1,dsss:!1,dssv:!0,earxa:!0,eao:!1,exp:!1,eni:!0,etc:!1,expw:!1,instr:"",evl:"",fa:!1,fvdi:!1,featureHash:"",hvt:216E5,imm:!1,ign:"",iub:"",iqvn:!1,initializedModules:"",
+lastModification:0,lupr:!0,lab:!1,legacy:!1,lt:!0,mb:"",md:"",mdp:"",mdl:"",mcepsl:100,mdn:5E3,mhl:4E3,mpl:1024,mmds:2E4,msl:3E4,bismepl:2E3,mel:200,mepp:10,moa:30,mrt:3,ntd:!1,nsfnv:!1,ncw:!1,oat:180,ote:!1,owasp:!1,pcl:20,pt:!0,perfbv:1,prfSmpl:0,pVO:!1,peti:!1,raxeh:!0,rdnt:0,nosr:!0,reportUrl:"dynaTraceMonitor",rid:"",ridPath:"",rpid:"",rcdec:12096E5,rtl:0,rtp:2,rtt:1E3,rtu:200,rvcl:24,sl:100,ssc:!1,svNB:!1,srad:!0,srbbv:1,srbw:!0,srdinitrec:!0,srmr:100,srms:"1,1,,,",srsr:1E5,srtbv:3,srtd:1,srtr:500,
+srvr:"",srvi:0,srwo:!1,srre:"",srxcss:!0,srxicss:!0,srficros:!0,srmrc:!1,srsdom:!0,srfirrbv:!0,srcss:!0,srmcrl:1,srmcrv:10,st:3E3,spc:"",syntheticConfig:!1,tal:0,tt:100,tvc:3E3,uxdce:!1,uxdcw:1500,uxrgce:!0,uxrgcm:"100,25,300,3;100,25,300,3",uam:!1,uana:"data-dtname,data-dtName",uanpi:0,pui:!1,usrvd:!0,vrt:!1,vcfi:!0,vcsb:!1,vcit:1E3,vct:50,vcx:50,vscl:0,vncm:1,vrei:"",xb:"",chw:"",xt:0,xhb:""};var V;Z();var Ja;fd=Fa.XMLHttpRequest;const Kd=null===(Ja=Fa.XMLHttpRequest)||void 0===Ja?void 0:Ja.prototype;
+if(Kd){yd={};for(const Ec of Uc)void 0!==Kd[Ec]&&(yd[Ec]=Kd[Ec])}ec=Fa.addEventListener;mc=Fa.removeEventListener;Qc=Fa.document.addEventListener;kf=Fa.document.removeEventListener;me=Fa.setTimeout;eg=Fa.setInterval;Me||(ee=Fa.clearTimeout,bf=Fa.clearInterval);const pd=Q?Q():navigator.cookieEnabled,fe=1===wc(Ga("dtAdkSettings")||(null===(V=Td)||void 0===V?void 0:V.getItem("dtAdkSettings"))||"").overloadState;if(!(!pd||fe?0:"complete"!==document.readyState||Fa.performance&&Fa.performance.timing))throw Error("Error during initCode initialization");
+try{Td=Fa.localStorage}catch(Ec){}re=[];Rc();se=Ic();Pd=[];Le={};Me||(Fa.clearTimeout=Ab(ee),Fa.clearInterval=Ab(bf),Me=!0);const md=Math.random(),Hd=Math.random();Pg=0!==md&&0!==Hd&&md!==Hd;if(jb()){var cb=performance.getEntriesByType("navigation")[0];if(cb){f=0;for(var Qb in cb){const Ec=+cb[Qb];!isNaN(Ec)&&isFinite(Ec)&&(f+=Math.abs(Ec))}var Zb=Math.floor(1E4*f)}else Zb=Ic();lf=Sb(Zb)}else Pg?lf=Math.random:lf=Sb(Ic());te=se%Cf+"_"+parseInt(Gc(0,1E3)+"");a:{const Ec=I().cfg;gc={reportUrl:"dynaTraceMonitor",
+initializedModules:"",dataDtConfig:"string"===typeof Ec?Ec:""};I().cfg=gc;const Oe=gc.dataDtConfig;Oe&&!Oe.includes("#CONFIGSTRING")&&(ob(Oe,gc),ta("domain"),ta("auto"),ta("app"),Ca(gc));let hd=(gc.dataDtConfig||"").includes("#CONFIGSTRING")?null:gc;if(hd=Pb(document.currentScript,hd))for(const cd in hd)if(Object.prototype.hasOwnProperty.call(hd,cd)){cb=cd;Zb=gc;Qb=cb;var bd=hd[cb];"undefined"!==typeof bd&&(Zb[Qb]=bd)}const Gf=$a();try{const cd=(bd=Td)&&bd.getItem(Gf);if(cd){const of=nb(cd),ge=ob(of.config||
+""),Pe=gc.lastModification||"0",Sh=parseInt((ge.lastModification||of.lastModification||"0").substring(0,13)),nh="string"===typeof Pe?parseInt(Pe.substring(0,13)):Pe;if(!(Pe&&Sh<nh)&&(ge.agentUri=ge.agentUri||E("agentUri"),ge.featureHash=of.featureHash||E("featureHash"),ge.agentUri&&Ca(ge),yb(ge,!0),rb(ge),wa(ge),Sh>(+gc.lastModification||0))){const fj=v("auto"),Tj=v("legacy");gc=ca(ge);gc.auto=fj?"1":"0";gc.legacy=Tj?"1":"0"}}}catch(cd){}yb(gc);try{const cd=gc.ign;if(cd&&(new RegExp(cd)).test(Fa.location.href)){delete Fa.dT_;
+var wd=!1;break a}}catch(cd){}if(bb()){{var pf=navigator.userAgent;const of=pf.lastIndexOf(Pf);if(-1===of)var Ve={};else{var hg=pf.substring(of).matchAll(Di);if(hg){pf={};for(var Ud of hg){const [,ge,Pe]=Ud;pf[ge]=Pe}Ve=pf}else Ve={}}}Ud=Ve;let cd;for(cd in Ud)if(Object.prototype.hasOwnProperty.call(Ud,cd)&&Ud[cd]){Ve=gc;hg=cd;var Vf=Ud[cd];"undefined"!==typeof Vf&&(Ve[hg]=Vf)}ca(gc)}var Th=E("cuc"),Cg,ig;const cf=null===(ig=null===(Cg=Fa.dT_)||void 0===Cg?void 0:Cg.gCP)||void 0===ig?void 0:ig.call(Cg);
+if(Th&&cf&&Th!==cf)throw Error("platformPrefix and cuc do not match!");wd=!0}if(!wd)throw Error("Error during config initialization");Vb();mh=I().disabled;var xd;if(!(xd=E("agentLocation")))a:{const Ec=E("agentUri");if(Ec||document.currentScript){let hd=Ec||document.currentScript.src;if(hd){const Gf=hd.includes("_complete")?2:1;let cf=hd.lastIndexOf("/");for(wd=0;wd<Gf&&-1!==cf;wd++)hd=hd.substring(0,cf),cf=hd.lastIndexOf("/");xd=hd;break a}}const Oe=location.pathname;xd=Oe.substring(0,Oe.lastIndexOf("/"))}lh=
+xd;ze=U();"true"!==Ga("dtUseDebugAgent")||ze.includes("dbg")||(ze=E("debugName")||ze+"dbg");if(!v("auto")&&!v("legacy")&&!mh){const Ec=E("agentUri")||Uf(E("featureHash"));v("async")||"complete"===document.readyState?Df(Ec,v("async"),void 0,void 0,"dtjsagent"):(document.write(`<script id="${"dtjsagentdw"}" type="text/javascript" src="${Ec}" crossorigin="anonymous"><\/script>`),document.getElementById("dtjsagentdw")||Df(Ec,v("async"),void 0,void 0,"dtjsagent"))}Ga(A())&&L("cooO",!0);Wc();L("pVO",!!Ba("dt-pVO"));
+Qa(ld);Ed=18E5;af=t("hvt")||216E5;const qf=Bc();mf=void 0;qf&&"ea"in qf&&(mf=qf.gITAID());ic(H,[mf||1])}catch(Kd){"platformPrefix and cuc do not match!"===Kd.message?(xd=Fa.dT_,Fa.dT_={minAgentVersion:xd.minAgentVersion,platformPrefix:(null===(C=xd.gCP)||void 0===C?void 0:C.call(xd))||xd.platformPrefix,platformCookieOffset:xd.platformCookieOffset},ne("[CookiePrefix/initCode] cuc and platformPrefix do not match, disabling agent!")):(delete Fa.dT_,ne("JsAgent initCode initialization failed!",Kd))}}})()})();
+</script><script type="text/javascript" src="/ruxitagentjs_A7NVfghqrux_10309250310100759.js" defer="defer"></script><link rel="stylesheet" href="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/dotcom/clientlibs/clientlib-rosetta.min.css" type="text/css">
+
+
+
+
+  
+  <link rel="preconnect" href="https://swc.autodesk.com"/>
+  <link rel="preconnect" href="https://damassets.autodesk.net"/>
+  <link rel="preconnect" href="https://static-dc.autodesk.net"/>
+  <link rel="preconnect" href="https://tags.tiqcdn.com"/>
+
+  <link rel="preload" href="https://swc.autodesk.com/pharmacopeia/fonts/ArtifaktLegend/v1.0/WOFF2/Artifakt%20Legend%20Extra%20Bold.woff2" as="font" type="font/woff2" crossorigin/>
+
+  
+  
+    
+    
+  
+
+  
+  
+
+  
+  
+  <script type="text/javascript" data-uh="script" src="https://swc.autodesk.com/web-mfe/universal-header/v1/app.js" defer="defer"></script>
+
+  <meta name="keywords" content="Autodesk reseller, Autodesk partner locator"/>
+  
+  <meta name="description" content="Use the Autodesk Partner Locator to find Autodesk value added resellers, partner-developed solutions, implementation or support services and more."/>
+  <meta name="template" content="gen-fy21-page-standard"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+  
+  <meta itemprop="dateCreated" content="2021-01-25T18:38:59Z"/>
+  <meta itemprop="datePublished" content="2021-09-16T20:05:51Z"/>
+  <meta itemprop="dateModified" content="2021-09-15T17:41:53Z"/>
+  
+  <meta property="og:type" content="article"/>
+  <meta property="og:title" content="Partner Locator | Locate an Autodesk Reseller | Autodesk"/>
+  
+  <meta property="og:description" content="Use the Autodesk Partner Locator to find Autodesk value added resellers, partner-developed solutions, implementation or support services and more."/>
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="Partner Locator | Locate an Autodesk Reseller | Autodesk"/>
+  <meta name="twitter:description" content="Use the Autodesk Partner Locator to find Autodesk value added resellers, partner-developed solutions, implementation or support services and more."/>
+  
+  <meta name="twitter:site" content="@autodesk"/>
+  <meta name="twitter:creator" content="@autodesk"/>
+
+
+  
+  
+
+  
+  
+    <script type="text/javascript" name="cfpVendor" src="https://prd-cfp.autodesk.com/cfp-vendors/current/main.js" defer></script>
+    <script type="text/javascript" name="cfpCore" src="https://prd-cfp.autodesk.com/cfp-runtime/current/main.js" defer></script>
+  
+
+  
+    
+<script src="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/autodesk/clientlibs/clientlib-pageload-providers.min.js" defer></script>
+
+
+
+
+  
+  
+  
+
+  
+  <meta name="robots" content="noydir, noodp"/>
+
+  
+  <link rel="stylesheet" type="text/css" href="https://swc.autodesk.com/web-mfe/web-styles/rosetta/app.css"/>
+
+  
+  
+    <link rel="stylesheet" type="text/css" href="https://swc.autodesk.com/pharmacopeia/css/dhig2021/v0/dhig-global.css"/>
+  
+
+  
+  
+    <link rel="stylesheet" type="text/css" href="https://swc.autodesk.com/web-mfe/mfe-product-price/app.css"/>
+
+
+
+  
+  
+
+  
+  
+  
+  <link rel="icon" type="image/png" href="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/dotcom/clientlibs/clientlib-site/resources/images/favicons/app-icon-192.png" sizes="192x192"/>
+
+  <link rel="apple-touch-icon" type="image/png" href="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/dotcom/clientlibs/clientlib-site/resources/images/favicons/touch-icon-180.png"/>
+
+  
+  <link rel="icon" type="image/svg+xml" href="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/dotcom/clientlibs/clientlib-site/resources/images/favicons/favicon.svg"/>
+
+
+  
+  <script type="text/javascript">
+            (function() {
+                window.ContextHub = window.ContextHub || {};
+
+                /* setting paths */
+                ContextHub.Paths = ContextHub.Paths || {};
+                ContextHub.Paths.CONTEXTHUB_PATH = "/conf/autodesk/settings/cloudsettings/contexthub";
+                ContextHub.Paths.RESOURCE_PATH = "\/content\/autodesk\/asia\u002Dpacific\/en_IN\/partners\/locate\u002Da\u002Dreseller\/_jcr_content\/contexthub";
+                ContextHub.Paths.SEGMENTATION_PATH = "\/conf\/autodesk\/settings\/wcm\/segments";
+                ContextHub.Paths.CQ_CONTEXT_PATH = "";
+
+                /* setting initial constants */
+                ContextHub.Constants = ContextHub.Constants || {};
+                ContextHub.Constants.ANONYMOUS_HOME = "/home/users/5/5pL3nkmSL9fWV2JEeggb";
+                ContextHub.Constants.MODE = "no-ui";
+            }());
+        </script><script src="/etc/cloudsettings.kernel.js/conf/autodesk/settings/cloudsettings/contexthub" type="text/javascript" defer></script>
+
+
+  
+  
+    
+<script src="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/autodesk/clientlibs/clientlib-userprofile.min.js"></script>
+
+
+
+
+  
+    
+    
+
+    
+
+    <div id="adobeTargetPublishMode"></div>
+  
+
+  
+  
+
+<script type="text/javascript">
+    if ( !window.CQ_Analytics ) {
+        window.CQ_Analytics = {};
+    }
+    if ( !CQ_Analytics.TestTarget ) {
+        CQ_Analytics.TestTarget = {};
+    }
+    CQ_Analytics.TestTarget.clientCode = 'autodesk';
+    CQ_Analytics.TestTarget.currentPagePath = false ? '\/content\/autodesk\/asia\u002Dpacific\/en_IN\/partners\/locate\u002Da\u002Dreseller' : window.location.pathname;
+</script>
+<script src="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/cq/testandtarget/clientlibs/testandtarget/parameters.min.js"></script>
+<script src="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/clientlibs/granite/jquery.min.js"></script>
+<script src="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/cq/personalization/clientlib/personalization/integrations/commons.min.js"></script>
+<script src="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/cq/testandtarget/clientlibs/testandtarget/atjs-integration.min.js"></script>
+
+
+
+
+
+    
+<script src="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/dotcom/clientlibs/clientlib-dependencies.min.js" defer></script>
+
+
+
+
+    
+<link rel="stylesheet" href="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/dotcom/clientlibs/clientlib-dependencies.min.css" type="text/css">
+<link rel="stylesheet" href="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/dotcom/clientlibs/clientlib-base.min.css" type="text/css">
+<link rel="stylesheet" href="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/dotcom/clientlibs/clientlib-site.min.css" type="text/css">
+
+
+
+
+
+
+  <link rel="preload" href="/content/promotions/data/en-IN/promo.json" as="fetch" type="application/json" crossorigin="anonymous"/>
+</head>
+    <body class=" page basicpage" id="rosetta" data-forge-client="uWlmiJuqQqVaAQjGdojc8Qxit4KVdorZ">
+        
+        <div id="dhig-svg-container" style="display: none"></div>
+        
+        <mfe-tooltip id="mfe-tooltip"></mfe-tooltip>
+        
+        
+
+
+
+        <svg width="0" height="0" style="position:absolute">
+  <defs>
+    <svg viewBox="0 0 140 23" id="autodesk-logo" xmlns="http://www.w3.org/2000/svg">
+      <linearGradient id="aa" gradientUnits="userSpaceOnUse" x1="1.87" y1="19.5" x2="14.31" y2="14.81">
+        <stop offset="0" stop-color="#269c90"></stop>
+        <stop offset=".09" stop-color="#43aea4"></stop>
+        <stop offset=".18" stop-color="#58bbb2"></stop>
+        <stop offset=".27" stop-color="#65c3bb"></stop>
+        <stop offset=".35" stop-color="#69c6be"></stop>
+      </linearGradient>
+      <path d="M5.9 17.1H1.8c-1.5 0-1.9-1-1.6-1.8v.1c-.2.7.1 1 .3 1.5.7 1.4 2.9 5.4 2.9 5.4.2.5.6.7 1.2.7 1.2 0 3.2-1.3 3.2-1.3l7.4-4.6H5.9z" fill="url(#aa)"></path>
+      <linearGradient id="ab" gradientUnits="userSpaceOnUse" x1="2.26" y1="17.59" x2="9.61" y2=".94">
+        <stop offset="0" stop-color="#d6de23"></stop>
+        <stop offset="0" stop-color="#d5de23"></stop>
+        <stop offset=".4" stop-color="#7fb842"></stop>
+        <stop offset=".51" stop-color="#7bb742"></stop>
+        <stop offset=".61" stop-color="#70b343"></stop>
+        <stop offset=".71" stop-color="#5cae44"></stop>
+        <stop offset=".81" stop-color="#41a645"></stop>
+        <stop offset=".91" stop-color="#1e9c47"></stop>
+        <stop offset=".98" stop-color="#009348"></stop>
+      </linearGradient>
+      <path d="M7.4.1c-.8 0-1 .5-1.1.6L.2 15.2c-.3.8 0 1.9 1.6 1.9h4.1L10.6 6C9.3 3 8.4.8 8.4.8c-.1-.1-.3-.7-1-.7z" fill="url(#ab)"></path>
+      <linearGradient id="ac" gradientUnits="userSpaceOnUse" x1="10.52" y1=".02" x2="19.95" y2="23.1">
+        <stop offset="0" stop-color="#4dbeed"></stop>
+        <stop offset=".4" stop-color="#289fd9"></stop>
+        <stop offset=".78" stop-color="#0b86ca"></stop>
+        <stop offset="1" stop-color="#007dc4"></stop>
+      </linearGradient>
+      <path d="M14.8.6c-.1-.1-.3-.6-1-.6H7.4c-.7 0-.9.4-1 .5 0 0 .2-.5 1-.5.7 0 1 .6 1 .7 0 0 .9 2.2 2.2 5.2 2.8 6.6 7.2 17.1 7.2 17.1h6.5S14.9.8 14.8.6z" fill="url(#ac)"></path>
+      <path d="M42.6 17.1h-2.5l-1.4-3.2h-6.3L31 17.1h-2.4l5.9-13.4h2.2l5.9 13.4zm-7-10.6l-2.3 5.3h4.6l-2.3-5.3zm28.7 10.6h-2.4V6h-4.2V3.8h11L67.8 6h-3.5v11.1zM109.1 6H102v3.4h4.6v2.1H102V15h7.1v2.1h-9.5V3.8h9.5V6zm16.8 11.1h-2.2V3.8h2.2v13.3zm-9.5-11.4c-1.4 0-2.5.4-2.5 1.3 0 1.1.7 1.4 3.2 2.2 2.8.9 4.2 1.8 4.2 4.1 0 2.5-2 4-4.9 4-2 0-3.8-.7-5.2-1.9l.9-2.1c1.3 1.1 2.8 1.8 4.4 1.8 1.4 0 2.5-.7 2.5-1.7 0-.9-.5-1.4-2.9-2.2-2.8-.9-4.5-1.9-4.5-4.1 0-2.3 2.1-3.5 4.8-3.5 2.7 0 4.2 1 4.4 1.1l-.8 1.9c-.7-.3-1.8-.9-3.6-.9zm12.4 4.5l5.9-6.4h-2.8l-6 6.4 6.6 6.9h2.9zM75.9 3.6c-3.8 0-6.9 3.1-6.9 6.9 0 3.8 3.1 6.9 6.9 6.9 3.8 0 6.9-3.1 6.9-6.9 0-3.9-3.1-6.9-6.9-6.9zm0 11.6c-2.6 0-4.5-2.1-4.5-4.7s1.9-4.7 4.5-4.7 4.5 2.1 4.5 4.7-1.9 4.7-4.5 4.7zM90.3 3.8h-5.1v13.3h5.1c3.8 0 6.9-2.9 6.9-6.7 0-3.8-3.1-6.6-6.9-6.6zm0 11.2h-2.7V6h2.7c2.6 0 4.5 1.9 4.5 4.5.1 2.6-1.8 4.5-4.5 4.5zm-35.2-3.8c0 4-2.3 6.1-5.7 6.1-3.4 0-5.7-2.1-5.7-6.1V3.8H46v7.7c0 2.3 1.4 3.7 3.4 3.7s3.4-1.4 3.4-3.7V3.8h2.4v7.4z" fill="#231f20"></path>
+      <g fill="#231f20">
+        <path d="M139.9 15.4c0-.9-.8-1.7-1.7-1.7-.9 0-1.7.8-1.7 1.7 0 .9.8 1.7 1.7 1.7.9 0 1.7-.7 1.7-1.7zm-.3 0c0 .8-.6 1.5-1.4 1.5-.8 0-1.4-.6-1.4-1.5 0-.8.6-1.5 1.4-1.5.8.1 1.4.7 1.4 1.5z"></path>
+        <path d="M138.9 16.3l-.4-.6c-.1-.1-.1-.2-.2-.2.3 0 .5-.2.5-.5s-.2-.5-.5-.5h-.6v1.8h.3v-.8c.1 0 .2 0 .3.2l.4.6h.2zm-.4-1.3c0 .3-.2.3-.4.3h-.2v-.6h.3c.2 0 .3.2.3.3z"></path>
+      </g>
+    </svg>
+  </defs>
+</svg>
+
+        
+<div class="root responsivegrid">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="core-container aem-GridColumn aem-GridColumn--default--12">
+
+  
+  
+  
+  
+  <div id="container-3bd3572f48" class="cmp-container header-content fixed-header">
+    
+    <div class="mfe-universal-header"><div data-uh="container" data-uh-primarynav="false" data-minicart-enabled="false" data-dotcom-minicart-removal-enabled="true" data-uh-config="{&#34;scriptPath&#34;:&#34;https://swc.autodesk.com/web-mfe/universal-header/v1/app.js&#34;,&#34;property&#34;:&#34;dotcom&#34;,&#34;env&#34;:&#34;prd&#34;}" data-uh-searchparam="https://www.autodesk.com/in" data-uh-cart-configs="{&#34;cartConfigs&#34;:{&#34;IN_en&#34;:{&#34;specialTerms&#34;:[{&#34;Terms&#34;:[&#34;1-MONTH&#34;],&#34;cartLinkUrl&#34;:&#34;https://store.autodesk.com/store?Action=DisplayPage&amp;Locale=en_IN&amp;SiteID=adsk&amp;id=QuickBuyCartPage&#34;,&#34;cartCountUrl&#34;:&#34;https://store.autodesk.com/store/adsk/en_IN/DisplayDRCartSummary/Version.2/output.json/jsonp.define&#34;},{&#34;Terms&#34;:[&#34;1-YEAR&#34;,&#34;3-YEAR&#34;],&#34;cartLinkUrl&#34;:&#34;https://store.autodesk.com/store?Action=DisplayPage&amp;Locale=en_IN&amp;SiteID=adskin&amp;id=QuickBuyCartPage&#34;,&#34;cartCountUrl&#34;:&#34;https://store.autodesk.com/store/adskin/en_IN/DisplayDRCartSummary/Version.2/output.json/jsonp.define&#34;}],&#34;cartLinkUrl&#34;:&#34;https://store.autodesk.com/store?Action=DisplayPage&amp;Locale=en_IN&amp;SiteID=adsk&amp;id=QuickBuyCartPage&#34;,&#34;cartCountUrl&#34;:&#34;https://store.autodesk.com/store/adsk/en_IN/DisplayDRCartSummary/Version.2/output.json/jsonp.define&#34;}}}" id="mfe-uh-container" class="mfe-uh-container header"></div>
+</div>
+<div class="promotion-banner">
+<div data-locale="en-IN" class="promotions-placement__banner  "></div>
+</div>
+<div class="core-container">
+
+  
+  
+  
+  
+  <div id="container-5e369eeb7b" class="cmp-container  ">
+    
+    <div class="experiencefragment">
+<div id="experiencefragment-057e3a0963" class="cmp-experiencefragment cmp-experiencefragment--top_navigation" data-ef-variation-path="/content/experience-fragments/autodesk/en_in/partners/general/top_navigation/master" data-ef-all-variations="master">
+
+
+
+  
+
+
+
+<div class="xfpage-content-container">
+  
+  <div class="root responsivegrid">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="navigation aem-GridColumn aem-GridColumn--default--12"><div data-cmp-is="navigation" class="cmp-navigation top-nav-alternative  " id="navigation-15f2af46e4" data-cmp-navigation-layout="top-nav">
+
+  
+
+  
+
+  
+
+  
+    <div class="top-navigation" data-wat-link-section="topNav">
+
+        <div class="top-nav-title">
+          <div class="row">
+            <a class="local-navigation-name ">
+              PARTNERS
+            </a>
+            <a class="mobile nav-toggle" href="#">
+              <svg class="top-nav-arrow icon-svg-arrow-dropdown">
+                <use xlink:href="/content/dam/autodesk/icons.svg#icon-svg-arrow-dropdown"></use>
+              </svg>
+            </a>
+          </div>
+        </div>
+      
+  <ul class="cmp-navigation__list">
+    <li class="cmp-navigation__listitem" data-cmp-hook-navigation="item" data-name="item_2" data-resource-type="dotcom/components/navigation/link">
+      <div class="cmp-navigation__panel" data-cmp-hook-navigation="panel" id="navigation-15f2af46e4-item-01401403d4-panel"><div class="link">
+<a class="cmp-navigation-link   " id="link-d40823b595" href="/in/partners/overview" data-trial-trigger="trialdownloads-plc" data-link-type="default" data-wat-loc="TopNav" data-wat-val="overview" data-wat-link="true">
+  <span class="cmp-navigation-link__text">
+    
+     Overview
+  </span>
+</a>
+
+
+
+
+
+    
+
+</div>
+</div>
+    </li>
+<li class="cmp-navigation__listitem" data-cmp-hook-navigation="item" data-name="item_3" data-resource-type="dotcom/components/navigation/link">
+      <div class="cmp-navigation__panel" data-cmp-hook-navigation="panel" id="navigation-15f2af46e4-item-8e283b78a0-panel"><div class="link">
+<a class="cmp-navigation-link  active " id="link-a507489d68" href="/in/partners/locate-a-reseller" data-link-type="default" data-wat-loc="TopNav" data-wat-val=" Partner Locator" data-wat-link="true">
+  <span class="cmp-navigation-link__text">
+    
+    Partner Locator
+  </span>
+</a>
+
+
+
+
+
+    
+
+</div>
+</div>
+    </li>
+<li class="cmp-navigation__listitem" data-cmp-hook-navigation="item" data-name="item_1616173984843" data-resource-type="dotcom/components/navigation">
+      <div class="cmp-navigation__panel" data-cmp-hook-navigation="panel" id="navigation-15f2af46e4-item-8cfa2f8bf8-panel"><div class="navigation"><div data-cmp-is="navigation" class="cmp-navigation dropdown-nav  " id="navigation-7264d607bd" data-cmp-navigation-layout="dropdown-nav">
+
+  
+
+  
+
+  
+
+  
+
+  
+  <div class="dropdown-navigation">
+    <a class="cmp-navigation__dropdown-button" href="javascript:void(0);" data-cmp-hook-navigation="button" data-wat-val="Work with a Partner">
+      
+      <div>Work with a Partner</div>
+      <svg class="cta-button-arrow icon-svg-arrow-down" data-cmp-hook-navigation="arrow">
+        <use xlink:href="/content/dam/autodesk/icons.svg#icon-svg-arrow-down"></use>
+      </svg>
+    </a>
+
+    <div class="cmp-navigation__dropdown-contents" data-cmp-hook-navigation="dropdown">
+  <ul class="cmp-navigation__list">
+    <li class="cmp-navigation__listitem" data-cmp-hook-navigation="item" data-name="item_1616174609335" data-resource-type="dotcom/components/navigation/link">
+      <div class="cmp-navigation__panel" data-cmp-hook-navigation="panel" id="navigation-7264d607bd-item-0284746773-panel"><div class="link">
+<a class="cmp-navigation-link   " id="link-1efbec6b98" href="/in/partners/work-with-a-partner" data-link-type="default" data-wat-loc="TopNav" data-wat-val="Learn about Partners" data-wat-link="true">
+  <span class="cmp-navigation-link__text">
+    
+    Learn about Partners
+  </span>
+</a>
+
+
+
+
+
+    
+
+</div>
+</div>
+    </li>
+<li class="cmp-navigation__listitem" data-cmp-hook-navigation="item" data-name="item_1616174614540" data-resource-type="dotcom/components/navigation/link">
+      <div class="cmp-navigation__panel" data-cmp-hook-navigation="panel" id="navigation-7264d607bd-item-853ebded37-panel"><div class="link">
+<a class="cmp-navigation-link   " id="link-23406ca13e" href="/in/partners/industry-and-technology" data-link-type="default" data-wat-loc="TopNav" data-wat-val="Industry and Technology Partners" data-wat-link="true">
+  <span class="cmp-navigation-link__text">
+    
+    Industry and Technology Partners
+  </span>
+</a>
+
+
+
+
+
+    
+
+</div>
+</div>
+    </li>
+<li class="cmp-navigation__listitem" data-cmp-hook-navigation="item" data-name="item_1616174618272" data-resource-type="dotcom/components/navigation/link">
+      <div class="cmp-navigation__panel" data-cmp-hook-navigation="panel" id="navigation-7264d607bd-item-fcb32a6416-panel"><div class="link">
+<a class="cmp-navigation-link   " id="link-2b6d7c00bb" href="/in/partners/services" data-link-type="default" data-wat-loc="TopNav" data-wat-val="Services Partners" data-wat-link="true">
+  <span class="cmp-navigation-link__text">
+    
+    Services Partners
+  </span>
+</a>
+
+
+
+
+
+    
+
+</div>
+</div>
+    </li>
+<li class="cmp-navigation__listitem" data-cmp-hook-navigation="item" data-name="item_1628039209919" data-resource-type="dotcom/components/navigation/link">
+      <div class="cmp-navigation__panel" data-cmp-hook-navigation="panel" id="navigation-7264d607bd-item-a2ff41e7a6-panel"><div class="link">
+<a class="cmp-navigation-link   " id="link-91724632cd" href="https://www.autodesk.com/training-and-certification/overview" data-link-type="default" target="_blank" data-wat-loc="TopNav" data-wat-val="Training &amp; Certification Partners" data-wat-link="true">
+  <span class="cmp-navigation-link__text">
+    
+    Training & Certification Partners
+  </span>
+</a>
+
+
+
+
+
+    
+
+</div>
+</div>
+    </li>
+
+  </ul>
+</div>
+  </div>
+
+
+  
+</div>
+
+</div>
+</div>
+    </li>
+<li class="cmp-navigation__listitem" data-cmp-hook-navigation="item" data-name="item_1616173976323" data-resource-type="dotcom/components/navigation">
+      <div class="cmp-navigation__panel" data-cmp-hook-navigation="panel" id="navigation-15f2af46e4-item-3423e8d0a8-panel"><div class="navigation"><div data-cmp-is="navigation" class="cmp-navigation dropdown-nav  " id="navigation-75ea12ca1c" data-cmp-navigation-layout="dropdown-nav">
+
+  
+
+  
+
+  
+
+  
+
+  
+  <div class="dropdown-navigation">
+    <a class="cmp-navigation__dropdown-button" href="javascript:void(0);" data-cmp-hook-navigation="button" data-wat-val="Partner with Autodesk">
+      
+      <div>Partner with Autodesk</div>
+      <svg class="cta-button-arrow icon-svg-arrow-down" data-cmp-hook-navigation="arrow">
+        <use xlink:href="/content/dam/autodesk/icons.svg#icon-svg-arrow-down"></use>
+      </svg>
+    </a>
+
+    <div class="cmp-navigation__dropdown-contents" data-cmp-hook-navigation="dropdown">
+  <ul class="cmp-navigation__list">
+    <li class="cmp-navigation__listitem" data-cmp-hook-navigation="item" data-name="item_1616174055913" data-resource-type="dotcom/components/navigation/link">
+      <div class="cmp-navigation__panel" data-cmp-hook-navigation="panel" id="navigation-75ea12ca1c-item-ffd50ab8c1-panel"><div class="link">
+<a class="cmp-navigation-link   " id="link-14b3a149b3" href="/in/partners/partner-with-autodesk" data-link-type="default" data-wat-loc="TopNav" data-wat-val="Partner Programs" data-wat-link="true">
+  <span class="cmp-navigation-link__text">
+    
+    Partner Programmes
+  </span>
+</a>
+
+
+
+
+
+    
+
+</div>
+</div>
+    </li>
+<li class="cmp-navigation__listitem" data-cmp-hook-navigation="item" data-name="item_1616174059629" data-resource-type="dotcom/components/navigation/link">
+      <div class="cmp-navigation__panel" data-cmp-hook-navigation="panel" id="navigation-75ea12ca1c-item-6667298ae3-panel"><div class="link">
+<a class="cmp-navigation-link   " id="link-76c88c7527" href="/in/partners/technology" data-link-type="default" data-wat-loc="TopNav" data-wat-val="Technology Partners" data-wat-link="true">
+  <span class="cmp-navigation-link__text">
+    
+    Technology Partners
+  </span>
+</a>
+
+
+
+
+
+    
+
+</div>
+</div>
+    </li>
+<li class="cmp-navigation__listitem" data-cmp-hook-navigation="item" data-name="item_1616174063480" data-resource-type="dotcom/components/navigation/link">
+      <div class="cmp-navigation__panel" data-cmp-hook-navigation="panel" id="navigation-75ea12ca1c-item-34437c41ec-panel"><div class="link">
+<a class="cmp-navigation-link   " id="link-fcca9a310f" href="/in/partners/learning" data-link-type="default" data-wat-loc="TopNav" data-wat-val="Learning Partners" data-wat-link="true">
+  <span class="cmp-navigation-link__text">
+    
+    Learning Partners
+  </span>
+</a>
+
+
+
+
+
+    
+
+</div>
+</div>
+    </li>
+
+  </ul>
+</div>
+  </div>
+
+
+  
+</div>
+
+</div>
+</div>
+    </li>
+
+  </ul>
+
+    </div>
+
+
+  
+
+  
+</div>
+
+</div>
+
+    
+</div>
+</div>
+
+</div>
+
+
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+
+</div>
+
+    
+  </div>
+
+
+</div>
+<div class="core-container aem-GridColumn aem-GridColumn--default--12">
+
+  
+  
+  
+  
+  <div id="container-aad03e66fd" class="cmp-container body-content ">
+    
+    <div class="core-container">
+
+  
+  
+  
+  
+  <div id="container-55cbdf14b2" class="cmp-container  ">
+    
+    <div class="experiencefragment">
+<div id="experiencefragment-25cf7df5b9" class="cmp-experiencefragment cmp-experiencefragment--banner" data-ef-variation-path="/content/experience-fragments/autodesk/en_in/partners/locate_a_reseller/banner/master" data-ef-all-variations="master">
+
+
+
+  
+
+
+
+<div class="xfpage-content-container">
+  
+  <div class="root responsivegrid">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="core-container aem-GridColumn aem-GridColumn--default--12">
+
+  
+  
+  
+  
+  <div id="container-67433558f1" class="cmp-container wp-banner-style-flexible " style="background-image:url(https://damassets.autodesk.net/content/dam/autodesk/www/partners/locate-a-reseller-banner-1580x410.jpg);">
+    
+    <div class="core-container">
+
+  
+  
+  <div id="container-9f88011049" class="cmp-container wp-banner-grid wd-fl ">
+    
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--large--12 ">
+    
+    <div class="text aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--large--12">
+<div id="text-50eafa531b" class="cmp-text cmp-text-v2 ">
+  <p class="wd-font-24 wp-subhead">PARTNER LOCATOR</p>
+
+</div>
+
+    
+
+</div>
+<div class="title aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--large--12">
+<div class="cmp-title" id="title-e2469472dc">
+  <h1 class="cmp-title__text wd-normal wd-font-40">
+    AUTODESK AUTHORISED PARTNERS</h1>
+</div>
+
+    
+
+</div>
+<div class="text aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--large--12">
+<div id="text-89560d6103" class="cmp-text cmp-text-v2 ">
+  <p class="wd-font-20 wd-mt-20 wd-btw-1 wd-pt-20">Autodesk partner services can help you to address your unique business needs.</p>
+
+</div>
+
+    
+
+</div>
+
+    
+</div>
+
+  </div>
+
+  
+
+</div>
+
+    
+  </div>
+
+
+</div>
+
+    
+</div>
+</div>
+
+</div>
+
+
+
+</div>
+
+
+    
+
+</div>
+<div class="core-container">
+
+  
+  
+  
+  
+  <div id="container-635e8fa7f0" class="cmp-container wd-pv-64 ">
+    
+    <div class="core-container">
+
+  
+  
+  <div id="container-cd6a3d4e40" class="cmp-container wd-ph-20 wd-responsive-grid ">
+    
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-f0efe1c98f" class="cmp-experiencefragment cmp-experiencefragment--autodesk_authorized_partners" data-ef-variation-path="/content/experience-fragments/autodesk/en_in/partners/locate_a_reseller/autodesk_authorized_partners/master" data-ef-all-variations="master">
+
+
+
+  
+
+
+
+<div class="xfpage-content-container">
+  
+  <div class="root responsivegrid">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="core-container aem-GridColumn aem-GridColumn--default--12">
+
+  
+  
+  
+  
+  <div id="container-261a75e725" class="cmp-container  ">
+    
+    <div class="title">
+<div class="cmp-title" id="title-652f01fb97">
+  <h2 class="cmp-title__text wp-heading-large">
+    Autodesk Authorised Partners</h2>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div id="text-e9d343bee4" class="cmp-text cmp-text-v2 ">
+  <p class="wd-mt-8">Find a local partner that understands your unique business and industry needs. Use the Autodesk Partner Locator to find resellers, partner-developed solutions, implementation or support services and more.</p>
+
+</div>
+
+    
+
+</div>
+<div class="text">
+<div id="text-29638dc4fe" class="cmp-text cmp-text-v2 hide">
+  <p class="wd-mt-8"><a href="https://www.logicom-me.net/EN/Pages/Home.aspx">Contact</a> for Afghanistan, Iraq, Jordan, Lebanon, Palestine, Pakistan.</p>
+
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+
+</div>
+
+    
+</div>
+</div>
+
+</div>
+
+
+
+</div>
+
+
+    
+
+</div>
+
+    
+</div>
+
+  </div>
+
+  
+
+</div>
+
+    
+  </div>
+
+
+</div>
+<div class="core-container">
+
+  
+  
+  
+  
+  <div id="container-8a301d64f3" class="cmp-container wd-pv-64 ">
+    
+    <div class="core-container">
+
+  
+  
+  <div id="container-c6b088f390" class="cmp-container wd-ph-20 wd-responsive-grid ">
+    
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="core-container aem-GridColumn aem-GridColumn--default--12">
+
+  
+  
+  
+  
+  <div id="reseller-iframe" class="cmp-container  " data-wat-link="true" iframe-height="300" iframe-url="https://autodesk.secure.force.com/plocator/PLocatorBeta">
+    
+    
+    
+  </div>
+
+
+</div>
+
+    
+</div>
+
+  </div>
+
+  
+
+</div>
+
+    
+  </div>
+
+
+</div>
+
+    
+  </div>
+
+
+</div>
+
+    
+  </div>
+
+
+</div>
+<div class="core-container aem-GridColumn aem-GridColumn--default--12">
+
+  
+  
+  
+  
+  <div id="container-d8c2a83961" class="cmp-container footer-content ">
+    
+    <div class="core-container">
+
+  
+  
+  
+  
+  <div id="container-68fa6173d7" class="cmp-container  ">
+    
+    <div class="experiencefragment">
+<div id="experiencefragment-8dcea1f0dc" class="cmp-experiencefragment cmp-experiencefragment--universal-footer" data-ef-variation-path="/content/experience-fragments/autodesk/en_in/universal-footer/master" data-ef-all-variations="master">
+
+
+<div class="xfpage-content-container">
+  
+  <div class="root container responsivegrid">
+
+    
+    
+    
+    <div id="container-e4a443bff3" class="cmp-container">
+        
+        <div class="universal-footer"><div class="footer">
+    <link rel="stylesheet" href="https://swc-stg.autodesk.com/web-mfe/universal-footer/development/v1/app.css" defer type="text/css"/>
+    <div id="universal-footer-example" class="cmp-footer">
+      <div class="inner-footer dhig-theme--light">
+          <div class="cmp-mega-footer dhig-py-7" data-wat-link-section="megafooter">
+  <div class="page-container-wrapper">
+    <div class="page-container">
+      <div class="column-container dhig-grid sm:dhig-grid-cols-1 md:dhig-grid-cols-4 md:dhig-gap-3 lg:dhig-grid-cols-4 lg:dhig-gap-3">
+        <div class="column mega-footer-column-1-2 md:dhig-col-span-2 lg:dhig-col-span-2" data-wat-loc="autodesk">
+          <div class="dhig-grid sm:dhig-grid-cols-1 md:dhig-grid-cols-2 md:dhig-gap-3 lg:dhig-grid-cols-2 lg:dhig-gap-3">
+            <input type="checkbox"/>
+            <div class="mega-footer-column-1">
+              <div class="mega-footer-column__title">
+                <img class="mega-footer-column__title-image-arrow-right" src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/utility/caret-right.svg" alt=""/>
+                <img class="mega-footer-column__title-image-arrow-down" src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/utility/caret-down.svg" alt=""/>
+                <div>
+<div id="mega-footer-column-1-title" class="cmp-text dhig-typography-headline-small">
+  <div class="cmp-text-editable  cmp-text-editable_v2_see_more">
+    <p>Autodesk</p>
+    
+  </div>
+</div>
+
+
+    
+
+</div>
+              </div>
+              <div><div class="mega-footer-column" id="mega-footer-column-d658165c52">
+  
+  <div id="mega-footer-column-d658165c52-item-8ca991e48e" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="careers">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-careers" data-wat-loc="footer" data-wat-val="company overview" data-wat-link="true" href="https://www.autodesk.com/company">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Company overview (US Site)</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-d658165c52-item-0d2ef2fdab" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="company-overview">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-company-overview" data-wat-loc="footer" data-wat-val="careers" data-wat-link="true" href="https://www.autodesk.com/careers">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Careers (US Site)</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-d658165c52-item-8993f09567" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="investor-relations">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-investor-relations" data-wat-loc="footer" data-wat-val="investor relations" data-wat-link="true" target="_blank" href="https://investors.autodesk.com/">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Investor relations (US Site)</span>
+  <!-- Icon, right of the text -->
+  
+  <svg class="cmp-text-link__link-icon-right MuiSvgIcon-root DhigSvgIcon--size-- inline icon--default">
+    <use href="#dhig--icons--utility--external" xlink:href="#dhig--icons--utility--external"></use>
+  </svg>
+  
+
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-d658165c52-item-a5f045d801" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="newsroom">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-newsroom" data-wat-loc="footer" data-wat-val="newsroom" data-wat-link="true" target="_blank" href="https://blogs.autodesk.com/autodesk-news-India/?source=footer">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Newsroom</span>
+  <!-- Icon, right of the text -->
+  
+  <svg class="cmp-text-link__link-icon-right MuiSvgIcon-root DhigSvgIcon--size-- inline icon--default">
+    <use href="#dhig--icons--utility--external" xlink:href="#dhig--icons--utility--external"></use>
+  </svg>
+  
+
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-d658165c52-item-cba6e68ef1" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="diversity-belonging">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-diversity-belonging" data-wat-loc="footer" data-wat-val="diversity and belonging" data-wat-link="true" href="https://www.autodesk.com/company/diversity-and-belonging">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Diversity and belonging (US Site)</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-d658165c52-item-73144b4b32" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="text-link-small">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-text-link-small" data-wat-loc="footer" data-wat-val="la 28 games" data-wat-link="true" href="/in/la28-games">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">LA28 Games</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+
+</div>
+</div>
+              <div class="mega-footer-socials mega-footer-socials-desktop" aria-label="social media" tabindex="0">
+                <div>
+<div id="text-d433aeb7d3" class="cmp-text dhig-typography-body-copy-small">
+  <div class="cmp-text-editable  cmp-text-editable_v2_see_more">
+    <p></p><ul class="dhig-grid-cols-1 xl:dhig-list-item xl:dhig-space-y-4 md:dhig-flex md:dhig-gap-7">
+<li><a href="https://www.autodesk.com/social-media" class="social-media-link" data-wat-val="social media" title="social media"><img src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/social/facebook-circle.svg" alt=""/><img src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/social/instagram-circle.svg" alt="" style="letter-spacing: 0.0px;"/><img src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/social/twitter-circle.svg" alt="" style="letter-spacing: 0.0px;"/><img src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/social/linkedin-circle.svg" alt="" style="letter-spacing: 0.0px;"/><img src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/social/youtube.svg" alt="" style="letter-spacing: 0.0px;"/></a></li>
+</ul>
+<p></p>
+    
+  </div>
+</div>
+
+
+    
+
+</div>
+              </div>
+            </div>
+            <div class="mega-footer-column-2">
+              <div><div class="mega-footer-column" id="mega-footer-column-757b25689a">
+  
+  <div id="mega-footer-column-757b25689a-item-9b6e0876df" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="autodesk-foundation">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-autodesk-foundation" data-wat-loc="footer" data-wat-val="autodesk foundation" data-wat-link="true" target="_blank" href="https://www.autodesk.org/">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Autodesk Foundation (US Site)</span>
+  <!-- Icon, right of the text -->
+  
+  <svg class="cmp-text-link__link-icon-right MuiSvgIcon-root DhigSvgIcon--size-- inline icon--default">
+    <use href="#dhig--icons--utility--external" xlink:href="#dhig--icons--utility--external"></use>
+  </svg>
+  
+
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-757b25689a-item-9ca871b1dc" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="sustainability">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-sustainability" data-wat-loc="footer" data-wat-val="sustainability" data-wat-link="true" href="https://www.autodesk.com/in/sustainability/overview">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Sustainability</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-757b25689a-item-895a076469" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="contact-us">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-contact-us" data-wat-loc="footer" data-wat-val="contact us" data-wat-link="true" href="https://www.autodesk.com/in/company/contact-us">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Contact us</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-757b25689a-item-4e8dacbf3f" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="students-educators">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-students-educators" data-wat-val="students and educators" href="https://www.autodesk.com/education/home">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Students and educators (US Site)</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-757b25689a-item-3f736aa5a1" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="affiliate-program">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-affiliate-program" data-wat-loc="footer" data-wat-val="affiliate program" data-wat-link="true" href="https://www.autodesk.com/in/affiliate-program/overview">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Affiliate program</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-757b25689a-item-507a62c005" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="autodesk-research">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-autodesk-research" data-wat-loc="footer" data-wat-val="autodesk research" data-wat-link="true" target="_blank" href="https://www.research.autodesk.com/">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Autodesk Research</span>
+  <!-- Icon, right of the text -->
+  
+  <svg class="cmp-text-link__link-icon-right MuiSvgIcon-root DhigSvgIcon--size-- inline icon--default">
+    <use href="#dhig--icons--utility--external" xlink:href="#dhig--icons--utility--external"></use>
+  </svg>
+  
+
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-757b25689a-item-5cb0492c5b" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="autodesk-insights">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-autodesk-insights" data-wat-val="autodesk insights" data-wat-link="true" target="_blank" href="https://www.autodesk.com/insights">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Autodesk Insights (US Site)</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+
+</div>
+</div>
+            </div>
+          </div>
+        </div>
+        <div class="column mega-footer-column-3" data-wat-loc="how to buy">
+          <input type="checkbox"/>
+          <div class="mega-footer-column__title">
+            <img class="mega-footer-column__title-image-arrow-right" src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/utility/caret-right.svg" alt=""/>
+            <img class="mega-footer-column__title-image-arrow-down" src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/utility/caret-down.svg" alt=""/>
+            <div>
+<div id="mega-footer-column-3-title" class="cmp-text dhig-typography-headline-small">
+  <div class="cmp-text-editable  cmp-text-editable_v2_see_more">
+    <p>How to buy</p>
+
+    
+  </div>
+</div>
+
+
+    
+
+</div>
+          </div>
+          <div><div class="mega-footer-column" id="mega-footer-column-3735aab69b">
+  
+  <div id="mega-footer-column-3735aab69b-item-1af357bf1e" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="view-all-products">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-view-all-products" data-wat-val="view all products" href="https://www.autodesk.com/in/products">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">View all products</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-3735aab69b-item-26494483b7" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="buying-with-autodesk">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-buying-with-autodesk" data-wat-val="buying with autodesk" href="https://www.autodesk.com/in/benefits/overview">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Buying with Autodesk</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-3735aab69b-item-2f0d8e0290" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="renewal-options">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-renewal-options" data-wat-val="renewal options" href="https://www.autodesk.com/in/renewal">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Renewal options</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-3735aab69b-item-457a7c3a38" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="find-reseller">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-find-reseller" data-wat-val="find a reseller" href="https://www.autodesk.com/in/partners/locate-a-reseller">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Find a partner</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-3735aab69b-item-98576c0a7c" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="sales-refunds">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-sales-refunds" data-wat-val="sales and refunds" href="https://www.autodesk.com/in/customer/help">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Sales and refunds</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-3735aab69b-item-9c0fb59201" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="choose-subsciption">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-choose-subsciption" data-wat-val="choose your subscription plan" href="https://www.autodesk.com/in/plans">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Choose your subscription plan</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+
+</div>
+</div>
+
+        </div>
+        <div class="column mega-footer-column-4" data-wat-loc="support">
+          <input type="checkbox"/>
+          <div class="mega-footer-column__title">
+            <img class="mega-footer-column__title-image-arrow-right" src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/utility/caret-right.svg" alt=""/>
+            <img class="mega-footer-column__title-image-arrow-down" src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/utility/caret-down.svg" alt=""/>
+            <div>
+<div id="mega-footer-column-4-title" class="cmp-text dhig-typography-headline-small">
+  <div class="cmp-text-editable  cmp-text-editable_v2_see_more">
+    <p>Support</p>
+    
+  </div>
+</div>
+
+
+    
+
+</div>
+          </div>
+          <div><div class="mega-footer-column" id="mega-footer-column-86d449050e">
+  
+  <div id="mega-footer-column-86d449050e-item-4cac4b4c42" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="product-support">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-product-support" data-wat-val="product support" href="https://www.autodesk.com/in/support">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Product support</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-86d449050e-item-aa79630453" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="manage-account">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-manage-account" data-wat-val="manage your account" href="https://manage.autodesk.com">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Manage your account</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-86d449050e-item-b281073d6a" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="download-software">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-download-software" data-wat-val="download and install software" href="https://manage.autodesk.com/products">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Download and install software</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-86d449050e-item-e58831f94a" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="covid-resources">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-covid-resources" data-wat-val="covid-19 resources" href="https://www.autodesk.com/in/covid-19/resource-center">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">COVID-19 resources</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-86d449050e-item-6b63b5953c" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="education-support">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-education-support" data-wat-val="education support" href="https://www.autodesk.com/education/support">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Education support (US Site)</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+<div id="mega-footer-column-86d449050e-item-bf574c9177" class="mega-footer-column-item dhig-pb-3"><div class=" cmp-text-link dhig-typography-body-copy-small  " id="text-link-small">
+  
+  
+  <a class="cmp-text-link__link MuiTypography-root MuiLink-root MuiLink-underlineHover " id="link-text-link-small" data-wat-loc="footer" data-wat-val="Contact support" data-wat-link="true" href="https://www.autodesk.com/in/support/contact-support">
+     
+  <!-- Icon, left of the text -->
+  
+  <!-- Link text -->
+  <span class="cmp-text-link__link-text">Contact support</span>
+  <!-- Icon, right of the text -->
+  
+
+  </a>
+
+
+  
+  
+</div>
+
+</div>
+
+</div>
+</div>
+
+        </div>
+      </div>
+      <div class="mega-footer-socials mega-footer-socials-mobile" aria-label="social media" tabindex="0">
+        <div>
+<div id="text-d433aeb7d3" class="cmp-text dhig-typography-body-copy-small">
+  <div class="cmp-text-editable  cmp-text-editable_v2_see_more">
+    <p></p><ul class="dhig-grid-cols-1 xl:dhig-list-item xl:dhig-space-y-4 md:dhig-flex md:dhig-gap-7">
+<li><a href="https://www.autodesk.com/social-media" class="social-media-link" data-wat-val="social media" title="social media"><img src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/social/facebook-circle.svg" alt=""/><img src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/social/instagram-circle.svg" alt="" style="letter-spacing: 0.0px;"/><img src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/social/twitter-circle.svg" alt="" style="letter-spacing: 0.0px;"/><img src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/social/linkedin-circle.svg" alt="" style="letter-spacing: 0.0px;"/><img src="https://swc.autodesk.com/pharmacopeia/svg/icons/v0/icons/social/youtube.svg" alt="" style="letter-spacing: 0.0px;"/></a></li>
+</ul>
+<p></p>
+    
+  </div>
+</div>
+
+
+    
+
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+          <div class="cmp-legal-footer dhig-py-6" data-wat-link-section="legalfooter">
+  <div class="page-container-wrapper">
+    <div class="page-container dhig-flex">
+      <div>
+<div id="text-4d9069dbc5" class="cmp-text dhig-typography-body-copy-smaller">
+  <div class="cmp-text-editable  cmp-text-editable_v2_see_more">
+    <p><a data-wat-val="privacy" href="https://www.autodesk.com/company/legal-notices-trademarks/privacy-statement">Privacy</a> | <a data-wat-val="cookie preferences" data-opt-in-preferences="true">Cookie preferences</a> | <a data-wat-val="report noncompliance" href="https://www.autodesk.com/genuine/report-piracy">Report noncompliance</a> | <a data-wat-val="terms of use" href="https://www.autodesk.com/company/terms-of-use/en/general-terms" id="coral-id-689" class="MuiTypography-root MuiLink-root MuiLink-underlineHover">Terms of use</a> | <a data-wat-val="legal" href="https://www.autodesk.com/company/legal-notices-trademarks" class="MuiTypography-root MuiLink-root MuiLink-underlineHover">Legal (US Site)</a> | <span class="cmp-legal-footer__copyright">© 2025 Autodesk Inc. All rights reserved</span></p>
+
+    
+  </div>
+</div>
+
+
+    
+
+</div>
+    </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+</div>
+</div>
+
+        
+    </div>
+
+</div>
+
+</div>
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+
+</div>
+
+    
+  </div>
+
+
+</div>
+<div class="universal-help-module aem-GridColumn aem-GridColumn--default--12">
+    
+
+
+<script>
+    window.adskUniversalHelpOptions = {
+        language: "en_IN",
+        pageTitle: "locate\u002Da\u002Dreseller",
+        product: ""
+    };
+</script>
+</div>
+
+    
+</div>
+</div>
+
+
+        
+        <div style="display: none;">
+
+</div>
+        
+
+  
+  
+    
+<script src="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/core/wcm/components/commons/site/clientlibs/container.min.js" defer></script>
+<script src="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/dotcom/clientlibs/clientlib-base.min.js" defer></script>
+<script src="https://static-dc.autodesk.net/etc.clientlibs/v605.20250317.1413/dotcom/clientlibs/clientlib-site.min.js" defer></script>
+
+
+
+
+  
+  
+    <script type="text/javascript" src="https://swc.autodesk.com/web-mfe/mfe-product-price/app.js" defer></script>
+
+
+
+  
+  <script type="text/javascript" src="https://swc.autodesk.com/web-aem/small-scripts-and-styles/reseller-locator.js" defer></script>
+
+
+  
+  
+  <script type="text/javascript">
+    window.adsk = window.adsk || {};
+    adsk.webSDK = adsk.webSDK || {};
+    adsk.anyWherewebSDK = adsk.anyWherewebSDK || {};
+    adsk.webSDK.css="https:\/\/emsfs.autodesk.com\/utility\/dlm\/prod\/SDK\/3_34\/adsk.fxsdk.min.css";
+    adsk.webSDK.script="https:\/\/emsfs.autodesk.com\/utility\/dlm\/prod\/SDK\/3_34\/adsk.fxsdk.min.js";
+    adsk.webSDK.jquery="https:\/\/emsfs.autodesk.com\/utility\/dlm\/prod\/SDK\/3_34\/jqt\/jquery\u002Dui.min.1.9.1.js";
+    adsk.webSDK.isWebSDKDirectDownloadUrl = false;
+    adsk.anyWherewebSDK.script="https:\/\/emsfs.autodesk.com\/utility\/websdk\/1\/prd\/latest\/websdk.js";
+  </script>
+
+  
+  
+    <script type="text/javascript">
+      ((window.adsk = window.adsk || {}).api = window.adsk.api || {}).universalHelp = window.adsk.api.universalHelp || {};
+      window.adsk.api.universalHelp.scriptPath = "https:\/\/app.digital\u002Dhelp\u002Dprd.autodesk.com\/universal\u002Dhelp\/current\/uhm\u002Dprd.min.js";
+      window.adsk.api.universalHelp.enabled = "true";
+    </script>
+  
+
+  
+    <script type="text/javascript">
+      window.digitalData = JSON.parse('{"pageInstanceID":"prod","page":{"countryCode":"in","destinationURL":"https://www.autodesk.com/content/autodesk/asia-pacific/en_IN/partners/locate-a-reseller.html","languageCode":"en","pageName":"adsk:en_in:partners:locate-a-reseller","continentCode":"apac"},"version":{"versionNumber":"1.0"},"user":{"authSystem":"","oxygenGuid":"","loginStatus":""},"products":[]}');
+      if (digitalData && digitalData.hasOwnProperty('page') && digitalData.page.destinationURL) {
+        digitalData.page.destinationURL = document.URL;
+      }
+    </script>
+
+    
+
+    
+      <script type="text/javascript" name="tealiumAdobeVisitor:url" src="//tags.tiqcdn.com/utag/autodesk/lib-adobevisitorapi/prod/utag.sync.js"></script>
+      <script type="text/javascript" name="tealiumFooterSync:url" src="//tags.tiqcdn.com/utag/autodesk/lib-target/prod/utag.sync.js"></script>
+    
+
+    
+      
+        
+        <script type="text/javascript" name="tealium:url" src="//tags.tiqcdn.com/utag/autodesk/global-sites/prod/utag.js" defer></script>
+        
+      
+    
+
+    
+    
+      
+    
+  
+  
+
+        
+
+    </body>
+</html>

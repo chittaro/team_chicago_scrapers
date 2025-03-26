@@ -65,6 +65,7 @@ def get_partner_urls(company_name):
         print(f"\nRelevant URLs saved to {output_file}")
     else:
         print("No relevant URLs found.")
+    return urls
 
 if __name__ == "__main__":
     company = input("Enter company name: ")

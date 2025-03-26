@@ -1,0 +1,343 @@
+https://aps.autodesk.com/certified-partners
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+<head>
+  <meta name="google-site-verification" content="DHqJE-yOttplpf-zekDmZBkm1lqpHFI6e2t6pK9VUfs"/>
+  <meta charset="utf-8" />
+<meta name="description" content="Autodesk Platform Services Certified Partners are certified by Autodesk Experts so businesses can have help with innovating, building &amp; developing their solutions." />
+<link rel="canonical" href="https://aps.autodesk.com/certified-partners" />
+<link rel="shortlink" href="https://aps.autodesk.com/node/2402" />
+<meta property="og:site_name" content="Autodesk Platform Services" />
+<meta property="og:url" content="https://aps.autodesk.com/certified-partners" />
+<meta property="og:title" content="Certified Partners &amp; App Support" />
+<meta property="og:updated_time" content="2024-11-04T15:36:12-08:00" />
+<meta property="article:published_time" content="2022-09-13T16:43:40-07:00" />
+<meta property="article:modified_time" content="2024-11-04T15:36:12-08:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Certified Partners &amp; App Support" />
+<meta name="twitter:url" content="https://aps.autodesk.com/certified-partners" />
+<meta name="es:date" content="2024-11-04T15:36:12-08:00" />
+<meta name="es:boost" content="1" />
+<meta name="es:tags" content="" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/forge/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://aps.autodesk.com/certified-partners" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    <title>Certified Partners | Autodesk Platform Services (formerly Forge)</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_YpLI3fMzfSMk3mhYb0YZX91NKbbjGBaZ5yrhGrGt32E.css?delta=0&amp;language=en&amp;theme=forge&amp;include=eJxNjmsOwyAMgy_E4EhVWFxA4iUCndjph7pW2x_rS-xYIeZeKE9DF-i9ldzVM5LINJYENyeIkIPccy68vCWSQ63o5o-19BmhXeh-2BVqWPGWKIY31F6ag-ke6eKNfXDrPNWSkbuoSo1co-rFcBuVov5t9Mh12BjEg5VM6UjfN4_AKBuSBW97QGTTIKtRwoHHaa4IXmJO1anwiPgALVxkLw" />
+<link rel="stylesheet" media="all" href="//swc.autodesk.com/pharmacopeia/svg/v0/icons.svg" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Cpqv8y8rcHKbxYUQAsPhgMX4mAArtQzW-m4vyS_74Y0.css?delta=2&amp;language=en&amp;theme=forge&amp;include=eJxNjmsOwyAMgy_E4EhVWFxA4iUCndjph7pW2x_rS-xYIeZeKE9DF-i9ldzVM5LINJYENyeIkIPccy68vCWSQ63o5o-19BmhXeh-2BVqWPGWKIY31F6ag-ke6eKNfXDrPNWSkbuoSo1co-rFcBuVov5t9Mh12BjEg5VM6UjfN4_AKBuSBW97QGTTIKtRwoHHaa4IXmJO1anwiPgALVxkLw" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_gYwHrI5QGhGlFpgjs2F9J_5iy7tn1wo6wE6Ir37TsuQ.css?delta=3&amp;language=en&amp;theme=forge&amp;include=eJxNjmsOwyAMgy_E4EhVWFxA4iUCndjph7pW2x_rS-xYIeZeKE9DF-i9ldzVM5LINJYENyeIkIPccy68vCWSQ63o5o-19BmhXeh-2BVqWPGWKIY31F6ag-ke6eKNfXDrPNWSkbuoSo1co-rFcBuVov5t9Mh12BjEg5VM6UjfN4_AKBuSBW97QGTTIKtRwoHHaa4IXmJO1anwiPgALVxkLw" />
+
+      
+        </head>
+<body class="path-node page-node-type-content-page">
+<a href="#main-content" class="visually-hidden focusable skip-link">
+  Skip to main content
+</a>
+
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+  <div id="app-navbar"></div>
+
+  
+  
+
+  <main id="app-main" role="main" class="">
+    <a id="main-content" tabindex="-1"></a>
+
+          <div class="page__pre-content">
+          <div class="region region-pre-content">
+    <div class="views-element-container block block-views block-views-blockalerts-block-1" id="block-forge-views-block-alerts-block-1">
+  
+    
+      <div><div class="view view-alerts view-id-alerts view-display-id-block_1 js-view-dom-id-3f5164ca8203588e6806f2811ea08c7c626c7fc7bfe8fd912377a1ab28b5508e">
+  
+    
+      
+  
+          </div>
+</div>
+
+  </div>
+<div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+      </div>
+    
+    <div class="page__content">
+        <div class="region region-content">
+    
+
+<article class="node node__content-page view-mode__full has-layout">
+  <div class="node__content">
+    
+<div class="field field--name-field-layout-content field--type-entity-reference-revisions field--label-hidden field__items">
+        <div class="paragraph paragraph--type--simple-banner view-mode__default palette--dark has-share">
+          <div class="dhig__component" data-react-id="paragraph__f7d1e2b8-b63b-4114-a39b-b8eac104d924"></div>
+              <div class="share__static constrain">
+        <div class="block-share">
+  <p>Share</p>
+  <div class="a2a_kit a2a_kit_size_30 addtoany_list" data-a2a-url="https://aps.autodesk.com/certified-partners"
+         data-a2a-title="Certified Partners &amp; App Support"><a class="a2a_button_linkedin"></a><a class="a2a_button_facebook"></a><a class="a2a_button_twitter"></a></div></div>
+
+      </div>
+      </div>
+
+      
+
+  <div class="paragraph paragraph--section paragraph--type--simple-section palette--light background--default padding-bottom--default" data-section-id="section__d7bcee04-e4ec-42ec-8972-4cc08a8476c7">
+    <div class="layout">
+                  <div  class="layout--6-6 constrain dhig-grid md:dhig-grid-cols-2 dhig-grid-cols-1">
+  <div  class="column column-1">
+      <div class="paragraph paragraph--type--simple-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h2>Get professional services from Certified Partners</h2>
+
+<p>Develop and deploy APS-powered applications, software integrations, and more custom solutions with Autodesk Platform Services Certified Partners – trusted industry experts, approved by Autodesk.</p>
+
+<p><a class="button" href="https://aps.autodesk.com/certified-partners-list">Get help</a></p></div>
+      
+      </div>
+
+  </div>
+  <div  class="column column-2">
+    <div class="paragraph paragraph--type--simple-image">
+  <img src="/sites/default/files/styles/paragraph_image/public/2021-08/cropped-1626721809.jpeg?itok=xPO0ZDkl" alt="Meet a system integrator" style="width:;"/>
+</div>
+
+  </div>
+</div>
+
+    </div>
+  </div>
+
+      
+
+  <div class="paragraph paragraph--section paragraph--type--simple-section palette--light background--gray-light padding-bottom--default" data-section-id="section__b7bdda68-216f-4bf3-9ece-f49b8df9e7d4">
+    <div class="layout">
+                  <div  class="layout--6-6 constrain dhig-grid md:dhig-grid-cols-2 dhig-grid-cols-1">
+  <div  class="column column-1">
+    <div class="paragraph paragraph--type--simple-image">
+  <img src="/sites/default/files/styles/paragraph_image/public/2021-08/cropped-1623355110.jpeg?itok=FSFoLUSU" alt="Systems Integrators have experience" style="width:;"/>
+</div>
+
+  </div>
+  <div  class="column column-2">
+      <div class="paragraph paragraph--type--simple-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h2>How can Autodesk Platform Services Certified Partners help you?</h2>
+
+<p>APS Certified Partners have experience in the AEC, design and manufacturing, and media &amp; entertainment industries. They specialize in:</p>
+
+<ul>
+	<li>Application development</li>
+	<li>Custom software applications</li>
+	<li>Existing software integrations</li>
+</ul>
+
+<p>Certified Partners carry a variety of certifications and are often active in affiliations like the Autodesk Developer Network and Autodesk Partner Programs.</p></div>
+      
+      </div>
+
+  </div>
+</div>
+
+    </div>
+  </div>
+
+      
+
+  <div class="paragraph paragraph--section paragraph--type--simple-section palette--light background--default padding-bottom--default" data-section-id="section__f5561b3a-6252-419e-80fd-078236956fe9">
+    <div class="layout">
+                  <div  class="layout--12-4-4-4 constrain dhig-grid md:dhig-grid-cols-3 dhig-grid-cols-1">
+  <div  class="column column-1 md:dhig-col-span-3">
+      <div class="paragraph paragraph--type--simple-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h2>See how APS Certified Partners are solving customer challenges</h2>
+
+<p><a class="link__arrow" href="/customers?sort=integrator">View all APS Certified Partner Success Stories</a>.</p></div>
+      
+      </div>
+
+  </div>
+  <div  class="column column-2">
+      <div class="paragraph paragraph--type--simple-card view-mode__default">
+          <div class="dhig__component" data-react-id="paragraph__02d80504-c474-4032-be16-aef3f27794eb"></div>
+          </div>
+
+  </div>
+  <div  class="column column-3">
+      <div class="paragraph paragraph--type--simple-card view-mode__default">
+          <div class="dhig__component" data-react-id="paragraph__5f8dc5b7-9927-4b42-8ce7-b8c8e33ea6a3"></div>
+          </div>
+
+  </div>
+  <div  class="column column-4">
+      <div class="paragraph paragraph--type--simple-card view-mode__default">
+          <div class="dhig__component" data-react-id="paragraph__d7d36baf-5c9f-4ec2-bb07-fc5f0ec344c5"></div>
+          </div>
+
+  </div>
+</div>
+
+    </div>
+  </div>
+
+      
+
+  <div class="paragraph paragraph--section paragraph--type--simple-section palette--light background--gray-light padding-bottom--default" data-section-id="section__34fe9a4f-9885-4696-8e70-505172883e09">
+    <div class="layout">
+                  <div  class="layout--12-6-6 constrain dhig-grid md:dhig-grid-cols-2 dhig-grid-cols-1">
+  <div  class="column column-1 md:dhig-col-span-2">
+      <div class="paragraph paragraph--type--simple-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h2>Explore APS Certified Partner Custom Applications</h2>
+
+<p>APS Certified Partners are experienced developing with Autodesk Platform Services. Many of them have built in-house applications and platform solutions that they can leverage with customers like you.</p></div>
+      
+      </div>
+
+  </div>
+  <div  class="column column-2">
+      <div class="paragraph paragraph--type--simple-card view-mode__default">
+          <div class="dhig__component" data-react-id="paragraph__df42af21-d25e-4cd0-82ca-c687c287f92f"></div>
+          </div>
+
+  </div>
+  <div  class="column column-3">
+      <div class="paragraph paragraph--type--simple-card view-mode__default">
+          <div class="dhig__component" data-react-id="paragraph__50a7a98d-ffe4-4f8f-8d2a-9dcc8ab8e856"></div>
+          </div>
+
+  </div>
+</div>
+
+    </div>
+  </div>
+
+      
+
+  <div class="paragraph paragraph--section paragraph--type--simple-section palette--light background--gray-light padding-bottom--default" data-section-id="section__68055f1a-81de-4812-aaa2-698ee1a674b2">
+    <div class="layout">
+                  <div  class="layout--6-6 constrain dhig-grid md:dhig-grid-cols-2 dhig-grid-cols-1">
+  <div  class="column column-1">
+      <div class="paragraph paragraph--type--simple-card view-mode__default">
+          <div class="dhig__component" data-react-id="paragraph__933369c7-a63e-4e89-a684-e93a42549246"></div>
+          </div>
+
+  </div>
+  <div  class="column column-2">
+      <div class="paragraph paragraph--type--simple-card view-mode__default">
+          <div class="dhig__component" data-react-id="paragraph__5a2fc938-873a-4952-9bcd-948e1500c550"></div>
+          </div>
+
+  </div>
+</div>
+
+    </div>
+  </div>
+
+      
+
+  <div class="paragraph paragraph--section paragraph--type--simple-section palette--dark background--default align--top padding-bottom--default" data-section-id="section__b5ecb8fe-275d-4571-8efa-84382152ce89">
+    <div class="layout">
+              <a id="become-an-integrator" class="anchor"></a>
+                  <div  class="layout--6-6 constrain dhig-grid md:dhig-grid-cols-2 dhig-grid-cols-1">
+  <div  class="column column-1">
+      <div class="paragraph paragraph--type--simple-text paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h2>Interested in becoming an APS Certified Partner?</h2>
+
+<p>We are always on the look out for software developers and consultants that are experienced in building APS applications. Reach out to the team below if you're interested in joining. The team will be in touch to ask you a few key questions about your background and to conduct a technical review prior to joining the program.</p>
+
+<p>&nbsp;</p>
+
+<p><a class="link__arrow" href="/certified-partner-program">I want to become an APS Certified Partner</a></p></div>
+      
+      </div>
+
+  </div>
+  <div  class="column column-2">
+      <div class="paragraph paragraph--type--simple-remote-video paragraph--view-mode--default">
+          
+  <div class="field field--name-field-video field--type-video-embed-field field--label-visually_hidden">
+    <div class="field__label visually-hidden">Video URL</div>
+              <div class="field__item"><div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/3eC-th4xHbM?autoplay=0&amp;start=0&amp;rel=0"></iframe>
+</div>
+</div>
+          </div>
+
+      </div>
+
+  </div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+
+  </div>
+</article>
+
+  </div>
+
+    </div>
+
+    
+  </main>
+
+  <div id="app-footer"></div>
+
+</div>
+  </div>
+
+<script type="text/javascript">
+        window._privacyUserLanguage = "en";</script>
+<script type="text/javascript">    (function(a,b,c,d){
+    a='https://tags.tiqcdn.com/utag/autodesk/forge-web/prod/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();</script>
+
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/2402","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1T1tuwzAMu1BqHylQJsZW4Rcsu0N2-gpNg_WnHyIokqAgYh6VyuHpTdzeaxnLTyLVw2-kuHiGKgXotZfK5hlokdYw_Ad3UUJMNuOuXzM6jgQXZMS5WajDKnumJH9Y9toD_IjIF59FdgHfppzCynbD-nKrBWXo0qhT6NSieu6zUXL_ipulzS2JRvCihw7k87eHMOqKvIFXq0_sO9QaVR64vUyL4Ff9C12uPBOeIxh45g","theme":"forge","theme_token":null},"ajaxTrustedUrl":[],"components":{"section__b5ecb8fe-275d-4571-8efa-84382152ce89":{"id":"section__b5ecb8fe-275d-4571-8efa-84382152ce89"},"paragraph__5a2fc938-873a-4952-9bcd-948e1500c550":{"type":"card","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2022-09\/integrator-capgemini.jpg?itok=hGiSMM5n","alt":"Capgemini"},"eyebrow":null,"icon":[],"title":"Reflect-IOD","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\u0022\u003E\u003Cp\u003ECapgemini used Forge to build Reflect-IoD, a digital twin platform that delivers a 360-degree view of assets streamlining operations and reducing costs.\u003C\/p\u003E\u003C\/div\u003E\n      ","tags":"","links":[{"text":"Get to know Reflect-IOD","modal":false,"url":"\/customer-stories\/capgemini"}],"style":"horizontal","id":"paragraph__5a2fc938-873a-4952-9bcd-948e1500c550"},"paragraph__933369c7-a63e-4e89-a684-e93a42549246":{"type":"card","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2022-09\/integrator-contecht.jpg?itok=a2bRN8FL","alt":"Contecht"},"eyebrow":null,"icon":[],"title":"4D-Planner","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\u0022\u003E\u003Cp\u003EGet to know 4D-Planner, which adds the fourth dimension-time-to construction planning and scheduling.\u003C\/p\u003E\u003C\/div\u003E\n      ","tags":"","links":[{"text":"Learn about 4D-Planner","modal":false,"url":"\/customer-stories\/contecht"}],"style":"horizontal","id":"paragraph__933369c7-a63e-4e89-a684-e93a42549246"},"section__68055f1a-81de-4812-aaa2-698ee1a674b2":{"id":"section__68055f1a-81de-4812-aaa2-698ee1a674b2"},"paragraph__50a7a98d-ffe4-4f8f-8d2a-9dcc8ab8e856":{"type":"card","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2022-09\/integrator-solidcad.jpg?itok=kVK_xb4m","alt":"SolidCAD"},"eyebrow":null,"icon":[],"title":"Variant","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\u0022\u003E\u003Cp\u003EWith Variant customers can now configure and compare products without the need for CAD expertise.\u003C\/p\u003E\u003C\/div\u003E\n      ","tags":"","links":[{"text":"Get to know Variant","modal":false,"url":"\/customer-stories\/solidcad"}],"style":"horizontal","id":"paragraph__50a7a98d-ffe4-4f8f-8d2a-9dcc8ab8e856"},"paragraph__df42af21-d25e-4cd0-82ca-c687c287f92f":{"type":"card","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2022-09\/integrator-arkance.jpg?h=bfe398a1\u0026itok=Dl7YcDee","alt":"Arkance Systems"},"eyebrow":null,"icon":[],"title":"CS Configurator","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\u0022\u003E\u003Cp\u003EWith Arkance Systems\u0027 GIS products, customers manage utility networks, buildings, and corporate complexes.\u003C\/p\u003E\u003C\/div\u003E\n      ","tags":"","links":[{"text":"Learn about CS Configurator","modal":false,"url":"\/customer-stories\/arkance-systems"}],"style":"horizontal","id":"paragraph__df42af21-d25e-4cd0-82ca-c687c287f92f"},"section__34fe9a4f-9885-4696-8e70-505172883e09":{"id":"section__34fe9a4f-9885-4696-8e70-505172883e09"},"paragraph__d7d36baf-5c9f-4ec2-bb07-fc5f0ec344c5":{"type":"card","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2022-09\/integrator-nois.jpeg?h=d461d9dc\u0026itok=x8quuR55","alt":""},"eyebrow":null,"icon":[],"title":"Integration with SharePoint for reduced emissions","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\u0022\u003E\u003Cp\u003ENorwegian road authorities (Nye Veier) recently chose constructor AF Gruppen and Norconsult to lead construction, design, and engineering on a new road linking Mandal and Kristiansand in southern Norway.\u003C\/p\u003E\u003C\/div\u003E\n      ","tags":"","links":[{"text":"Read the case study","modal":false,"url":"\/customer-stories\/nois"}],"style":"vertical","id":"paragraph__d7d36baf-5c9f-4ec2-bb07-fc5f0ec344c5"},"paragraph__5f8dc5b7-9927-4b42-8ce7-b8c8e33ea6a3":{"type":"card","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2022-09\/integrator-xinaps.jpeg?h=0a83c828\u0026itok=xlw2yHM1","alt":""},"eyebrow":null,"icon":[],"title":"Aligning with existing workflows in the cloud-based design-build chain","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\u0022\u003E\u003Cp\u003EWater solutions firm Grundfos turns to Forge powered Xinaps to simplify product selection and integrate into the design-build workflow.\u003C\/p\u003E\u003C\/div\u003E\n      ","tags":"","links":[{"text":"Learn about Xinaps","modal":false,"url":"\/customer-stories\/xinaps"}],"style":"vertical","id":"paragraph__5f8dc5b7-9927-4b42-8ce7-b8c8e33ea6a3"},"paragraph__02d80504-c474-4032-be16-aef3f27794eb":{"type":"card","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2022-09\/integrator-bsa.jpeg?h=f345f967\u0026itok=od-gLatF","alt":""},"eyebrow":null,"icon":[],"title":"Custom application streamlines hospital design","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\u0022\u003E\u003Cp\u003EBased in Paris,\u0026nbsp;\u003Ca href=\u0022http:\/\/www.brunet-saunier.com\/\u0022 title=\u0022BSA\u0022\u003EBrunet Saunier Architecture\u003C\/a\u003E\u0026nbsp;(BSA) primarily designs large public buildings such as hospitals. BSA asked DB-Lab to improve the sharing and accessibility of data for these complex building projects.\u003C\/p\u003E\n\n\u003Cp\u003E\u0026nbsp;\u003C\/p\u003E\u003C\/div\u003E\n      ","tags":"","links":[{"text":"See how they did it","modal":false,"url":"\/customer-stories\/db-lab"}],"style":"vertical","id":"paragraph__02d80504-c474-4032-be16-aef3f27794eb"},"section__f5561b3a-6252-419e-80fd-078236956fe9":{"id":"section__f5561b3a-6252-419e-80fd-078236956fe9"},"section__b7bdda68-216f-4bf3-9ece-f49b8df9e7d4":{"id":"section__b7bdda68-216f-4bf3-9ece-f49b8df9e7d4"},"section__d7bcee04-e4ec-42ec-8972-4cc08a8476c7":{"id":"section__d7bcee04-e4ec-42ec-8972-4cc08a8476c7"},"paragraph__f7d1e2b8-b63b-4114-a39b-b8eac104d924":{"type":"banner","color":"dark","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_banner\/public\/2022-09\/banner-integrators_1.png?h=5ee1aa76\u0026itok=RMB1AtWc","alt":""},"title":"Discover Certified Partners","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\u0022\u003E\u003Cp\u003EAutodesk Platform Services (APS) Certified Partners are ready to help you build software integrations and deploy custom, APS-powered, cloud-based solutions. Find the right one for you at the Autodesk Partner Finder.\u003C\/p\u003E\u003C\/div\u003E\n      ","links":[{"text":"Meet Certified Partners","modal":false,"variant":"contained","url":"https:\/\/aps.autodesk.com\/certified-partners-list"}],"footer":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-field-text-additional field--type-text-long field--label-hidden field__item\u0022\u003E\u003Cp\u003E\u003Ca class=\u0022link__arrow\u0022 href=\u0022#become-an-integrator\u0022\u003EBecome an Autodesk Platform Services Certified Partner\u003C\/a\u003E\u003C\/p\u003E\u003C\/div\u003E\n      ","height":"default","id":"paragraph__f7d1e2b8-b63b-4114-a39b-b8eac104d924"}},"static_server_url":"https:\/\/aps.autodesk.com\/static","config_url_external":"https:\/\/developer.doc.config.autodesk.com\/bPlouYTd\/","config_url":"https:\/\/developer.doc.config.autodesk.com\/bPlouYTd\/","user":{"uid":0,"permissionsHash":"bfe3c9382a4c3d886eaa4495b8c0f539fcead92e4d294871fdb6de7a74afab5e"}}</script>
+<script src="/sites/default/files/js/js_gC-zivrARgMVbWahMH1Jn1bXXv8b8B8Ot4iB1cHtTUg.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=forge&amp;include=eJxNy1EKwCAMA9ALuXmkIWvUjtmK1o_dfsL82EfgEZJAZBrk8WFhj03F3KmELlwrzP-8Z075nrGru6gtwVtGwfIQjgzaBn_FQXM__6WqQKy_XeErFg"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_NjR9NJFR7-MbntKjaon1T1PiCQ1jDxnneLKxk9p-WzI.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=forge&amp;include=eJxNy1EKwCAMA9ALuXmkIWvUjtmK1o_dfsL82EfgEZJAZBrk8WFhj03F3KmELlwrzP-8Z075nrGru6gtwVtGwfIQjgzaBn_FQXM__6WqQKy_XeErFg"></script>
+<script src="https://aps.autodesk.com/static/scripts/app/documentation_v2.js"></script>
+<script src="/sites/default/files/js/js_bF2yBobvzopaNrXnVWPIjKwX7FOhKJblr3MTTiXXdy4.js?scope=footer&amp;delta=4&amp;language=en&amp;theme=forge&amp;include=eJxNy1EKwCAMA9ALuXmkIWvUjtmK1o_dfsL82EfgEZJAZBrk8WFhj03F3KmELlwrzP-8Z075nrGru6gtwVtGwfIQjgzaBn_FQXM__6WqQKy_XeErFg"></script>
+<script src="https://aps.autodesk.com/static/adskf.common.entry.js"></script>
+<script src="/sites/default/files/js/js_rmPFFdpFo8irOP72Nvt_aQFHUhrt6d66MnX4iFsExuA.js?scope=footer&amp;delta=6&amp;language=en&amp;theme=forge&amp;include=eJxNy1EKwCAMA9ALuXmkIWvUjtmK1o_dfsL82EfgEZJAZBrk8WFhj03F3KmELlwrzP-8Z075nrGru6gtwVtGwfIQjgzaBn_FQXM__6WqQKy_XeErFg"></script>
+<script src="//swc.autodesk.com/pharmacopeia/svg/v0/icons.json"></script>
+<script src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+    <script>
+    if (!('pendo' in window)) {
+      window.pendo = {_q: []};
+      for (const func_name of ['initialize', 'identify', 'updateOptions', 'pageLoad', 'track']) {
+        pendo[func_name] = function () {
+          if (func_name === 'initialize') {
+            pendo._q.unshift([func_name, ...arguments])
+          } else {
+            pendo._q.push([func_name, ...arguments])
+          }
+        }
+      }
+    }
+    pendo.initialize({
+      visitor: {
+        id: '',
+        role: 'anonymous',
+      },
+      excludeAllText: true,
+    })
+  </script>
+</body>
+</html>

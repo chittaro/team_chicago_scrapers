@@ -1,0 +1,265 @@
+https://aps.autodesk.com/certified-partners-list?page=1
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+<head>
+  <meta name="google-site-verification" content="DHqJE-yOttplpf-zekDmZBkm1lqpHFI6e2t6pK9VUfs"/>
+  <meta charset="utf-8" />
+<link rel="canonical" href="https://aps.autodesk.com/certified-partners-list" />
+<link rel="shortlink" href="https://aps.autodesk.com/node/3231" />
+<meta property="og:site_name" content="Autodesk Platform Services" />
+<meta property="og:url" content="https://aps.autodesk.com/certified-partners-list" />
+<meta property="og:title" content="Certified Partners" />
+<meta property="og:updated_time" content="2024-09-09T09:15:35-07:00" />
+<meta property="article:published_time" content="2024-02-28T12:51:18-08:00" />
+<meta property="article:modified_time" content="2024-09-09T09:15:35-07:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Certified Partners" />
+<meta name="twitter:url" content="https://aps.autodesk.com/certified-partners-list" />
+<meta name="es:date" content="2024-09-09T09:15:35-07:00" />
+<meta name="es:boost" content="1" />
+<meta name="es:tags" content="" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/forge/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://aps.autodesk.com/certified-partners-list" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    <title>Certified Partners | Autodesk Platform Services</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_j8dZV7luT7tDuvV1Jxfotr0q9uh-bTeCNEwSz3CB0Vk.css?delta=0&amp;language=en&amp;theme=forge&amp;include=eJxNjmsOwyAMgy-E4EhVOlxA4qUkbGOnH9pabX-sz4ktmbzXRnU6OsEe3KqaHargDc_eBH47Ul5WXEAFUza3TCLT7SS4uECEAuTytfn1WyI19Q51f2xFZ4YNSePYV4ix4lwopxfM0TjAaUQ5efMxhVUvvVVUFdOJKTD1KM7z6JTt72JH7WPPSSK8kSmK8p15T3iI-6gtzY-MN-VNYto" />
+<link rel="stylesheet" media="all" href="//swc.autodesk.com/pharmacopeia/svg/v0/icons.svg" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Cpqv8y8rcHKbxYUQAsPhgMX4mAArtQzW-m4vyS_74Y0.css?delta=2&amp;language=en&amp;theme=forge&amp;include=eJxNjmsOwyAMgy-E4EhVOlxA4qUkbGOnH9pabX-sz4ktmbzXRnU6OsEe3KqaHargDc_eBH47Ul5WXEAFUza3TCLT7SS4uECEAuTytfn1WyI19Q51f2xFZ4YNSePYV4ix4lwopxfM0TjAaUQ5efMxhVUvvVVUFdOJKTD1KM7z6JTt72JH7WPPSSK8kSmK8p15T3iI-6gtzY-MN-VNYto" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_gYwHrI5QGhGlFpgjs2F9J_5iy7tn1wo6wE6Ir37TsuQ.css?delta=3&amp;language=en&amp;theme=forge&amp;include=eJxNjmsOwyAMgy-E4EhVOlxA4qUkbGOnH9pabX-sz4ktmbzXRnU6OsEe3KqaHargDc_eBH47Ul5WXEAFUza3TCLT7SS4uECEAuTytfn1WyI19Q51f2xFZ4YNSePYV4ix4lwopxfM0TjAaUQ5efMxhVUvvVVUFdOJKTD1KM7z6JTt72JH7WPPSSK8kSmK8p15T3iI-6gtzY-MN-VNYto" />
+
+      
+        </head>
+<body class="path-node page-node-type-content-page">
+<a href="#main-content" class="visually-hidden focusable skip-link">
+  Skip to main content
+</a>
+
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+  <div id="app-navbar"></div>
+
+  
+  
+
+  <main id="app-main" role="main" class="">
+    <a id="main-content" tabindex="-1"></a>
+
+          <div class="page__pre-content">
+          <div class="region region-pre-content">
+    <div class="views-element-container block block-views block-views-blockalerts-block-1" id="block-forge-views-block-alerts-block-1">
+  
+    
+      <div><div class="view view-alerts view-id-alerts view-display-id-block_1 js-view-dom-id-29f0770e33a7043a5efe264fae65b83b6f4854450779a37d7c6d1c18fcb9ed8a">
+  
+    
+      
+  
+          </div>
+</div>
+
+  </div>
+<div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+      </div>
+    
+    <div class="page__content">
+        <div class="region region-content">
+    
+
+<article class="node node__content-page view-mode__full has-layout">
+  <div class="node__content">
+    
+<div class="field field--name-field-layout-content field--type-entity-reference-revisions field--label-hidden field__items">
+        <div class="paragraph paragraph--type--simple-banner view-mode__default palette--dark">
+          <div class="dhig__component" data-react-id="paragraph__85c10eec-1505-48f9-a9ab-72cf585eab25"></div>
+          </div>
+
+        <div class="paragraph paragraph--type--simple-view paragraph--view-mode--default">
+          
+            <div class="field field--name-field-view field--type-block-field field--label-hidden field__item"><div class="views-element-container block block-views block-views-blockcertified-partners-block-search" id="block-views-block-certified-partners-block-search">
+  
+    
+      <div><div class="view view-certified-partners view-id-certified_partners view-display-id-block_search js-view-dom-id-9fcd246124ad32ab8c2191def926155cdd87fdc40e545906695d3e9288c073f0">
+  
+    
+        <div class="view-filters">
+      <form class="views-exposed-form bef-exposed-form" data-bef-auto-submit-full-form="" data-bef-auto-submit="" data-bef-auto-submit-delay="500" data-drupal-selector="views-exposed-form-certified-partners-block-search" action="/certified-partners-list" method="get" id="views-exposed-form-certified-partners-block-search" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-combine form-item-combine">
+  <div class="input input__text">
+          <svg class="icon" width="100%" height="auto">
+        <use href="/themes/custom/forge/assets/icons/icons.svg#dhig--icons--actions--search" stroke="currentColor"></use>
+      </svg>
+        <input title="Search keywords" data-drupal-selector="edit-combine" type="text" id="edit-combine" name="combine" value="" size="15" maxlength="128" class="form-text" placeholder="Search" />
+
+  </div>
+    </div>
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-industries form-item-industries">
+      <label for="edit-industries">Industries</label>
+        <select data-drupal-selector="edit-industries" multiple="multiple" name="industries[]" id="edit-industries" size="9" class="form-select"><option value="135">3D</option><option value="60">AEC</option><option value="97">Augmented and Virtual Reality (AR/VR)</option><option value="149">Automation</option><option value="85">Construction</option><option value="170">Design</option><option value="100">Design and Manufacturing</option><option value="171">Engineering</option><option value="185">Facility Management</option><option value="92">Government</option><option value="213">Infrastructure</option><option value="150">Manufacturing</option><option value="172">Media and Entertainment</option><option value="73">Medical</option><option value="110">Operation and Maintenance</option><option value="114">Planning</option><option value="113">Software Development</option><option value="134">Visualization</option></select>
+        </div>
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-expertise form-item-expertise">
+      <label for="edit-expertise">Expertise</label>
+        <select data-drupal-selector="edit-expertise" multiple="multiple" name="expertise[]" id="edit-expertise" size="7" class="form-select"><option value="736">Architecture, Engineering, &amp; Construction</option><option value="737">Architecture, Engineering, &amp; Construction Automation</option><option value="829">Data Models</option><option value="738">Manufacturing</option><option value="739">Manufacturing Automation</option><option value="828">Media &amp; Entertainment Automation</option><option value="827">Media &amp; Entertainment</option></select>
+        </div>
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-field-country-value form-item-field-country-value">
+      <label for="edit-field-country-value">Country</label>
+        <select data-drupal-selector="edit-field-country-value" multiple="multiple" name="field_country_value[]" id="edit-field-country-value" size="8" class="form-select"><option value="AF">Afghanistan</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua &amp; Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AC">Ascension Island</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia &amp; Herzegovina</option><option value="BW">Botswana</option><option value="BV">Bouvet Island</option><option value="BR">Brazil</option><option value="IO">British Indian Ocean Territory</option><option value="VG">British Virgin Islands</option><option value="BN">Brunei</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="IC">Canary Islands</option><option value="CV">Cape Verde</option><option value="BQ">Caribbean Netherlands</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="EA">Ceuta &amp; Melilla</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CP">Clipperton Island</option><option value="CC">Cocos (Keeling) Islands</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CG">Congo - Brazzaville</option><option value="CD">Congo - Kinshasa</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CW">Curaçao</option><option value="CY">Cyprus</option><option value="CZ">Czechia</option><option value="CI">Côte d’Ivoire</option><option value="DK">Denmark</option><option value="DG">Diego Garcia</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="SZ">Eswatini</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guiana</option><option value="PF">French Polynesia</option><option value="TF">French Southern Territories</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GP">Guadeloupe</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard &amp; McDonald Islands</option><option value="HN">Honduras</option><option value="HK">Hong Kong SAR China</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IM">Isle of Man</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="XK">Kosovo</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao SAR China</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar (Burma)</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="MP">Northern Mariana Islands</option><option value="KP">North Korea</option><option value="MK">North Macedonia</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="QO">Outlying Oceania</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PS">Palestinian Territories</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn Islands</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="RE">Réunion</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="CQ">Sark</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SX">Sint Maarten</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="GS">South Georgia &amp; South Sandwich Islands</option><option value="KR">South Korea</option><option value="SS">South Sudan</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="BL">St. Barthélemy</option><option value="SH">St. Helena</option><option value="KN">St. Kitts &amp; Nevis</option><option value="LC">St. Lucia</option><option value="MF">St. Martin</option><option value="PM">St. Pierre &amp; Miquelon</option><option value="VC">St. Vincent &amp; Grenadines</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SJ">Svalbard &amp; Jan Mayen</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="ST">São Tomé &amp; Príncipe</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania</option><option value="TH">Thailand</option><option value="TL">Timor-Leste</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad &amp; Tobago</option><option value="TA">Tristan da Cunha</option><option value="TN">Tunisia</option><option value="TM">Turkmenistan</option><option value="TC">Turks &amp; Caicos Islands</option><option value="TV">Tuvalu</option><option value="TR">Türkiye</option><option value="UM">U.S. Outlying Islands</option><option value="VI">U.S. Virgin Islands</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="GB">United Kingdom</option><option value="US">United States</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican City</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="WF">Wallis &amp; Futuna</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option><option value="AX">Åland Islands</option></select>
+        </div>
+<div class="js-form-item form-item js-form-type-select form-type-select js-form-item-sort-by form-item-sort-by">
+      <label for="edit-sort-by">Sort by</label>
+        <select data-drupal-selector="edit-sort-by" id="edit-sort-by" name="sort_by" class="form-select"><option value="newest" selected="selected">Newest</option><option value="oldest">Oldest</option><option value="a-z">A – Z</option><option value="z-a">Z – A</option></select>
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-bef-auto-submit-click="" class="js-hide button js-form-submit form-submit" data-drupal-selector="edit-submit-certified-partners" type="submit" id="edit-submit-certified-partners" value="Apply" />
+<input data-drupal-selector="edit-reset-certified-partners" type="submit" id="edit-reset-certified-partners" name="reset" value="Reset to show all" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+    </div>
+    
+      <div class="view-content">
+      <div data-drupal-views-infinite-scroll-content-wrapper class="views-infinite-scroll-content-wrapper clearfix">    <div class="view-grid dhig-grid lg:dhig-grid-cols-3 dhig-grid-cols-1 md:dhig-grid-cols-2">
+                <div class="views-row column"><div class="node node__certified-partner view-mode__card">
+      <div class="dhig__component" data-react-id="node__170ea6fb-8240-482a-af75-030f0acd72ec"></div>
+  </div>
+</div>
+              <div class="views-row column"><div class="node node__certified-partner view-mode__card">
+      <div class="dhig__component" data-react-id="node__df576850-7642-410d-8eb1-b82e41ecef69"></div>
+  </div>
+</div>
+              <div class="views-row column"><div class="node node__certified-partner view-mode__card">
+      <div class="dhig__component" data-react-id="node__2b2cad2e-3378-4e54-8ce3-0445b6566312"></div>
+  </div>
+</div>
+                      <div class="views-row column"><div class="node node__certified-partner view-mode__card">
+      <div class="dhig__component" data-react-id="node__65cd345b-184f-4479-89c0-1e1242442020"></div>
+  </div>
+</div>
+              <div class="views-row column"><div class="node node__certified-partner view-mode__card">
+      <div class="dhig__component" data-react-id="node__2a4186b2-2dc9-42f1-9052-73e4b9a35a3f"></div>
+  </div>
+</div>
+              <div class="views-row column"><div class="node node__certified-partner view-mode__card">
+      <div class="dhig__component" data-react-id="node__31896813-adb4-4b91-a12c-bafe70364546"></div>
+  </div>
+</div>
+                      <div class="views-row column"><div class="node node__certified-partner view-mode__card">
+      <div class="dhig__component" data-react-id="node__77b7f1bd-ca3c-47df-ab33-4eab2c76c7d3"></div>
+  </div>
+</div>
+              <div class="views-row column"><div class="node node__certified-partner view-mode__card">
+      <div class="dhig__component" data-react-id="node__d0956ad4-c2b8-45f8-91e3-558b1643916a"></div>
+  </div>
+</div>
+              <div class="views-row column"><div class="node node__certified-partner view-mode__card">
+      <div class="dhig__component" data-react-id="node__f340386b-0ee8-474d-a179-0b58db18b952"></div>
+  </div>
+</div>
+                      <div class="views-row column"><div class="node node__certified-partner view-mode__card">
+      <div class="dhig__component" data-react-id="node__84896b49-e99e-456b-b3f6-70a7e0309bab"></div>
+  </div>
+</div>
+              <div class="views-row column"><div class="node node__certified-partner view-mode__card">
+      <div class="dhig__component" data-react-id="node__7be8a070-69c6-47b2-8591-0d97af6b4242"></div>
+  </div>
+</div>
+              <div class="views-row column"><div class="node node__certified-partner view-mode__card">
+      <div class="dhig__component" data-react-id="node__097473f9-6a14-4e50-a365-2fa137d57fb5"></div>
+  </div>
+</div>
+        </div>
+</div>
+
+    </div>
+  
+      
+<ul class="js-pager__items pager" data-drupal-views-infinite-scroll-pager>
+  <li class="pager__item">
+    <a class="button" href="?page=2" title="Load more items" rel="next">Load More</a>
+  </li>
+</ul>
+
+          </div>
+</div>
+
+  </div>
+</div>
+      <div  class="layout--12 constrain dhig-grid dhig-grid-cols-1">
+  <div  class="column column-1">
+    
+  </div>
+</div>
+
+      </div>
+
+  </div>
+
+  </div>
+</article>
+
+  </div>
+
+    </div>
+
+    
+  </main>
+
+  <div id="app-footer"></div>
+
+</div>
+  </div>
+
+<script type="text/javascript">
+        window._privacyUserLanguage = "en";</script>
+<script type="text/javascript">    (function(a,b,c,d){
+    a='https://tags.tiqcdn.com/utag/autodesk/forge-web/prod/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();</script>
+
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/3231","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"page":"1"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1j9FuBCEIRX9oRj_JMCsqDaIRbDv9-pqdnbQv-wC5HG4uAWK0BnJ6eAmXRhPbDjTDEfC7N8UYEvEa1cO0FnQeld5aMgoO4O3BoHr6AxRvXVEVMuo9S4trt5oK9Y7m_2lXKBdeZR_61qN2MrpMVuaxTANX5KjA9INbaiOjt4L11lMoEcZ90gVCXDdWXu1NUEy3DgPygF7UxzE7sPsjbkqfB5MWjJuealiv3z4Jv9Q_u6stTn6hQJJIyDDoYzTmy7LfdL_oLxGpl2Y","theme":"forge","theme_token":null},"ajaxTrustedUrl":{"\/certified-partners-list":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:9fcd246124ad32ab8c2191def926155cdd87fdc40e545906695d3e9288c073f0":{"view_name":"certified_partners","view_display_id":"block_search","view_args":"","view_path":"\/node\/3231","view_base_path":null,"view_dom_id":"9fcd246124ad32ab8c2191def926155cdd87fdc40e545906695d3e9288c073f0","pager_element":0}}},"components":{"node__097473f9-6a14-4e50-a365-2fa137d57fb5":{"type":"card","style":"vertical","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2024-03\/codeo.png?h=f077f1b0\u0026itok=KwjcAr50","alt":"Codeo"},"badges":[{"text":"MFG Expert","color":"#000000","background":"#FFC21A"}],"title":"Codeo","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\u0022\u003E\u003Cp\u003ECodeo helps businesses create leaner processes at their engineer-to-order functions. While the main focus of their business is 3rd party software development for Autodesk products, they extensively use iLogic, Inventor API, Fusion 360 API, AutoCAD API, Configurator360 Embedding AP, and Autodesk Platform Services, along with web technologies like Angular and Nodejs to create CPQ websites for B2B and B2C environments. They are also an Inventor OEM Partner for Autodesk.\u003C\/p\u003E\n\u003C\/div\u003E\n      ","tags":"\n      \u003Cdiv class=\u0022field field--name-field-industries field--type-entity-reference field--label-hidden field__items\u0022\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign and Manufacturing\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EManufacturing\u003C\/div\u003E\n          \u003C\/div\u003E\n  ","links":[{"text":"","modal":false,"url":"https:\/\/www.autodesk.com\/support\/partners\/codeo\/1130"}],"id":"node__097473f9-6a14-4e50-a365-2fa137d57fb5"},"node__7be8a070-69c6-47b2-8591-0d97af6b4242":{"type":"card","style":"vertical","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2024-03\/srinsoft.png?h=6b5b50d2\u0026itok=70KZq23b","alt":"SrinSoft"},"badges":[],"title":"SrinSoft","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\u0022\u003E\u003Cp\u003ESrinSoft Group\u0026nbsp;is a leading provider of enterprise solutions to the engineering community, including the building, manufacturing, civil and mapping industries. With over 15 years of experience, and offices in North America, Middle East, APAC and Europe regions, SrinSoft provides expert services in Design, BIM modeling, Automation, Interoperability and support to help companies realize the full power of design technology, maximize ROI, and gain competitive advantage.\u003C\/p\u003E\n\u003C\/div\u003E\n      ","tags":"\n      \u003Cdiv class=\u0022field field--name-field-industries field--type-entity-reference field--label-hidden field__items\u0022\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EAEC\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EEngineering\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EFacility Management\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign and Manufacturing\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EManufacturing\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EMedia and Entertainment\u003C\/div\u003E\n          \u003C\/div\u003E\n  ","links":[{"text":"","modal":false,"url":"https:\/\/www.autodesk.com\/support\/partners\/srinsoft-inc\/1324"}],"id":"node__7be8a070-69c6-47b2-8591-0d97af6b4242"},"node__84896b49-e99e-456b-b3f6-70a7e0309bab":{"type":"card","style":"vertical","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2024-03\/apogea.png?h=c54f7eca\u0026itok=4HfaTJUS","alt":"Apogea Consulting"},"badges":[],"title":"Apogea","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\u0022\u003E\u003Cp\u003ESpanish consulting firm Apogea\u0026nbsp;was founded in 2016 with the aim of driving change in the construction industry. The company comprises a multidisciplinary team that employs innovative digital technologies to help clients in the AECO (architecture, engineering, construction, and operations) industries to realize their goals. Projects include urban infrastructure and residential development, structural optimization, facilities engineering, digitalization of design and construction processes, sustainable architecture and construction, and development and management of digital building and infrastructure models throughout their lifecycles.\u003C\/p\u003E\n\u003C\/div\u003E\n      ","tags":"\n      \u003Cdiv class=\u0022field field--name-field-industries field--type-entity-reference field--label-hidden field__items\u0022\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EAEC\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EOperation and Maintenance\u003C\/div\u003E\n          \u003C\/div\u003E\n  ","links":[{"text":"","modal":false,"url":"https:\/\/apogeaconsulting.com\/"}],"id":"node__84896b49-e99e-456b-b3f6-70a7e0309bab"},"node__f340386b-0ee8-474d-a179-0b58db18b952":{"type":"card","style":"vertical","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2024-03\/mum.png?h=5398ad6e\u0026itok=S4cmCedl","alt":"Mensch und Maschine"},"badges":[],"title":"Mensch und Maschine","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\u0022\u003E\u003Cp\u003EMensch und Maschine Software SE (M+M) is a leading supplier of Computer Aided Design, Manufacturing and Engineering (CAD\/CAM\/CAE), Product Data Management (PDM) and AEC, Building Information Modelling\/Management (BIM) solutions with approx. 75 locations all around Europe as well as in Asia and America. M+M\u2019s business model is based on the two segments M+M Software (Standard Software for CAM, BIM and CAE) and VAR Business (customer specific digitalisation solutions, training and consulting for customers from industry, architecture and infrastructure).\u003C\/p\u003E\n\u003C\/div\u003E\n      ","tags":"\n      \u003Cdiv class=\u0022field field--name-field-industries field--type-entity-reference field--label-hidden field__items\u0022\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EAEC\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EEngineering\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EFacility Management\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign and Manufacturing\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EManufacturing\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EMedia and Entertainment\u003C\/div\u003E\n          \u003C\/div\u003E\n  ","links":[{"text":"","modal":false,"url":"https:\/\/www.autodesk.com\/support\/partners\/mensch-und-maschine\/1015"}],"id":"node__f340386b-0ee8-474d-a179-0b58db18b952"},"node__d0956ad4-c2b8-45f8-91e3-558b1643916a":{"type":"card","style":"vertical","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2024-03\/graitec-group.png?h=1656957e\u0026itok=yWS0AqXs","alt":"Graitec"},"badges":[],"title":"Graitec","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\u0022\u003E\u003Cp\u003EGraitec Ltd stands as a prominent provider of solutions encompassing Computer-Aided Design, Manufacturing, Engineering, Product Data Management, Media \u0026amp; Entertainment, and Building Information Modelling.\u0026nbsp;As a Platinum Partner of Autodesk, Graitec offers tailored solutions, training, and consultancy services to clients spanning diverse industries. Their primary objective is to deeply comprehend your business processes and challenges, allowing us to identify the most suitable solutions for your unique requirements\u003C\/p\u003E\n\u003C\/div\u003E\n      ","tags":"\n      \u003Cdiv class=\u0022field field--name-field-industries field--type-entity-reference field--label-hidden field__items\u0022\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EAEC\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EEngineering\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EFacility Management\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign and Manufacturing\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EManufacturing\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EMedia and Entertainment\u003C\/div\u003E\n          \u003C\/div\u003E\n  ","links":[{"text":"","modal":false,"url":"https:\/\/www.autodesk.com\/support\/partners\/graitec\/1016"}],"id":"node__d0956ad4-c2b8-45f8-91e3-558b1643916a"},"node__77b7f1bd-ca3c-47df-ab33-4eab2c76c7d3":{"type":"card","style":"vertical","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2024-03\/e-verse.png?h=11e3eed9\u0026itok=56gQuSyG","alt":"e-verse"},"badges":[],"title":"e-verse","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\u0022\u003E\u003Cp\u003Ee-verse is commeted to build on their software development experience by discovering and exploring together a universe of opportunities in the AEC industry. They are\u0026nbsp;well-versed in understanding their partners\u2019 needs and translating their requirements into customized solutions that promote a host of efficient and streamlined technological tools.\u003C\/p\u003E\n\u003C\/div\u003E\n      ","tags":"\n      \u003Cdiv class=\u0022field field--name-field-industries field--type-entity-reference field--label-hidden field__items\u0022\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EAEC\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EEngineering\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EFacility Management\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign\u003C\/div\u003E\n          \u003C\/div\u003E\n  ","links":[{"text":"","modal":false,"url":"https:\/\/www.autodesk.com\/support\/partners\/everse\/2129"}],"id":"node__77b7f1bd-ca3c-47df-ab33-4eab2c76c7d3"},"node__31896813-adb4-4b91-a12c-bafe70364546":{"type":"card","style":"vertical","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2024-03\/vitus.png?h=f077f1b0\u0026itok=JoVUefOk","alt":"Vitus Cloud"},"badges":[],"title":"Vitus Cloud","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\u0022\u003E\u003Cp\u003EWith an intelligent and sustainable approach, Vitus brings project players across all disciplines together to work on a single source of truth throughout the life cycle of a project by making digital building information more accessible and understandable.\u003C\/p\u003E\n\u003C\/div\u003E\n      ","tags":"\n      \u003Cdiv class=\u0022field field--name-field-industries field--type-entity-reference field--label-hidden field__items\u0022\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EConstruction\u003C\/div\u003E\n          \u003C\/div\u003E\n  ","links":[{"text":"","modal":false,"url":"https:\/\/www.vitus.cloud\/"}],"id":"node__31896813-adb4-4b91-a12c-bafe70364546"},"node__2a4186b2-2dc9-42f1-9052-73e4b9a35a3f":{"type":"card","style":"vertical","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2024-03\/tcit.png?h=9e5eac90\u0026itok=hJOM_n8j","alt":"TC Intelligent Technology"},"badges":[],"title":"TC Intelligent Technologies","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\u0022\u003E\u003Cp\u003ETiancha Intelligent Technology created a smart integration platform developed with Open Framework that can integrate five major electromechanical systems including electrical, air conditioning, fire protection, water supply and drainage, and weak current facilities. In addition to smart buildings that meet the requirements of health, comfort, safety and energy saving, it can also integrate factories. production process management.\u003C\/p\u003E\n\u003C\/div\u003E\n      ","tags":"\n      \u003Cdiv class=\u0022field field--name-field-industries field--type-entity-reference field--label-hidden field__items\u0022\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EAEC\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EConstruction\u003C\/div\u003E\n          \u003C\/div\u003E\n  ","links":[{"text":"","modal":false,"url":"https:\/\/www.tcitech.com.tw\/"}],"id":"node__2a4186b2-2dc9-42f1-9052-73e4b9a35a3f"},"node__65cd345b-184f-4479-89c0-1e1242442020":{"type":"card","style":"vertical","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2024-03\/pelogic.png?h=c54f7eca\u0026itok=SBT8it3l","alt":"Pelogic"},"badges":[],"title":"Pelogic","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\u0022\u003E\u003Cp\u003EPelogic works with organizations that plan, design, construct, manage, and maintain buildings, transportation, infrastructure and\/or space. Pelogic\u2019s strength is understanding digital design applications and how they are utilized.\u003C\/p\u003E\n\u003C\/div\u003E\n      ","tags":"\n      \u003Cdiv class=\u0022field field--name-field-industries field--type-entity-reference field--label-hidden field__items\u0022\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EAEC\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EEngineering\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EFacility Management\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign\u003C\/div\u003E\n          \u003C\/div\u003E\n  ","links":[{"text":"","modal":false,"url":"https:\/\/www.autodesk.com\/support\/partners\/pelogic\/926"}],"id":"node__65cd345b-184f-4479-89c0-1e1242442020"},"node__2b2cad2e-3378-4e54-8ce3-0445b6566312":{"type":"card","style":"vertical","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2024-03\/oneteam.png?h=f6ced025\u0026itok=wbUHvMB1","alt":"One Team"},"badges":[],"title":"One Team","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\u0022\u003E\u003Cp\u003EOne Team provides consultancy services and complete professional IT solutions for BIM, CAD, GIS, Document Management (EDM\/PDM) and Facility Management and pre- and post-sales assistance services tailored to the specific needs of customers.\u003C\/p\u003E\n\u003C\/div\u003E\n      ","tags":"\n      \u003Cdiv class=\u0022field field--name-field-industries field--type-entity-reference field--label-hidden field__items\u0022\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EAEC\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EEngineering\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EFacility Management\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign and Manufacturing\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EManufacturing\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EMedia and Entertainment\u003C\/div\u003E\n          \u003C\/div\u003E\n  ","links":[{"text":"","modal":false,"url":"https:\/\/www.autodesk.com\/support\/partners\/one-team-srl\/1226"}],"id":"node__2b2cad2e-3378-4e54-8ce3-0445b6566312"},"node__df576850-7642-410d-8eb1-b82e41ecef69":{"type":"card","style":"vertical","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2024-03\/coolorange.png?h=ef884d7b\u0026itok=6huQ4nqV","alt":"coolOrange"},"badges":[{"text":"AEC Expert","color":"#FFFFFF","background":"#8E8EEF"},{"text":"MFG Expert","color":"#000000","background":"#FFC21A"},{"text":"MFG Automation Expert","color":"#FFFFFF","background":"#EE8922"},{"text":"Data Models Expert","color":"#FFFFFF","background":"#07B050"}],"title":"coolOrange","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\u0022\u003E\u003Cp\u003EcoolOrange is a hyper-specialized provider of software tools, apps and plug-ins for Autodesk PDM\/PLM. Relying on a close-knit, multidisciplinary group of engineers and product managers with over 20 years of experience in data management and software development, they leverage computer science to support companies in reducing complexity and costs by improving data management, automation and integration.\u003C\/p\u003E\n\u003C\/div\u003E\n      ","tags":"\n      \u003Cdiv class=\u0022field field--name-field-industries field--type-entity-reference field--label-hidden field__items\u0022\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EAEC\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EEngineering\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EFacility Management\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign and Manufacturing\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EManufacturing\u003C\/div\u003E\n          \u003C\/div\u003E\n  ","links":[{"text":"","modal":false,"url":"https:\/\/www.autodesk.com\/support\/partners\/coolorange\/1404"}],"id":"node__df576850-7642-410d-8eb1-b82e41ecef69"},"node__170ea6fb-8240-482a-af75-030f0acd72ec":{"type":"card","style":"vertical","media":{"url":"https:\/\/aps.autodesk.com\/sites\/default\/files\/styles\/cropped_card\/public\/2024-03\/neilsoft.png?h=066e43b7\u0026itok=bIysHn_n","alt":"Neilsoft"},"badges":[],"title":"Neilsoft","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item\u0022\u003E\u003Cp\u003ENeilsoft\u0026nbsp;is a team of 1000+ engineering, architectural \u0026amp; BIM services, and technology solutions specialists; catering to some of the world\u0027s top engineering, consulting, architectural, and general contracting firms. They are also an Autodesk Platinum Partner and a Solution Provider.\u003C\/p\u003E\n\u003C\/div\u003E\n      ","tags":"\n      \u003Cdiv class=\u0022field field--name-field-industries field--type-entity-reference field--label-hidden field__items\u0022\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EAEC\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EEngineering\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EFacility Management\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EDesign and Manufacturing\u003C\/div\u003E\n              \u003Cdiv class=\u0022field__item\u0022\u003EManufacturing\u003C\/div\u003E\n          \u003C\/div\u003E\n  ","links":[{"text":"","modal":false,"url":"https:\/\/www.autodesk.com\/support\/partners\/neilsoft-private-limited\/1247"}],"id":"node__170ea6fb-8240-482a-af75-030f0acd72ec"},"paragraph__85c10eec-1505-48f9-a9ab-72cf585eab25":{"type":"banner","color":"dark","media":[],"title":"Autodesk Platform Services Certified Partners","body":"\n            \u003Cdiv class=\u0022clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item\u0022\u003E\u003Cp\u003ELooking to join the ranks of Autodesk Platform Services Certified Partners to help customers build custom solutions? Submit your application today!\u003C\/p\u003E\u003C\/div\u003E\n      ","links":[{"text":"Apply now","modal":false,"variant":"contained","url":"https:\/\/aps.autodesk.com\/certified-partner-program"}],"footer":"","height":"default","id":"paragraph__85c10eec-1505-48f9-a9ab-72cf585eab25"}},"static_server_url":"https:\/\/aps.autodesk.com\/static","config_url_external":"https:\/\/developer.doc.config.autodesk.com\/bPlouYTd\/","config_url":"https:\/\/developer.doc.config.autodesk.com\/bPlouYTd\/","user":{"uid":0,"permissionsHash":"bfe3c9382a4c3d886eaa4495b8c0f539fcead92e4d294871fdb6de7a74afab5e"}}</script>
+<script src="/sites/default/files/js/js_gC-zivrARgMVbWahMH1Jn1bXXv8b8B8Ot4iB1cHtTUg.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=forge&amp;include=eJx1i0sOwyAMRC9EwpEQCUPiitgIm35uX9SkUjddjPTmaSamZBL55eMFc27C5haYoQU8qyhSyFRGVR-7SdC-HPR3soHRYnGrJChTrTD_w_NO215G7KYuS9vgbceBiztTJqSp0ylCGvvxP6ow2NTdCQ8NxJmYDEHXJqX4j52-djrtG9CUV1k"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_LLMhtRmhUVeuZdeHbZNZUrr08jQevBQtAiXd0l8PpcU.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=forge&amp;include=eJx1i0sOwyAMRC9EwpEQCUPiitgIm35uX9SkUjddjPTmaSamZBL55eMFc27C5haYoQU8qyhSyFRGVR-7SdC-HPR3soHRYnGrJChTrTD_w_NO215G7KYuS9vgbceBiztTJqSp0ylCGvvxP6ow2NTdCQ8NxJmYDEHXJqX4j52-djrtG9CUV1k"></script>
+<script src="https://aps.autodesk.com/static/scripts/app/documentation_v2.js"></script>
+<script src="/sites/default/files/js/js_bF2yBobvzopaNrXnVWPIjKwX7FOhKJblr3MTTiXXdy4.js?scope=footer&amp;delta=4&amp;language=en&amp;theme=forge&amp;include=eJx1i0sOwyAMRC9EwpEQCUPiitgIm35uX9SkUjddjPTmaSamZBL55eMFc27C5haYoQU8qyhSyFRGVR-7SdC-HPR3soHRYnGrJChTrTD_w_NO215G7KYuS9vgbceBiztTJqSp0ylCGvvxP6ow2NTdCQ8NxJmYDEHXJqX4j52-djrtG9CUV1k"></script>
+<script src="https://aps.autodesk.com/static/adskf.common.entry.js"></script>
+<script src="/sites/default/files/js/js_rmPFFdpFo8irOP72Nvt_aQFHUhrt6d66MnX4iFsExuA.js?scope=footer&amp;delta=6&amp;language=en&amp;theme=forge&amp;include=eJx1i0sOwyAMRC9EwpEQCUPiitgIm35uX9SkUjddjPTmaSamZBL55eMFc27C5haYoQU8qyhSyFRGVR-7SdC-HPR3soHRYnGrJChTrTD_w_NO215G7KYuS9vgbceBiztTJqSp0ylCGvvxP6ow2NTdCQ8NxJmYDEHXJqX4j52-djrtG9CUV1k"></script>
+<script src="//swc.autodesk.com/pharmacopeia/svg/v0/icons.json"></script>
+<script src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="/sites/default/files/js/js_WxF66vGJ3A04Imias6eunh8JyUDYOvYedI8H5_QcmoM.js?scope=footer&amp;delta=9&amp;language=en&amp;theme=forge&amp;include=eJx1i0sOwyAMRC9EwpEQCUPiitgIm35uX9SkUjddjPTmaSamZBL55eMFc27C5haYoQU8qyhSyFRGVR-7SdC-HPR3soHRYnGrJChTrTD_w_NO215G7KYuS9vgbceBiztTJqSp0ylCGvvxP6ow2NTdCQ8NxJmYDEHXJqX4j52-djrtG9CUV1k"></script>
+
+    <script>
+    if (!('pendo' in window)) {
+      window.pendo = {_q: []};
+      for (const func_name of ['initialize', 'identify', 'updateOptions', 'pageLoad', 'track']) {
+        pendo[func_name] = function () {
+          if (func_name === 'initialize') {
+            pendo._q.unshift([func_name, ...arguments])
+          } else {
+            pendo._q.push([func_name, ...arguments])
+          }
+        }
+      }
+    }
+    pendo.initialize({
+      visitor: {
+        id: '',
+        role: 'anonymous',
+      },
+      excludeAllText: true,
+    })
+  </script>
+</body>
+</html>

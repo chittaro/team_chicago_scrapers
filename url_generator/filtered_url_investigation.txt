@@ -1,0 +1,19 @@
+Option 1 blacklist
+
+adds a filtering function to screen out irrelevent, blacklisted or low-quality URLSs 
+after extracting them from OpenAI, but before saving or returning them 
+
+what this adds:
+This option filters out the URLs that we wouldnt want and allows us to actually be able 
+to customize this option of what to keep and what not to keep by just updating the blacklists
+and then it will still use the OpenAI assistant as the discovery tool but this could be a hybrid 
+control approach that we manually process what urls to consider
+
+Option 2: Heuristic URL Scoring System
+
+Isntead of filtering URLs with boolean checks we can actually assign URL a relevance score. 
+The benefit to this is that Fabrizio could set and see a set of factors that would affect the 
+scoring of the URLs and decide whether to keep or not keep. Or this could also be used to train the OpenAI
+
+its more flexible and intelligent and removes the risk of missing url because it didnt have a certain
+exact word that we werent looking from. its also a possibility to weight the factors and fine-tune over time

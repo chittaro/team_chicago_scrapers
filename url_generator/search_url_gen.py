@@ -40,23 +40,22 @@ def get_company_partnership_urls(company_name):
         urls = google_search(query)
         all_urls.update(urls)
 
+    # TODO: filter URLS
+
+    # write to file
+    data_dir = os.path.join("data", company_name)
+    os.makedirs(data_dir, exist_ok=True)
+
+    url_file_path = os.path.join(data_dir, "urls.txt")
+    if urls:
+        with open(url_file_path, "w", encoding="utf-8") as file:
+            for url in urls:
+                file.write(url + "\n")
+        print(f"\nRelevant URLs saved to {url_file_path}")
+    else:
+        print("No relevant URLs found.")
+
     # return list(all_urls)[:s20]
     return list(all_urls)
 
 
-
-# company_name = input("Enter the company name: ")
-# urls = get_company_partnership_urls(company_name)
-
-# print(f"\nTop 10 real URLs for {company_name} partnerships:")
-# for idx, url in enumerate(urls, start=1):
-#     print(f"{idx}. {url}")
-
-# if urls:
-#     output_file = f"{company_name}_urls.txt"
-#     with open(output_file, "w") as file:
-#         for url in urls:
-#             file.write(url + "\n")
-#     print(f"\nRelevant URLs saved to {output_file}")
-# else:
-#     print("No relevant URLs found.")

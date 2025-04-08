@@ -1,3 +1,4 @@
+from urllib.parse import urlparse
 import openai
 import re
 import os
@@ -17,8 +18,8 @@ openai.api_key = api_key
 def is_relevant_url(url):
     #keywords to avoid
     #avoids social media, legal pages and dead-ends
-    blacklist_keywords = ['careers', 'jobs', 'contact', 'about', 'privacy', 'terms', 'blog', 'news', 'login']
-    domain_blacklist = ['linkedin.com', 'facebook.com', 'twitter.com']
+    blacklist_keywords = ['careers', 'jobs', 'contact', 'privacy', 'blog', 'login', 'forum']
+    domain_blacklist = ['linkedin.com', 'facebook.com', 'twitter.com', 'reddit.com']
 
     parsed = urlparse(url)
     domain = parsed.netloc.lower()

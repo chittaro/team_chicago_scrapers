@@ -30,7 +30,7 @@ MAX_THREADS = 5
 def fetch_page(url):
     try:
         # time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))    # comment out if no rate limiting
-        response = requests.get(url, headers=HEADERS, timeout=60)
+        response = requests.get(url, headers=HEADERS, timeout=30)
         response.raise_for_status()
 
         # content_encoding = response.headers.get("Content-Encoding", "")

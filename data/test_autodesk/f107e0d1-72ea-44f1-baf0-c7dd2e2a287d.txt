@@ -1,0 +1,184 @@
+https://forums.autodesk.com/t5/inventor-forum/inventor-student-version-files-to-paid-version/td-p/7866972
+
+Solved: Inventor Student Version Files to Paid Version? - Autodesk Community
+Autodesk Community
+>
+Inventor Community
+>
+Inventor Forum
+>
+Inventor Student Version Files to Paid Version?
+Options
+Subscribe to RSS Feed
+Mark Topic as New
+Mark Topic as Read
+Float this Topic for Current User
+Bookmark
+Subscribe
+Mute
+Printer Friendly Page
+Inventor Student Version Files to Paid Version?
+Anonymous
+03-19-2018 09:13 PM
+LinkedIn
+X (Twitter)
+Facebook
+Inventor Student Version Files to Paid Version?
+Anonymous
+Not applicable
+‎03-19-2018
+09:13 PM
+Mark as New
+Bookmark
+Subscribe
+Mute
+Subscribe to RSS Feed
+Permalink
+Print
+Report
+Hello,
+I'm a 4th year student studying mechanical engineering in university, and we've been working on my final year design project.  We've been using the Inventor student version to create our design, which is entirely within our agreement to use the student version, since this is directly contributing to our learning, and a requirement for our degree.  Now that the project is done, we want to give our industry contract (who's plant our design is based on) the Inventor file of our design. I've been reading that there can be some consequences to opening a student version file in the paid version of Inventor, mainly it will "Infect" any paid version file that it is placed into with a water mark saying "student version".  Is there anyway around this?  We haven't profited from the design, nor is it strictly what I would call a professional or commercial use.  We've simply completed our educational portion of the design, and wish to allow our industry partner to have it to actually implement it.  The partner company uses Autocad products, and obviously uses Inventor.  That's why we used it to begin with.  Is there any way we can give our work to them in a manner that they can actually use it?  We've pretty excited to have finished our design, and it would really put a damper on our accomplishment if we couldn't see our design get built and used at the plant.
+Thanks,
+GPW.
+Solved!
+Go to Solution.
+Reply
+Reply
+Report
+0
+Likes
+Link copied
+Back to Topic Listing
+Previous
+Next
+Reply
+Report
+Accepted solutions (2)
+Solution 1
+Solution 2
+2,560 Views
+4 Replies
+Replies
+(4)
+lynn_zhang
+Community Manager
+‎03-19-2018
+10:54 PM
+Mark as New
+Bookmark
+Subscribe
+Mute
+Subscribe to RSS Feed
+Permalink
+Print
+Report
+Accepted solution
+Hi
+@gpw457CQUXS
+Glad to hear you've completed the design with Inventor student software. Great job and we are proud of your work! Please note that anything created with a student license is not allowed to be used for commercial purpose. See
+Autodesk Educational Licenses & Terms
+:
+"Software and cloud-based services subject to an Educational license of entitlement may be used solely for purposes directly related to learning, training, research or development. The software and cloud-based services cannot be used for commercial, professional or any other for-profit purposes."
+Lynn Zhang
+Community Manager
+Reply
+Reply
+Report
+0
+Likes
+Link copied
+Anonymous
+Not applicable
+‎03-19-2018
+11:05 PM
+Mark as New
+Bookmark
+Subscribe
+Mute
+Subscribe to RSS Feed
+Permalink
+Print
+Report
+Hi Lynn, thanks for the reply. I was aware that my student license cannot be used for commercial purposes, and I have not used it for such, but I was hoping that there would be a way for me to give my work to a different licensed user, who could then use my previous work (which although educational to me, contains information the other licensee would like to apply for a commercial use). I would at no point be using my student software for commercial use, but it would require the other licensee (with the fully paid license) to use files I have previously opened and edited for a commercial use.
+I hope I've clarified, but if the answer is the same please let me know and I will make other arrangements that do not violate the terms of agreement.
+Thanks again,
+GPW
+Reply
+Reply
+Report
+0
+Likes
+Link copied
+lynn_zhang
+Community Manager
+in reply to
+lynn_zhang
+‎03-19-2018
+11:57 PM
+Mark as New
+Bookmark
+Subscribe
+Mute
+Subscribe to RSS Feed
+Permalink
+Print
+Report
+Accepted solution
+Hi
+@GPWilly
+,
+You are welcome. I see what you want to do here, but I'm afraid the work you created in educational software is only limited to educational purpose. This limitation applies to you and other party who may use the work created by you. Please refer to
+AUTODESK
+LICENSE AND SERVICES AGREEMENT
+:
+6. Warnings
+6.3
+Affected Data
+.
+Work product and other data created with Licensed Materials made available under certain License Types, including licenses that limit the permitted purpose to educational purposes or personal learning purposes, may contain certain notices and limitations that make the work product and other data usable only in certain circumstances (e.g., only in the education field). In addition, if Licensee combines or links work product or other data created with such Licensed Materials with work product or other data otherwise created, then such other work product or data may also be affected by these notices and limitations. Autodesk will have no responsibility or liability whatsoever if Licensee combines or links work product or other data created with such Licensed Materials with work product or other data otherwise created. In addition, Licensee will not remove, alter or obscure any such notices or limitations.
+Lynn Zhang
+Community Manager
+Reply
+Reply
+Report
+0
+Likes
+Link copied
+JDMather
+Consultant
+‎03-20-2018
+04:55 AM
+Mark as New
+Bookmark
+Subscribe
+Mute
+Subscribe to RSS Feed
+Permalink
+Print
+Report
+@Anonymous
+wrote:
+....  Is there anyway around this?
+We haven't profited from the design, ....
+It should be very simple to re-create the work using a commercial license.  I always learn something from my initial attempts and make significant improvements to subsequent efforts. Exactly what you did - used student license and learned from effort, now repeat as a commercial effort.   Perhaps this opens up a paid job opportunity for you or one of your teammates.  It isn't a "way around this" - it is the right way, the ethical path.
+I am not a lawyer, so take my opinions for whatever they are worth - but I don't think lack profit negates commercial effort.  Many companies do work for which then end up not profiting.  The key point in my understanding - if you didn't do the work as a learning exercise, would the company have had to pay an internal employee or external consultant to do the work?  You merely did work for learning value where otherwise someone would have done the work for monetary value.  So even if the entity were a non-profit church needing a design for a bathroom remodel - your work replaces commercial work.
+-----------------------------------------------------------------------------------------
+Autodesk Inventor 2019 Certified Professional
+Autodesk AutoCAD 2013 Certified Professional
+Certified SolidWorks Professional
+Reply
+Reply
+Report
+0
+Likes
+Link copied
+Post Reply
+Preview
+Exit Preview
+never-displayed
+You must be signed in to add attachments
+never-displayed
+Additional options
+Associated Products
+You do not have permission to remove this product association.
+Report a website issue

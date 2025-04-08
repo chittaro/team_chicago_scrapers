@@ -1,0 +1,115 @@
+https://forums.autodesk.com/t5/vault-forum/how-to-share-vault-product-data-with-outside-partners/td-p/6494924
+
+How to share Vault product data with outside partners? - Autodesk Community
+Autodesk Community
+>
+Vault Community
+>
+Vault Forum
+>
+How to share Vault product data with outside partners?
+Options
+Subscribe to RSS Feed
+Mark Topic as New
+Mark Topic as Read
+Float this Topic for Current User
+Bookmark
+Subscribe
+Mute
+Printer Friendly Page
+How to share Vault product data with outside partners?
+Anonymous
+08-11-2016 10:43 AM
+LinkedIn
+X (Twitter)
+Facebook
+How to share Vault product data with outside partners?
+Anonymous
+Not applicable
+‎08-11-2016
+10:43 AM
+Mark as New
+Bookmark
+Subscribe
+Mute
+Subscribe to RSS Feed
+Permalink
+Print
+Report
+I am trying to understand the best practices for sharing product data within Vault with companies/partners/suppliers/co-developers outside our company. At present, the only method I can find is to 'pack' the some or all of product data (meta data, assembly & parts, drawings, and all other relevant data) and send it to the recipient. Or send them a bunch of URL to the CAD data. And when there is an update to the data that has been (released &) shared, then do this all over again.
+On the recipient's side, they have to 'unpack' the data and load it into their system. We have a few scenarios here:
+1. The recipient has Vault+Inventor - they may be able to take the data 'as is' with very little massaging to get into their system.
+2. The recipient has PDM/PLM/CAD from another vendor - they have to find a way to "import" the data into their system, and this may lead to some data being neither imported into their PLM system or their CAD system.
+3. The recipient has only CAD system - they have to grab the CAD data out of the 'pack' and use it, perhaps after translating it into their native CAD system, if they arent using Inventor.
+And all of them have to this over again the moment something changes at the sending end to either the metadata or the CAD data.
+I would like to know if the user community has evolved a set of best practices for each scenario. I would appreciate if people can share their thoughts on how they would deal with this situation in their company.
+Reply
+Reply
+Report
+0
+Likes
+Link copied
+Back to Topic Listing
+Previous
+Next
+Reply
+Report
+575 Views
+2 Replies
+Replies
+(2)
+gilsdorf_e
+Collaborator
+‎08-12-2016
+02:08 AM
+Mark as New
+Bookmark
+Subscribe
+Mute
+Subscribe to RSS Feed
+Permalink
+Print
+Report
+That is a big question.
+If you have a project based setup of your folders in Vault you might want to look into Buzzsaw Project sync. You can sync folders with a cloud folder and give access to your external partners.
+https://knowledge.autodesk.com/support/vault-products/learn-explore/caas/CloudHelp/cloudhelp/2015/EN...
+Best regards
+Erik
+Reply
+Reply
+Report
+1
+Like
+Link copied
+Anonymous
+Not applicable
+in reply to
+gilsdorf_e
+‎08-12-2016
+06:33 AM
+Mark as New
+Bookmark
+Subscribe
+Mute
+Subscribe to RSS Feed
+Permalink
+Print
+Report
+Thanks Gilsdorf, I already checked out Buzzsaw project. It works if everyone on the project is working on Vault+Inventor.
+Its not a very optimal solution for our co-developers/design partners/suppliers who have already standardized on another PLM+CAD. All they want is access to the our data (in their own PLM+CAD format) without burdening our IT department to give the data everytime there has been a change at our end. Obviously they are not going to install Vault or Inventor just to use our data in their own work. And since we have 100+ suppliers, we need another way to keep all these folks up-to-date on the data that we are sharing with them. As of now, we are only talking about sharing our data with our suppliers, not the other way around - so there is really no need for 'collaboration'.
+Reply
+Reply
+Report
+0
+Likes
+Link copied
+Post Reply
+Preview
+Exit Preview
+never-displayed
+You must be signed in to add attachments
+never-displayed
+Additional options
+Associated Products
+You do not have permission to remove this product association.
+Report a website issue

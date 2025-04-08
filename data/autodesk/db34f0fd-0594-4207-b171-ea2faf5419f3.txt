@@ -1,0 +1,223 @@
+https://news.microsoft.com/2005/12/13/microsoft-and-autodesk-broaden-strategic-alliance-to-enhance-productivity-in-manufacturing-engineering-and-construction-industries/
+
+Microsoft and Autodesk Broaden Strategic Alliance to Enhance Productivity in Manufacturing, Engineering and Construction Industries - Stories
+Skip to Main Content
+Skip to main content
+Microsoft
+Source
+Source
+Source
+Home
+Our Company
+Company News
+Official Microsoft Blog
+Microsoft On The Issues
+Europe
+Asia
+Latin America
+India
+UK
+Inclusion is Innovation
+Conexiones
+AI
+Innovation
+Digital Transformation
+Diversity & Inclusion
+Sustainability
+Work & Life
+Security
+Unlocked
+More
+All Microsoft
+Global
+Microsoft 365
+Teams
+Copilot
+Windows
+Surface
+Xbox
+Deals
+Small Business
+Support
+Software
+Software
+Windows Apps
+AI
+Outlook
+OneDrive
+Microsoft Teams
+OneNote
+Microsoft Edge
+Skype
+PCs & Devices
+PCs & Devices
+Computers
+Shop Xbox
+Accessories
+VR & mixed reality
+Certified Refurbished
+Trade-in for cash
+Entertainment
+Entertainment
+Xbox Game Pass Ultimate
+PC Game Pass
+Xbox games
+PC and Windows games
+Movies & TV
+Business
+Business
+Microsoft Cloud
+Microsoft Security
+Dynamics 365
+Microsoft 365 for business
+Microsoft Power Platform
+Windows 365
+Microsoft Industry
+Small Business
+Developer & IT
+Developer & IT
+Azure
+Microsoft Developer
+Microsoft Learn
+Explore ISV Success
+Microsoft Tech Community
+Azure Marketplace
+AppSource
+Visual Studio
+Other
+Other
+Microsoft Rewards
+Free downloads & security
+Education
+Gift cards
+Licensing
+Unlocked stories
+View Sitemap
+Search
+Search news.microsoft.com/source
+No results
+Cancel
+0
+Cart
+0 items in shopping cart
+Microsoft and Autodesk Broaden Strategic Alliance to Enhance Productivity in Manufacturing, Engineering and Construction Industries
+December 13, 2005
+|
+Share on Facebook (opens new window)
+Share on LinkedIn (opens new window)
+Share on X (opens new window)
+SAN RAFAEL, Calif., and REDMOND, Wash.
+—
+Dec. 13, 2005
+— Autodesk, Inc., and Microsoft Corp. today announced an expansion of their existing strategic alliance to enable customers to more easily create, manage and share critical design data at every stage of the project and product life-cycle processes. The companies announced the completion of the first phase of the expanded alliance, which includes the availability of new Autodesk DWF (Design Web Format) functionality to allow customers to easily integrate design information from Autodesk applications with Microsoft® Office applications and Microsoft Business Solutions–Great Plains® and Microsoft Business Solutions–Axapta®, now part of Microsoft Dynamics™.
+As a part of the expanded alliance, the companies also agreed to further align their respective technologies, including expanded Microsoft support for Autodesk’s DWF functionality and plans for Autodesk to support Microsoft XAML (Extensible Application Markup Language).
+“Microsoft and Autodesk are removing obstacles that prevent people from working together,” said Steve Ballmer, CEO of Microsoft. “We recognize the important role Autodesk DWF technology plays in accelerating project workflows of many of our manufacturing, construction and engineering customers. By working with Autodesk, we’re connecting critical information across the enterprise and entire supply chains — and enabling our joint customers to become more competitive.”
+As part of the expanded alliance, customers will be able to search and retrieve DWF-based information, such as land parcel maps and manufacturing product specifications, posted on the Internet using MSN® Search. This development will make it easier for project teams to find critical design specifications and information posted on the Internet.
+With the new version of Autodesk DWF Writer software, users can use the one-click publishing feature from Microsoft Office to create and more securely share 2-D and 3-D design content. They can also easily share drawings, maps and models within Microsoft Office applications by simply dragging and dropping the DWF file into the application window, and preview, search, print, and e-mail DWF files directly from Windows® Explorer.
+“The expanded alliance with Microsoft ensures that customers have the right data at the right time in their manufacturing, building and engineering projects. Our research shows that design content typically impacts 10 or more members of the project team and it often reaches them through Microsoft applications,” said Carol Bartz, chairman and CEO, Autodesk. “By adding XAML support to DWF, Microsoft users with PCs running the Windows Presentation Foundation will have the ability to universally view design-related data as well as manage and share complex 3-D design content more easily with downstream, non-CAD users.”
+Manufacturing, building and civil engineering professionals typically rely on a combination of design, office productivity and back-office software applications to complete their projects in a timely manner. Engineers and designers regularly communicate critical design information to extended teams, including suppliers, customers, procurement agents, and sales and marketing teams. With current methods, the rich, precise design content is often lost in the transfer between design and productivity applications resulting in errors, inefficient workflows and slower time to market. To solve these problems, Autodesk and Microsoft envision solutions for common users — as well as their partners, suppliers and customers — based on Autodesk’s Design Web Format (DWF) and Microsoft Extensible Application Markup Language (XAML) technologies that will enable engineers and non-engineers to share critical design information across the enterprise.
+Customers Workflows
+Companies such as Skidmore, Owings & Merrill LLP (SOM), the architects of New York City’s Freedom Tower project, depend on Autodesk and Microsoft applications including Office, MSN Search and Autodesk DWF Composer to implement digital design review into their workflow processes. Hundreds of architects, engineers, and consultants on SOM’s team working around the country are collaborating on design and building documents using Autodesk and Microsoft technologies. By using DWF Composer running on the Windows platform, the building and design professionals working on the project can view, mark up and integrate changes back into the design.
+“It is very important for us to work with the Microsoft platform and Autodesk solutions such as Buzzsaw and DWF not only for collaboration amongst the engineers and consultants working on the Freedom Tower project, but also as information storage and exchange tools throughout the life of the project including the design phase,” said Carl Galioto, partner at Skidmore, Owings & Merrill. “Just as SOM is a leader in our profession, we know that Autodesk and Microsoft are leaders in theirs, and it’s a terrific partnership.”
+To learn more about SOM’s use of Microsoft and Autodesk technologies for the Freedom Tower project go to
+http://www.autodesk.com/microsoftvideo
+.
+Availability
+The ability to use Autodesk DWF Writer and Viewer with Microsoft Office, Microsoft Great Plains and Microsoft Axapta support is available now. The DWF Writer and Viewer software can be downloaded for free in the United States at
+http://www.autodesk.com/dwf
+. The MSN Search and retrieval support of DWFs is scheduled to be available in early 2006 and Autodesk’s support of Microsoft XAML is planned for early 2007.
+About Microsoft
+Founded in 1975, Microsoft (Nasdaq “MSFT”) is the worldwide leader in software, services and solutions that help people and businesses realize their full potential.
+About Autodesk
+Autodesk, Inc. (NASDAQ: ADSK) is wholly focused on ensuring that great ideas are turned into reality. With six million users, Autodesk is the world’s leading software and services company for the building, manufacturing, infrastructure, digital media, and wireless data services fields. Autodesk’s solutions help customers create, manage, and share their data and digital assets more effectively. As a result, customers turn ideas into competitive advantage by becoming more productive, streamlining project efficiency, and maximizing profits.
+Founded in 1982, Autodesk is headquartered in San Rafael, California. For additional information about Autodesk, please visit
+www.autodesk.com
+.
+Note to editors:
+If you are interested in viewing additional information on Microsoft, please visit the Microsoft Web page at
+http://www.microsoft.com/presspass
+on Microsoft’s corporate information pages. Web links, telephone numbers and titles were correct at time of publication, but may since have changed. For additional assistance, journalists and analysts may contact Microsoft’s Rapid Response Team or other appropriate contacts listed at
+http://www.microsoft.com/presspass/contactpr.mspx
+.
+Related Posts
+Microsoft responds to TRC Capital’s “mini-tender” offer
+Microsoft announces quarterly dividend
+Microsoft Dragon Copilot provides the healthcare industry’s first unified voice AI assistant that enables clinicians to streamline clinical documentation, surface information and automate tasks
+Anduril and Microsoft partner to advance Integrated Visual Augmentation System (IVAS) program for the U.S. Army
+Governor Murphy and Princeton University President Eisgruber announce Microsoft and CoreWeave as founding partners in NJ AI Hub
+Follow us:
+Facebook
+X
+Threads
+Check us out on RSS
+Share this page:
+What's new
+Surface Pro
+Surface Laptop
+Surface Laptop Studio 2
+Surface Laptop Go 3
+Microsoft Copilot
+AI in Windows
+Explore Microsoft products
+Windows 11 apps
+Microsoft Store
+Account profile
+Download Center
+Microsoft Store support
+Returns
+Order tracking
+Certified Refurbished
+Microsoft Store Promise
+Flexible Payments
+Education
+Microsoft in education
+Devices for education
+Microsoft Teams for Education
+Microsoft 365 Education
+How to buy for your school
+Educator training and development
+Deals for students and parents
+Azure for students
+Business
+Microsoft Cloud
+Microsoft Security
+Dynamics 365
+Microsoft 365
+Microsoft Power Platform
+Microsoft Teams
+Microsoft 365 Copilot
+Small Business
+Developer & IT
+Azure
+Microsoft Developer
+Microsoft Learn
+Explore ISV Success
+Microsoft Tech Community
+Azure Marketplace
+AppSource
+Visual Studio
+Company
+Careers
+About Microsoft
+Company news
+Privacy at Microsoft
+Investors
+Diversity and inclusion
+Accessibility
+Sustainability
+English (United States)
+Your Privacy Choices Opt-Out Icon
+Your Privacy Choices
+Your Privacy Choices Opt-Out Icon
+Your Privacy Choices
+Consumer Health Privacy
+Sitemap
+Contact Microsoft
+Privacy
+Manage cookies
+Terms of use
+Trademarks
+Safety & eco
+Recycling
+About our ads
+© Microsoft 2025

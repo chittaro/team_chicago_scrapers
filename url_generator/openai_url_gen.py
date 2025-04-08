@@ -3,12 +3,15 @@ import re
 import os
 from dotenv import load_dotenv
 
-# openai.api_key = os.getenv("OPENAI_API_KEY")
-load_dotenv()
+
+parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+env_path = os.path.join(parent_dir, ".env")
+load_dotenv(dotenv_path=env_path)
 api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
     raise ValueError("Add your OpenAI key to your .env file.")
 openai.api_key = api_key
+
 
 def get_company_partnership_urls(company_name):
     client = openai.OpenAI()

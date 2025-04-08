@@ -3,8 +3,9 @@ import os
 import requests
 from dotenv import load_dotenv
 
-load_dotenv()
-
+parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+env_path = os.path.join(parent_dir, ".env")
+load_dotenv(dotenv_path=env_path)
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
 GOOGLE_CSE_ID = os.getenv("GOOGLE_CSE_ID")

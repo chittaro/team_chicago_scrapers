@@ -1,0 +1,148 @@
+https://intandem.autodesk.com/resource/eptura/
+
+In Tandem with Eptura: Enhanced building lifecycle management | Autodesk Tandem
+Skip to content
+Log in
+Sign Up Free
+Autodesk Tandem
+Explore Tandem
+Features
+Workflows
+Our product roadmap
+Sustainability credentials
+Integrations
+Integrations overview
+Tandem Connect
+Tandem Data APIs
+Partner integrations
+Resources
+Pricing
+Contact us
+Support
+Log in
+Sign Up Free
+Autodesk Tandem
+Explore Tandem
+Features
+Workflows
+Our product roadmap
+Sustainability credentials
+Integrations
+Integrations overview
+Tandem Connect
+Tandem Data APIs
+Partner integrations
+Resources
+Pricing
+Contact us
+Support
+In Tandem with Eptura: Enhanced building lifecycle management
+Keep up to date with Autodesk Tandem
+The partnership between Autodesk and Eptura is redefining the facilities management landscape. Combining Autodesk’s expertise in design software with Eptura’s suite of workplace and facility technologies ushers in a new era of building lifecycle efficiency and innovation.
+Initiated in 2021, this strategic alliance synergizes Building Information Modeling (BIM) with facility and workplace management, fostering a transition from construction to operations and enabling a connected building maintenance solution.
+Simplifying the Transition: How Autodesk Tandem and Eptura Enhance BIM and Digital Twins for Facility Owners
+Facility owners often grapple with the leap from construction completion to operational readiness with the handover process. And while Building Information Modeling (BIM) might not be widely recognized in the facility owner’s lexicon, its value in transitioning from construction to operation is worth understanding.
+BIM is the holistic process of creating and managing information for a built asset. Based on an intelligent model and enabled by a cloud platform, BIM integrates structured, multi-disciplinary data to produce a digital representation of an asset across its lifecycle, from planning and design to construction and operations.
+Recognizing that many owners and facility teams are not BIM experts, Autodesk Tandem and Eptura are simplifying this complexity. They are making intricate BIM data accessible in an intuitive solution that’s already commonly used by facility operators, easing owners into the operational phase.
+Tandem leverages BIM data and presents this valuable information back to the facility owner and operator, within the context of an accurate virtual model creating a near real-time digital twin, bridging the handover gap whilst Eptura is utilizing the data from the twin to enhance operational workflows.
+Hand in hand for a modern workspace
+The Autodesk Tandem and Eptura integration connects BIM with facility management workflows, a powerful synergy that delivers meaningful results for operators. Together, the cloud-based solution streamlines the use of building design and engineering information, along with space and asset data, to facilitate more effective and efficient building operations and maintenance. It bridges gaps typically introduced between the design and operations phases of a building’s lifecycle.
+There are four key advantages in creating this bi-directional, continuous data loop:
+Improved operational efficiency:
+Facility management can utilize digital twin data to gain insights into facility trends and monitor asset performance, helping to address potential issues proactively, thereby enabling operators to:
+Improve operational cost efficiencies
+Compress the impact of planned closures
+Reduce the frequency of unplanned downtime
+2. Enhance occupant experiences:
+Workplace leaders can combine the digital twin of a building with solutions to optimize how spaces are used and managed based on building occupancy and systems analytics. This is essential tooling to:
+Modernize workplace environments, creating effective, purpose-built experiences
+Improve security and safety for building occupants
+Lift the occupant experience for every building user
+3. Capital project management:
+Real estate leaders can leverage the digital handover and use the asset and facility operations data to optimize capital project development, from planning and design through delivery and operations. This can:
+Accelerate capital planning​
+Improve forecast accuracy
+Increase cost predictability
+Reduce defects at handover
+4. Optimize sustainability performance:
+Building owners and corporate leaders can gain greater visibility into the carbon usage of facilities. Today, it’s critical to achieve new standards, lead energy reduction projects, and benchmark the results alongside regular building maintenance. The resulting impact enables leaders to:
+Enhance energy efficiency
+Reduce their carbon footprint
+Minimize impact on the environment
+Simply put, in connecting design, BIM, and operations, Autodesk Tandem and Eptura enable building operators to manage the lifecycle of their portfolios more effectively.
+The future is integrated
+Autodesk and Eptura are crafting a future marked by enhanced efficiency, improved planning, and a new standard in building environment interaction.
+An upcoming integrated Eptura-Tandem interface, featuring an embedded Tandem viewer within Eptura, is set to transform asset management. It will shrink the time to configure and continuously update the building’s profile for regular building, facility, and asset maintenance. With unparalleled 3D views into the building’s infrastructure, technicians can more rapidly service buildings and assets while also contributing to the building’s data model.
+This advancement marks a new era for building owners and operators seeking exemplary building lifecycle management and thoughtful financial management of their investment.
+Watch this space to learn more about the
+Tandem and  Eptura integration beta coming soon.
+More resources
+Discover more articles, webinars, and whitepapers. Here are a few we think could be of interest.
+Webinar
+February 2025 webinar
+Watch time: 60 mins
+Webinar
+December 2024 webinar
+Watch time: 60 mins
+Webinar
+October 2024 webinar
+Watch time: 60 mins
+See more
+Autodesk
+Company overview↗
+Careers↗
+Investor relations↗
+Newsroom↗
+Diversity and belonging↗
+Autodesk Foundation
+Sustainability
+Contact us
+Students and educators
+Affiliate program
+Autodesk Research
+Autodesk Foundation↗
+Sustainability↗
+Contact us↗
+Students and educators↗
+Affiliate program↗
+Autodesk Research↗
+How to buy
+View all products↗
+Buying with Autodesk↗
+Renewable options↗
+Find a reseller↗
+Sales and refunds↗
+Choose your subscription plan↗
+Pay as you go with Flex↗
+Support
+Support overview↗
+Product support↗
+Manage your account↗
+Download and install software↗
+COVID-19 resources↗
+Education support↗
+Explore Tandem
+Back
+Explore Tandem
+Features
+Workflows
+Our product roadmap
+Sustainability credentials
+Integrations
+Back
+Integrations
+Integrations overview
+Tandem Connect
+Tandem Data APIs
+Partner integrations
+Resources
+Pricing
+Contact us
+Support
+Log in
+Sign Up Free
+Privacy settings
+Do not sell my personal
+            information
+Privacy/Cookies
+© 2025 Autodesk Inc. All rights reserved

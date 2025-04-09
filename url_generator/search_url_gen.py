@@ -1,6 +1,10 @@
 import requests
 import os
+import sys
 from dotenv import load_dotenv
+
+sys.path.append(os.path.dirname(__file__))
+from url_filtration import is_relevant_url
 
 load_dotenv()
 
@@ -29,8 +33,8 @@ def google_search(query, num_results=10):
 
 def get_company_partnership_urls(company_name):
     queries = [
-        f"{company_name} partners list",
-        f"{company_name} official partner companies",
+        f"{company_name} partner companies",
+        f"{company_name} manufacturing partners",
         f"{company_name} strategic alliances"
     ]
 
@@ -41,21 +45,33 @@ def get_company_partnership_urls(company_name):
         all_urls.update(urls)
 
     # TODO: filter URLS
+    relevant_urls = set()
+    filtered_out = set()
+
+    for url in all_urls:
+        if is_relevant_url(url):
+            relevant_urls.add(url)
+        else:
+            filtered_out.add(url)
+
+    print("Filtered out URLs:")
+    for url in filtered_out:
+        print("-", url)
 
     # write to file
     data_dir = os.path.join("data", company_name)
     os.makedirs(data_dir, exist_ok=True)
 
     url_file_path = os.path.join(data_dir, "urls.txt")
-    if urls:
+    if relevant_urls:
         with open(url_file_path, "w", encoding="utf-8") as file:
-            for url in urls:
+            for url in relevant_urls:
                 file.write(url + "\n")
         print(f"\nRelevant URLs saved to {url_file_path}")
     else:
         print("No relevant URLs found.")
 
     # return list(all_urls)[:s20]
-    return list(all_urls)
+    return list(relevant_urls)
 
 

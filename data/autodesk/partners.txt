@@ -1,38 +1,82 @@
+6 sense
+amec group ltd
 ansys
 arcadis
 aveva
-buzzsaw
-cummins
+bloom technologies
+building connected
+cads ltd
+caltec inc.
+chenxi information tech
+cintoo
 datum360
+dotproduct llc
+enercalc
 eptura
 esri
 esri inc.
 eyrus
+faro technologies
+fauconnet ingenierie
+fenestrapro
 geodin® (a fugro company)
 giscad limited
+golaem
 haas automation
 hdr
 hntb
+hotjar
+hsbcad
+huiyuan engineering data
 hysopt
 idat gmbh
 idea statica
+ideate software
+inc.
 ingram micro
 ioffice + spaceiq
-learning partners
+jiangsu delaunay
+kozo system inc.
+la28
 linear gmbh
+llc
+ltd.
 makersite
+manufacton
 microsoft
+mount olive software co.ltd
+navvis
+nearmap
+ningbo chengta building smart
 onesoftwareshop
+optimatics
+oris
 owings & merrill llp (som)
+panasonic corporation
 plangrid
+plannerly
+pointcab gmbh
+probim technology co.
 progress group
 ptac consulting engineers
-schaeffler
+qnect llc
+rollworks
 schneider electric
+shanghai hongwa information tech
+shenzhen ths hi-tech corp.
 skidmore
 sofistik ag
+solar-computer gmbh
+spatial business systems
+stackadapt
+steel projects
 stratus
+strucsoft solutions
+tata consulting engineers ltd.
+terminus
+the trade desk
 transcend software
-value added distributors (vads)
-value added resellers (vars)
+vapar
+virtualgrid
 volkerwessels
+zhongyifeng digital technology co

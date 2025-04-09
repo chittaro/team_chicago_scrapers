@@ -30,7 +30,7 @@ def write_text_to_file(company_name, url, text):
     folder_path = os.path.join("data", company_name)
     os.makedirs(folder_path, exist_ok=True)
     unique_id = str(uuid.uuid4())
-    filename = os.path.join(folder_path, f"{unique_id}.txt")
+    filename = os.path.join(folder_path, f"data_{unique_id}.txt")
     with open(filename, "w", encoding="utf-8") as f:
         f.write(f"{url}\n\n{text}")
     print(f"Saved: {filename}")
@@ -51,8 +51,12 @@ def write_text_to_file(company_name, url, text):
 #         f.write(f"{url}\n\n{text}")
 #     print(f"Saved: {filepath}")
 
+def get_html(company_name):
+    # load urls from file (already filtered)
+    urls_file = os.path.join("data", company_name, "urls.txt")
+    with open(urls_file, "r") as f:
+        urls = [line.strip() for line in f if line.strip()]
 
-def get_html(company_name, urls):
     def process(url):
         html = fetch_page(url)
         if html:
@@ -61,7 +65,7 @@ def get_html(company_name, urls):
             write_text_to_file(company_name, url, text)
             return 1
         else:
-            print(f"Failed: {url}, trying Selenium...")
+            print(f"Trying Selenium: {url}")
             html = fetch_page_selenium(url)
             if html:
                 soup = BeautifulSoup(html, "html.parser")
@@ -69,7 +73,7 @@ def get_html(company_name, urls):
                 write_text_to_file(company_name, url, text)
                 return 1
             else:
-                print(f"Failed Selenium: {url}")
+                print(f"FAILED Selenium: {url}")
                 write_text_to_file(company_name, url, "Failed to get page.")
                 return 0
 
@@ -158,7 +162,7 @@ def get_all_names(company_name):
     url_to_names = {}
 
     for filename in os.listdir(company_dir):
-        if filename.endswith(".txt") and filename not in {"urls.txt", "partners.txt"}:
+        if filename.startswith("data_"):
             filepath = os.path.join(company_dir, filename)
             with open(filepath, "r", encoding="utf-8") as f:
                 content = f.read()
@@ -188,6 +192,30 @@ def get_all_names(company_name):
     return all_names
 
 
+def clear_html(company_name):
+    company_dir = os.path.join("data", company_name)
+    if not os.path.exists(company_dir):
+        print(f"No data found for {company_name}.")
+        return set()
+
+    deleted_files = set()
+    for filename in os.listdir(company_dir):
+        if filename.startswith("data_"):
+            file_path = os.path.join(company_dir, filename)
+            try:
+                os.remove(file_path)
+                deleted_files.add(filename)
+            except Exception as e:
+                print(f"Failed to delete {filename}: {e}")
+
+    if deleted_files:
+        print(f"Deleted {len(deleted_files)} files:")
+        # for f in deleted_files:
+        #     print("-", f)
+    else:
+        print("No html files found to delete.")
+
+    return deleted_files
 
 # Example usage
 # ex_filename = '16838a97-f8f9-42b4-9502-6c9b89ed679a.txt'

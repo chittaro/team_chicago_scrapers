@@ -1,132 +1,372 @@
 {
   "https://investors.autodesk.com/news-releases/news-release-details/autodesk-and-aveva-form-strategic-alliance-provide-extended": [
-    "aveva"
+    {
+      "name": "aveva",
+      "type": "strategic partner"
+    }
   ],
-  "https://brand.autodesk.com/co-branding/": [],
+  "https://brand.autodesk.com/co-branding/": [
+    {
+      "name": "learning partners",
+      "type": "co-branding partner"
+    },
+    {
+      "name": "value added distributors (vads)",
+      "type": "co-branding partner"
+    },
+    {
+      "name": "value added resellers (vars)",
+      "type": "co-branding partner"
+    }
+  ],
   "https://www.autodesk.com/partners/overview": [],
   "https://www.autodesk.com/partners/strategic-alliance-partners": [
-    "ansys",
-    "eptura",
-    "esri",
-    "haas automation",
-    "schneider electric"
+    {
+      "name": "ansys",
+      "type": "strategic partner"
+    },
+    {
+      "name": "eptura",
+      "type": "strategic partner"
+    },
+    {
+      "name": "esri",
+      "type": "strategic partner"
+    },
+    {
+      "name": "haas automation",
+      "type": "strategic partner"
+    },
+    {
+      "name": "schneider electric",
+      "type": "strategic partner"
+    }
   ],
   "https://www.autodesk.com/support/partners": [],
   "https://help.autodesk.com/view/DOCS/ENU/?guid=Account_Admin_Companies": [],
   "https://intandem.autodesk.com/resource/eptura/": [
-    "eptura"
+    {
+      "name": "eptura",
+      "type": "strategic partner"
+    }
   ],
   "https://www.autodesk.com/eu/partners/locate-a-reseller": [],
   "https://aps.autodesk.com/certified-partners-list": [],
   "https://www.autodesk.com/partners/locate-a-reseller": [
-    "ingram micro"
+    {
+      "name": "ingram micro",
+      "type": "Authorized Volume Partner"
+    }
   ],
-  "https://forums.autodesk.com/t5/autocad-forum/quot-new-buying-process-quot-courtesy-email/td-p/12585963": [],
   "https://www.autodesk.com/": [
-    "golaem"
+    {
+      "name": "golaem",
+      "type": "software integration partner"
+    }
   ],
   "https://aps.autodesk.com/certified-partners": [],
-  "https://blogs.autodesk.com/autodesk-life/inside-autodesk/new-employee-experience/": [],
   "https://makersite.io/press/makersite-expands-strategic-partnership-with-autodesk/": [
-    "makersite"
+    {
+      "name": "makersite",
+      "type": "strategic partner"
+    }
   ],
   "https://www.autodesk.com/in/partners/locate-a-reseller": [],
   "https://adsknews.autodesk.com/en/views/embracing-aeco/": [
-    "eptura",
-    "esri"
+    {
+      "name": "eptura",
+      "type": "strategic partner"
+    },
+    {
+      "name": "esri",
+      "type": "strategic partner"
+    }
   ],
   "https://investors.autodesk.com/news-releases/news-release-details/autodesk-named-official-design-and-make-platform-la28-olympic": [
-    "6 sense",
-    "hotjar",
-    "la28",
-    "rollworks",
-    "stackadapt",
-    "terminus",
-    "the trade desk"
+    {
+      "name": "6 sense",
+      "type": "advertising partner"
+    },
+    {
+      "name": "hotjar",
+      "type": "advertising partner"
+    },
+    {
+      "name": "la28",
+      "type": "official design and make platform"
+    },
+    {
+      "name": "rollworks",
+      "type": "advertising partner"
+    },
+    {
+      "name": "stackadapt",
+      "type": "advertising partner"
+    },
+    {
+      "name": "terminus",
+      "type": "advertising partner"
+    },
+    {
+      "name": "the trade desk",
+      "type": "advertising partner"
+    }
   ],
-  "https://forums.autodesk.com/t5/vault-forum/how-to-share-vault-product-data-with-outside-partners/td-p/6494924": [],
   "https://news.microsoft.com/2005/12/13/microsoft-and-autodesk-broaden-strategic-alliance-to-enhance-productivity-in-manufacturing-engineering-and-construction-industries/": [
-    "microsoft",
-    "owings & merrill llp (som)",
-    "skidmore"
+    {
+      "name": "microsoft",
+      "type": "strategic partner"
+    },
+    {
+      "name": "skidmore, owings & merrill llp",
+      "type": "customer"
+    }
   ],
   "https://aecpartners.autodesk.com/?lang=en": [
-    "bloom technologies",
-    "cads ltd",
-    "caltec inc.",
-    "chenxi information tech",
-    "cintoo",
-    "datum360",
-    "dotproduct llc",
-    "enercalc",
-    "eptura",
-    "esri inc.",
-    "faro technologies",
-    "fauconnet ingenierie",
-    "fenestrapro",
-    "geodin\u00ae (a fugro company)",
-    "hsbcad",
-    "huiyuan engineering data",
-    "hysopt",
-    "idat gmbh",
-    "idea statica",
-    "ideate software",
-    "inc.",
-    "jiangsu delaunay",
-    "kozo system inc.",
-    "linear gmbh",
-    "llc",
-    "ltd.",
-    "manufacton",
-    "mount olive software co.ltd",
-    "navvis",
-    "nearmap",
-    "ningbo chengta building smart",
-    "optimatics",
-    "oris",
-    "panasonic corporation",
-    "plannerly",
-    "pointcab gmbh",
-    "probim technology co.",
-    "progress group",
-    "ptac consulting engineers",
-    "qnect llc",
-    "shanghai hongwa information tech",
-    "shenzhen ths hi-tech corp.",
-    "sofistik ag",
-    "solar-computer gmbh",
-    "spatial business systems",
-    "steel projects",
-    "stratus",
-    "strucsoft solutions",
-    "transcend software",
-    "vapar",
-    "virtualgrid",
-    "zhongyifeng digital technology co"
+    {
+      "name": "bloom technologies",
+      "type": "industry partner"
+    },
+    {
+      "name": "cads ltd",
+      "type": "industry partner"
+    },
+    {
+      "name": "caltec inc.",
+      "type": "industry partner"
+    },
+    {
+      "name": "chenxi information tech",
+      "type": "industry partner"
+    },
+    {
+      "name": "cintoo",
+      "type": "industry partner"
+    },
+    {
+      "name": "datum360",
+      "type": "strategic partner"
+    },
+    {
+      "name": "dotproduct llc",
+      "type": "industry partner"
+    },
+    {
+      "name": "enercalc, llc",
+      "type": "industry partner"
+    },
+    {
+      "name": "eptura",
+      "type": "strategic partner"
+    },
+    {
+      "name": "esri inc.",
+      "type": "strategic partner"
+    },
+    {
+      "name": "faro technologies, inc.",
+      "type": "industry partner"
+    },
+    {
+      "name": "fauconnet ingenierie",
+      "type": "industry partner"
+    },
+    {
+      "name": "fenestrapro",
+      "type": "industry partner"
+    },
+    {
+      "name": "geodin\u00ae (a fugro company)",
+      "type": "strategic partner"
+    },
+    {
+      "name": "hsbcad",
+      "type": "industry partner"
+    },
+    {
+      "name": "huiyuan engineering data",
+      "type": "industry partner"
+    },
+    {
+      "name": "hysopt",
+      "type": "strategic partner"
+    },
+    {
+      "name": "idat gmbh",
+      "type": "strategic partner"
+    },
+    {
+      "name": "idea statica",
+      "type": "strategic partner"
+    },
+    {
+      "name": "ideate software",
+      "type": "industry partner"
+    },
+    {
+      "name": "jiangsu delaunay",
+      "type": "industry partner"
+    },
+    {
+      "name": "kozo system inc.",
+      "type": "industry partner"
+    },
+    {
+      "name": "linear gmbh",
+      "type": "strategic partner"
+    },
+    {
+      "name": "manufacton",
+      "type": "industry partner"
+    },
+    {
+      "name": "mount olive software co.ltd",
+      "type": "industry partner"
+    },
+    {
+      "name": "navvis",
+      "type": "industry partner"
+    },
+    {
+      "name": "nearmap",
+      "type": "industry partner"
+    },
+    {
+      "name": "ningbo chengta building smart",
+      "type": "industry partner"
+    },
+    {
+      "name": "optimatics",
+      "type": "industry partner"
+    },
+    {
+      "name": "oris",
+      "type": "industry partner"
+    },
+    {
+      "name": "panasonic corporation",
+      "type": "industry partner"
+    },
+    {
+      "name": "plannerly",
+      "type": "industry partner"
+    },
+    {
+      "name": "pointcab gmbh",
+      "type": "industry partner"
+    },
+    {
+      "name": "probim technology co.,ltd.",
+      "type": "industry partner"
+    },
+    {
+      "name": "progress group",
+      "type": "strategic partner"
+    },
+    {
+      "name": "ptac consulting engineers",
+      "type": "strategic partner"
+    },
+    {
+      "name": "qnect llc",
+      "type": "industry partner"
+    },
+    {
+      "name": "shanghai hongwa information tech",
+      "type": "industry partner"
+    },
+    {
+      "name": "shenzhen ths hi-tech corp.",
+      "type": "industry partner"
+    },
+    {
+      "name": "sofistik ag",
+      "type": "strategic partner"
+    },
+    {
+      "name": "solar-computer gmbh",
+      "type": "industry partner"
+    },
+    {
+      "name": "spatial business systems, llc",
+      "type": "industry partner"
+    },
+    {
+      "name": "steel projects",
+      "type": "industry partner"
+    },
+    {
+      "name": "stratus",
+      "type": "strategic partner"
+    },
+    {
+      "name": "strucsoft solutions",
+      "type": "industry partner"
+    },
+    {
+      "name": "transcend software",
+      "type": "strategic partner"
+    },
+    {
+      "name": "vapar",
+      "type": "industry partner"
+    },
+    {
+      "name": "virtualgrid",
+      "type": "industry partner"
+    },
+    {
+      "name": "zhongyifeng digital technology co",
+      "type": "industry partner"
+    }
   ],
   "https://govdesignhub.com/2022/05/26/autodesk-examines-how-strategic-alliance-with-ioffice-spaceiq-benefits-owner-operators/": [
-    "building connected",
-    "eyrus",
-    "ioffice + spaceiq",
-    "plangrid"
+    {
+      "name": "building connected",
+      "type": "acquisition"
+    },
+    {
+      "name": "eyrus",
+      "type": "strategic investment"
+    },
+    {
+      "name": "ioffice + spaceiq",
+      "type": "strategic partner"
+    },
+    {
+      "name": "plangrid",
+      "type": "acquisition"
+    }
   ],
   "https://www.esri.com/en-us/about/partners/our-partners/strategic-alliances/autodesk/overview": [
-    "arcadis",
-    "esri",
-    "hdr",
-    "hntb",
-    "volkerwessels"
+    {
+      "name": "arcadis",
+      "type": "collaboration partner"
+    },
+    {
+      "name": "esri",
+      "type": "strategic partner"
+    },
+    {
+      "name": "hdr",
+      "type": "collaboration partner"
+    },
+    {
+      "name": "volkerwessels",
+      "type": "collaboration partner"
+    }
   ],
   "https://investors.autodesk.com/news-releases/news-release-details/tata-consulting-engineers-ltd-and-autodesk-announce-strategic": [
-    "tata consulting engineers ltd."
-  ],
-  "https://forums.autodesk.com/t5/installation-licensing/aec-collection-licences-for-the-caribbean/td-p/8155731": [
-    "giscad limited"
+    {
+      "name": "tata consulting engineers ltd.",
+      "type": "strategic partner"
+    }
   ],
   "https://www.autodesk.com/ae/partners/locate-a-reseller": [],
   "https://www.reddit.com/r/AutoCAD/comments/bdnzn9/third_party_resellers/": [
-    "onesoftwareshop"
-  ],
-  "https://forums.autodesk.com/t5/civil-3d-forum/parts-list-in-metric-system-and-profile-styles-free-download/td-p/5993366": [],
-  "https://www.reddit.com/r/Revit/comments/u8rt0d/autodesk_direct_purchase_vs_reseller/": []
+    {
+      "name": "onesoftwareshop",
+      "type": "reseller"
+    }
+  ]
 }

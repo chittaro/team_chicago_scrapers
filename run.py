@@ -8,6 +8,8 @@ import uuid
 import scraper_helper
 from url_generator.search_url_gen import get_company_partnership_urls
 from name_finder.name_finder import get_html, get_names, get_all_names, clear_html
+# swap this one in to try out the partner classification, bit iffy bit it works? Prompt is getting too complex and chat is starting to tweak out...
+# from name_finder.name_type_finder import get_html, get_names, get_all_names, clear_html
 
 # note to gang: each of these sections can run independently, just comment out any steps you 
 # don't want to be run again (get html uses hella search api and get partner names uses hella openai)

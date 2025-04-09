@@ -1,5 +1,4 @@
 6 sense
-amec group ltd
 ansys
 arcadis
 aveva
@@ -11,20 +10,18 @@ chenxi information tech
 cintoo
 datum360
 dotproduct llc
-enercalc
+enercalc, llc
 eptura
 esri
 esri inc.
 eyrus
-faro technologies
+faro technologies, inc.
 fauconnet ingenierie
 fenestrapro
 geodin® (a fugro company)
-giscad limited
 golaem
 haas automation
 hdr
-hntb
 hotjar
 hsbcad
 huiyuan engineering data
@@ -32,15 +29,13 @@ hysopt
 idat gmbh
 idea statica
 ideate software
-inc.
 ingram micro
 ioffice + spaceiq
 jiangsu delaunay
 kozo system inc.
 la28
+learning partners
 linear gmbh
-llc
-ltd.
 makersite
 manufacton
 microsoft
@@ -51,12 +46,11 @@ ningbo chengta building smart
 onesoftwareshop
 optimatics
 oris
-owings & merrill llp (som)
 panasonic corporation
 plangrid
 plannerly
 pointcab gmbh
-probim technology co.
+probim technology co.,ltd.
 progress group
 ptac consulting engineers
 qnect llc
@@ -64,10 +58,10 @@ rollworks
 schneider electric
 shanghai hongwa information tech
 shenzhen ths hi-tech corp.
-skidmore
+skidmore, owings & merrill llp
 sofistik ag
 solar-computer gmbh
-spatial business systems
+spatial business systems, llc
 stackadapt
 steel projects
 stratus
@@ -76,6 +70,8 @@ tata consulting engineers ltd.
 terminus
 the trade desk
 transcend software
+value added distributors (vads)
+value added resellers (vars)
 vapar
 virtualgrid
 volkerwessels

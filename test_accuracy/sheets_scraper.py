@@ -21,8 +21,6 @@ def get_document_tabs():
 
     # Extract sheet/tab names
     sheet_names = [sheet['properties']['title'] for sheet in data['sheets']]
-    sheet_names.remove('Players')
-    sheet_names.remove('PB_CACHE')
     return sheet_names
 
 def get_competitor_data(sheet_name):
@@ -32,27 +30,62 @@ def get_competitor_data(sheet_name):
     response = requests.get(url)
     data = response.json()
 
-    print(f"********** Getting data from competitor: {sheet_name}")
     values = data.get('values', [])
-    headers = values[0]
+    if len(values) > 0:
+        headers = values[0]
+    else:
+        return None
+
     rows = values[1:]
 
-    df = pd.DataFrame(rows, columns=headers)
+    # reduce data to relevant columns
+    filt_headers = []
+    filt_rows = []
+    filt_indices = []
+    relevant_headers = ["Partner Name", "Partnership Type", "Links"]
+    pattern = "|".join(relevant_headers)
+    for idx, h in enumerate(headers):
+        match = re.search(pattern, h, re.IGNORECASE)
+        if match:
+            filt_headers.append(match.group())
+            filt_indices.append(idx)
+
+    filt_rows = [[row[i] if i < len(row) else None for i in filt_indices] for row in rows]
+    df = pd.DataFrame(filt_rows, columns=filt_headers)
 
     # reduce df to relevant headers
-    relevant_headers = ["Partner Name", "Partnership Type", "Links"]
-    relevant_indices = []
-    for i, s in enumerate(headers):
-        for h in relevant_headers:
-            if re.search(f'{h}', s, re.IGNORECASE):
-                relevant_indices.append(i)
-                df.rename(columns={s: h}, inplace=True)
+    # relevant_indices = []
+    # for i, s in enumerate(headers):
+    #     for h in relevant_headers:
+    #         if re.search(f'{h}', s, re.IGNORECASE):
+    #             relevant_indices.append(i)
+    #             df.rename(columns={s: h}, inplace=True)
 
-    df_filt = df.iloc[:, relevant_indices]
+    if df.empty:
+        return None
 
-    return df_filt
+    print(f"\n\n********** Fetched data from competitor: {sheet_name}")
+    print(f"\nSample of data: ")
+    print(df.head(2))
 
-def get_all_competitor_data():
+    return df
+
+def write_competitor_data():
     competitors = get_document_tabs()
-    test_df = get_competitor_data(competitors[0])
-    print(test_df.head(2))
+
+    data_dir = os.path.join(parent_dir, "manual_data")
+    os.makedirs(data_dir, exist_ok=True)
+    
+    for c in competitors:
+        # normalize competitor name
+        normed_name = '_'.join(c.lower().split(' '))
+
+        print(f"\n\n********** Getting data from competitor: {c}")
+        competitor_df = get_competitor_data(c)
+        if competitor_df is not None:
+            # create/overwrite competitor csv with google sheet data
+            data_path = os.path.join(data_dir, f"{normed_name}_data.csv")
+            print(f"\n\n********** Writing {c}'s data to path: {data_path}")
+            competitor_df.to_csv(data_path, index=False)
+        else:
+            print(f"NONE FOUND -- skipping competitor {c}")

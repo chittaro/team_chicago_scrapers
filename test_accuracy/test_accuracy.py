@@ -1,6 +1,8 @@
 import sys
 import os
 import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
 
 parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 manual_data_dir = os.path.join(parent_dir, "manual_data")
@@ -64,4 +66,34 @@ def get_stats(company_name):
     print(f"Old link sample: {manual_df["Links"][0:5]}")
     print(f"New link sample: {scraped_data["Links"][0:5]}")
 
-get_stats("autodesk")
+# ** currently designed just for comparing partnership name counts
+def make_partner_count_barchart():
+    companies = ["PTC", "Faro", "autodesk"]
+    partner_counts = {
+        "Manual Extraction": [],
+        "Automated Extraction": []
+    }
+    for comp in companies:
+        manual_df, scraped_data = load_data(comp)
+        partner_counts["Manual Extraction"].append(len(manual_df["Partner Name"]))
+        partner_counts["Automated Extraction"].append(len(scraped_data["Partner Name"]))                                                       
+
+    x = np.arange(len(companies))
+    width = 0.3
+    multiplier = 0
+
+    fig, ax = plt.subplots(figsize=(6, 5))
+
+    for method, count in partner_counts.items():
+        offset = width * multiplier
+        rects = ax.bar(x + offset, count, width, label=method)
+        ax.bar_label(rects, padding=2)
+        multiplier += 1
+
+    ax.set_ylabel("# of Partnerships", fontsize=12)
+    ax.set_title("Number of Partnerships Identified by Extraction Method")
+    ax.set_xticks(x + (width/2), companies)
+    ax.set_ylim(0, 95)
+    ax.legend(loc="upper left", ncols=2)
+
+    fig.savefig("test_plot.png")

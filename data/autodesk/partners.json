@@ -1,127 +1,4 @@
 {
-  "https://investors.autodesk.com/news-releases/news-release-details/autodesk-and-aveva-form-strategic-alliance-provide-extended": [
-    {
-      "name": "aveva",
-      "type": "strategic partner"
-    }
-  ],
-  "https://brand.autodesk.com/co-branding/": [
-    {
-      "name": "learning partners",
-      "type": "co-branding partner"
-    },
-    {
-      "name": "value added distributors (vads)",
-      "type": "co-branding partner"
-    },
-    {
-      "name": "value added resellers (vars)",
-      "type": "co-branding partner"
-    }
-  ],
-  "https://www.autodesk.com/partners/overview": [],
-  "https://www.autodesk.com/partners/strategic-alliance-partners": [
-    {
-      "name": "ansys",
-      "type": "strategic partner"
-    },
-    {
-      "name": "eptura",
-      "type": "strategic partner"
-    },
-    {
-      "name": "esri",
-      "type": "strategic partner"
-    },
-    {
-      "name": "haas automation",
-      "type": "strategic partner"
-    },
-    {
-      "name": "schneider electric",
-      "type": "strategic partner"
-    }
-  ],
-  "https://www.autodesk.com/support/partners": [],
-  "https://help.autodesk.com/view/DOCS/ENU/?guid=Account_Admin_Companies": [],
-  "https://intandem.autodesk.com/resource/eptura/": [
-    {
-      "name": "eptura",
-      "type": "strategic partner"
-    }
-  ],
-  "https://www.autodesk.com/eu/partners/locate-a-reseller": [],
-  "https://aps.autodesk.com/certified-partners-list": [],
-  "https://www.autodesk.com/partners/locate-a-reseller": [
-    {
-      "name": "ingram micro",
-      "type": "Authorized Volume Partner"
-    }
-  ],
-  "https://www.autodesk.com/": [
-    {
-      "name": "golaem",
-      "type": "software integration partner"
-    }
-  ],
-  "https://aps.autodesk.com/certified-partners": [],
-  "https://makersite.io/press/makersite-expands-strategic-partnership-with-autodesk/": [
-    {
-      "name": "makersite",
-      "type": "strategic partner"
-    }
-  ],
-  "https://www.autodesk.com/in/partners/locate-a-reseller": [],
-  "https://adsknews.autodesk.com/en/views/embracing-aeco/": [
-    {
-      "name": "eptura",
-      "type": "strategic partner"
-    },
-    {
-      "name": "esri",
-      "type": "strategic partner"
-    }
-  ],
-  "https://investors.autodesk.com/news-releases/news-release-details/autodesk-named-official-design-and-make-platform-la28-olympic": [
-    {
-      "name": "6 sense",
-      "type": "advertising partner"
-    },
-    {
-      "name": "hotjar",
-      "type": "advertising partner"
-    },
-    {
-      "name": "la28",
-      "type": "official design and make platform"
-    },
-    {
-      "name": "rollworks",
-      "type": "advertising partner"
-    },
-    {
-      "name": "stackadapt",
-      "type": "advertising partner"
-    },
-    {
-      "name": "terminus",
-      "type": "advertising partner"
-    },
-    {
-      "name": "the trade desk",
-      "type": "advertising partner"
-    }
-  ],
-  "https://news.microsoft.com/2005/12/13/microsoft-and-autodesk-broaden-strategic-alliance-to-enhance-productivity-in-manufacturing-engineering-and-construction-industries/": [
-    {
-      "name": "microsoft",
-      "type": "strategic partner"
-    },
-    {
-      "name": "skidmore, owings & merrill llp",
-      "type": "customer"
-    }
-  ],
   "https://aecpartners.autodesk.com/?lang=en": [
     {
       "name": "bloom technologies",
@@ -320,6 +197,105 @@
       "type": "industry partner"
     }
   ],
+  "https://investors.autodesk.com/news-releases/news-release-details/autodesk-and-aveva-form-strategic-alliance-provide-extended": [
+    {
+      "name": "aveva",
+      "type": "strategic partner"
+    }
+  ],
+  "https://www.autodesk.com/partners/strategic-alliance-partners": [
+    {
+      "name": "ansys",
+      "type": "strategic partner"
+    },
+    {
+      "name": "eptura",
+      "type": "strategic partner"
+    },
+    {
+      "name": "esri",
+      "type": "strategic partner"
+    },
+    {
+      "name": "haas automation",
+      "type": "strategic partner"
+    },
+    {
+      "name": "schneider electric",
+      "type": "strategic partner"
+    }
+  ],
+  "https://www.autodesk.com/support/partners": [],
+  "https://brand.autodesk.com/co-branding/": [],
+  "https://www.autodesk.com/partners/overview": [],
+  "https://investors.autodesk.com/news-releases/news-release-details/pathtrace-marks-productive-autodesk-partnership-new-software": [
+    {
+      "name": "pathtrace",
+      "type": "Global Preferred CAM Partner"
+    }
+  ],
+  "https://makersite.io/press/makersite-expands-strategic-partnership-with-autodesk/": [
+    {
+      "name": "makersite",
+      "type": "strategic partner"
+    }
+  ],
+  "https://help.autodesk.com/view/DOCS/ENU/?guid=Account_Admin_Companies": [],
+  "https://www.autodesk.com/": [],
+  "https://intandem.autodesk.com/resource/eptura/": [
+    {
+      "name": "eptura",
+      "type": "strategic partner"
+    }
+  ],
+  "https://aps.autodesk.com/certified-partners": [],
+  "https://www.autodesk.com/eu/partners/locate-a-reseller": [],
+  "https://aps.autodesk.com/certified-partners-list": [],
+  "https://www.autodesk.com/partners/locate-a-reseller": [
+    {
+      "name": "ingram micro",
+      "type": "Authorized Volume Partner"
+    }
+  ],
+  "https://adsknews.autodesk.com/en/views/embracing-aeco/": [
+    {
+      "name": "eptura",
+      "type": "strategic partner"
+    },
+    {
+      "name": "esri",
+      "type": "strategic partner"
+    }
+  ],
+  "https://www.imaginit.com/": [
+    {
+      "name": "imaginit",
+      "type": "Autodesk reseller"
+    }
+  ],
+  "https://www.autodesk.com/in/partners/locate-a-reseller": [],
+  "https://investors.autodesk.com/news-releases/news-release-details/autodesk-named-official-design-and-make-platform-la28-olympic": [
+    {
+      "name": "la28",
+      "type": "official platform partner"
+    }
+  ],
+  "https://news.microsoft.com/2005/12/13/microsoft-and-autodesk-broaden-strategic-alliance-to-enhance-productivity-in-manufacturing-engineering-and-construction-industries/": [
+    {
+      "name": "microsoft",
+      "type": "strategic partner"
+    },
+    {
+      "name": "skidmore, owings & merrill llp",
+      "type": "customer"
+    }
+  ],
+  "https://investors.autodesk.com/news-releases/news-release-details/tata-consulting-engineers-ltd-and-autodesk-announce-strategic": [
+    {
+      "name": "tata consulting engineers ltd.",
+      "type": "strategic partner"
+    }
+  ],
   "https://govdesignhub.com/2022/05/26/autodesk-examines-how-strategic-alliance-with-ioffice-spaceiq-benefits-owner-operators/": [
     {
       "name": "building connected",
@@ -338,10 +314,24 @@
       "type": "acquisition"
     }
   ],
+  "https://www.prnewswire.com/news-releases/makersite-expands-strategic-partnership-with-autodesk-302249722.html": [
+    {
+      "name": "ansys",
+      "type": "strategic partner"
+    },
+    {
+      "name": "daikin",
+      "type": "lifecycle assessments partner"
+    },
+    {
+      "name": "makersite",
+      "type": "strategic partner"
+    }
+  ],
   "https://www.esri.com/en-us/about/partners/our-partners/strategic-alliances/autodesk/overview": [
     {
       "name": "arcadis",
-      "type": "collaboration partner"
+      "type": "project collaborator"
     },
     {
       "name": "esri",
@@ -349,24 +339,81 @@
     },
     {
       "name": "hdr",
-      "type": "collaboration partner"
+      "type": "project collaborator"
     },
     {
       "name": "volkerwessels",
-      "type": "collaboration partner"
-    }
-  ],
-  "https://investors.autodesk.com/news-releases/news-release-details/tata-consulting-engineers-ltd-and-autodesk-announce-strategic": [
-    {
-      "name": "tata consulting engineers ltd.",
-      "type": "strategic partner"
+      "type": "project collaborator"
     }
   ],
   "https://www.autodesk.com/ae/partners/locate-a-reseller": [],
+  "https://www.autodesk.com/products/fusion-360/hardware-partners": [
+    {
+      "name": "formlabs",
+      "type": "3D printing partner"
+    },
+    {
+      "name": "haas",
+      "type": "workflow integration partner"
+    },
+    {
+      "name": "kennametal",
+      "type": "hardware integration partner"
+    },
+    {
+      "name": "mazak",
+      "type": "CAD/CAM integration partner"
+    },
+    {
+      "name": "okuma",
+      "type": "simulation integration partner"
+    },
+    {
+      "name": "sandvik coromant",
+      "type": "CAM efficiency partner"
+    }
+  ],
+  "https://investors.autodesk.com/news-releases/news-release-details/autodesk-adds-platinum-tier-and-enhances-channel-partner-program": [],
   "https://www.reddit.com/r/AutoCAD/comments/bdnzn9/third_party_resellers/": [
     {
       "name": "onesoftwareshop",
       "type": "reseller"
+    }
+  ],
+  "https://www.autodesk.com/products/fusion-360/design-manufacturing-partners": [
+    {
+      "name": "haas automation",
+      "type": "workflow integration partner"
+    },
+    {
+      "name": "hp",
+      "type": "3D printing partner"
+    },
+    {
+      "name": "makersite",
+      "type": "add-on partner"
+    },
+    {
+      "name": "mazak",
+      "type": "NC program export partner"
+    },
+    {
+      "name": "sandvik coromant",
+      "type": "tool library partner"
+    },
+    {
+      "name": "xometry",
+      "type": "instant quote partner"
+    }
+  ],
+  "https://adsknews.autodesk.com/en/news/accelerate-manufacturing-workflows-iot-toolkit/": [
+    {
+      "name": "advanced oncotherapy",
+      "type": "medical industry partner"
+    },
+    {
+      "name": "electric imp",
+      "type": "IoT partner"
     }
   ]
 }

@@ -1,0 +1,153 @@
+https://investors.autodesk.com/news-releases/news-release-details/pathtrace-marks-productive-autodesk-partnership-new-software
+
+Pathtrace Marks Productive Autodesk Partnership With New Software Capabilities | Autodesk, Inc.
+Skip to main navigation
+Autodesk logo
+Investor Relations
+IR Nav
+Company
+Overview
+Products
+Corporate Profile
+News
+Research
+Diversity & Inclusion
+Support
+Contact
+News & Events
+Press Releases
+Events
+Quarterly Earnings Reports
+Investor Day Presentations
+Financials
+Quarterly Results
+Annual Reports
+SEC Filings
+Financial Statements
+Stock Information
+Stock Quote & Chart
+Historical Price Lookup
+Analyst Coverage
+ESG
+Sustainability
+Corporate Governance
+Management
+Board of Directors
+Committee Composition
+Contact IR
+Email IR
+Email Alerts
+Contact Information
+Keyboard
+ALT + g
+to toggle grid overlay
+News Release
+Pathtrace Marks Productive Autodesk Partnership With New Software Capabilities
+Mar 15, 2005
+Download PDF
+EdgeCAM Software Fully Supports Autodesk's Industry-Leading 3D Mechanical                              Design Software
+SOUTHFIELD, Mich., March 15 /PRNewswire-FirstCall/ -- Marking its
+nine-year alliance with Autodesk, Inc. (Nasdaq: ADSK), Pathtrace today
+announced that EdgeCAM Version 9.5 fully supports Autodesk Inventor(R) 10
+mechanical design software and provides true data integrity and
+model-to-toolpath associativity.  The newest version of EdgeCAM from
+Pathtrace, Autodesk's Global Preferred CAM Partner, introduces new
+functionality and ease-of-use, including loading native Autodesk Inventor
+assemblies (*.iam) directly into EdgeCAM.
+As an Autodesk Global Preferred CAM Partner, Pathtrace and Autodesk
+development teams work closely to ensure the highest level of interoperability
+between EdgeCAM and Autodesk Inventor software.  EdgeCAM Solid Machinist
+respects project paths and sub-assemblies and complies with Autodesk data
+management rules.  The partnership between Autodesk and Pathtrace provides
+joint customers with a complete design, data management and CAM solution to
+reduce manufacturing time, cut costs while reducing scrap, and increase
+profitable machine time.
+Steve Sivitter, CEO for Pathtrace, said, "By integrating our software with
+the latest release of Autodesk Inventor, we are offering customers a fully
+associative CAM solution that addresses the major manufacturing disciplines,
+and enables them to bring their products to market faster."
+The CAM standard in intelligent solids-based manufacturing, EdgeCAM offers
+superior integration, associativity and machining functionality to any other
+system currently available.
+"Autodesk's partnership with Pathtrace is important to our commitment to
+help customers create, manage and share design and product data to realize
+ideas and get the right designs done more quickly," said Robert Kross, vice
+president of Autodesk's Manufacturing Solutions Division.  "Our applications'
+interoperability further enhances Autodesk Inventor functional design
+capabilities that allow engineers to focus on how end products work instead of
+how to use software to design them."
+Joint Customers Benefit from Partnership
+Joint customers such as Tonnard Manufacturing in Corry, Pennsylvania,
+benefit from the long-standing partnership.  Short production runs, frequently
+for prototypes, predominate Tonnard's workload, and short-run form tooling has
+been a Tonnard specialty for decades.
+Most form tools at Tonnard -- and every tool machined on the company's
+Haas machines -- are designed in Autodesk Inventor.  "Every short-run job
+seems to come down to the cost of tooling that will be used to make just a few
+hundred or a few thousand parts. EdgeCAM's interoperability with Autodesk
+Inventor lets us set up machining quickly, and was a leading reason for our
+software choice," said Aaron Harwood, programming manager for Tonnard.
+Tonnard finds the combination of Haas machines, EdgeCAM and Autodesk
+Inventor contribute to its competitive advantage, and help keep manufacturing
+in the United States.
+"Using EdgeCAM, Autodesk Inventor, and the Haas machines allows us to take
+on tougher jobs," said Horwood.  "Customers prefer to deal with us for their
+smaller production runs and they want us to take on some pretty difficult
+jobs.  So the more complex tool that we can make, the more complex part we can
+make, and the more we can do to serve our customers."
+Horwood said, "Having accounts with large customers is great, but you
+better have a strong list of small customers too.  EdgeCAM, Autodesk Inventor,
+and Haas help us get them, and keep them."
+About Autodesk
+Autodesk, Inc. is wholly focused on ensuring that great ideas are turned
+into reality. With six million users, Autodesk is the world's leading software
+and services company for the building, manufacturing, infrastructure, digital
+media and wireless data services fields. Autodesk's solutions help customers
+create, manage and share their digital assets more effectively. As a result,
+customers turn ideas into competitive advantage by becoming more productive,
+streamlining project efficiency and maximizing profits.
+Founded in 1982, Autodesk is headquartered in San Rafael, California. For
+additional information about Autodesk, please visit www.autodesk.com.
+The Autodesk Developer Network (ADN) is comprised of more than
+2,500 technology partners around the world, that extend Autodesk solutions to
+meet the industry-specific needs of customers.  New compatible applications
+from ADN partners are launched every day at:
+www.autodesk.com/partnerproducts.
+About Pathtrace
+Pathtrace Engineering Systems is the developer of EdgeCAM, an extremely
+powerful but easy-to-use software solution devoted to automating the process
+of NC programming for metal cutting machine tools.  Offices are established in
+the UK, USA, China and Japan, complementing a worldwide network of resellers.
+For information about Pathtrace and EdgeCAM, please visit our website
+www.edgecam.com.  EdgeCAM is Windows 2000 and XP compliant and has over
+32,000 users worldwide.
+CONTACT:  Tracy Affleck of Pathtrace Systems, Inc., +1-248-356-8800, or
+taffleck@pathtrace.com.
+SOURCE  Autodesk, Inc.
+03/15/2005
+CONTACT:  Tracy Affleck of Pathtrace Systems, Inc., +1-248-356-8800, or
+taffleck@pathtrace.com
+Web site:  http://www.autodesk.com
+Web site:  http://www.edgecam.com
+Social Nav
+FOLLOW AUTODESK
+Facebook
+Instagram
+Autodesk Twitter
+IR Twitter
+LinkedIn
+All social media
+Worldwide sites
+Legal Nav
+Privacy settings
+|
+Privacy/Cookies
+|
+About our Ads
+|
+Legal
+|
+Report Noncompliance
+|
+Site map
+| © 2025 Autodesk, Inc. All rights reserved

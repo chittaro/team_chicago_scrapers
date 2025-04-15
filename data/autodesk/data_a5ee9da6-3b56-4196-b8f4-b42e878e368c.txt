@@ -1,0 +1,245 @@
+https://adsknews.autodesk.com/en/news/accelerate-manufacturing-workflows-iot-toolkit/
+
+Autodesk Accelerates Success with Collaborative Manufacturing Workflows and a New IoT Toolkit | Autodesk News
+EN
+English
+France
+China
+Germany
+India
+Japan
+Korean
+Brazil
+Latin America
+Nordics
+ANZ
+ASEAN
+Middle East
+United Kingdom
+Menu
+Products
+All products
+Collections
+Architecture, Engineering & Construction
+Product Design & Manufacturing
+Media & Entertainment
+AutoCAD
+AutoCAD LT
+AutoCAD Mobile
+3ds Max
+BIM 360
+Civil 3D
+Flame
+Fusion 360
+Fusion Lifecycle
+InfraWorks
+Inventor
+Maya
+PowerMill
+Revit
+Shotgun
+FILE VIEWERS
+All viewers
+DWG
+DWF
+Online viewer
+SOLUTIONS
+Industry solutions
+Building Information Modeling (BIM)
+Film & TV
+Game design
+Manufacturing
+Product design
+Simulation
+All solutions
+Cloud & collaboration
+Makers & indie designers
+3D printing
+Indie game maker
+Support & learning
+SUPPORT
+By product
+System requirements
+Updates, hotfixes & service packs
+CUSTOMER SERVICE
+All customer service
+Installation, activation, licencing
+Account management
+EVENTS & TRAINING
+Classes on demand
+Events
+Training & certification
+COMMUNITY RESOURCES
+All communities
+Blogs
+Developer network
+Forums
+Students & educators
+SERVICES
+Consulting
+Partner apps
+Autodesk Services Marketplace
+Downloads
+Free product trials
+Free student software
+File viewers
+Updates & service packs
+Buy
+Buy Online
+Find a reseller
+Special offers
+OPTIONS
+Subscriber benefits
+Maintenance plan benefits
+Educational institutions
+Financing
+About Autodesk
+Careers
+Company
+Newsroom
+Investor relations
+Trust center
+About ADSK NEWS
+Authors
+Investor relations
+Facebook
+Twitter
+LinkedIn
+YouTube
+ADSK News
+Our Company
+Our Company
+Business
+Innovation
+People and culture
+Perspectives
+Press releases
+Impact
+Impact
+Autodesk Foundation
+Education
+Future of work
+Sustainability
+AEC
+AEC
+Architecture
+Construction
+Engineering
+Infrastructure
+Sustainability in AEC
+Product Design & Manufacturing
+Product Design and Manufacturing
+Custom manufacturing
+Generative design
+Smart manufacturing
+Sustainability in PD&M
+Media & Entertainment
+Media and Entertainment
+Design visualization
+Film and television
+Game design
+Subscribe
+More
+Our Company
+Business
+Innovation
+People and culture
+Perspectives
+Press releases
+Impact
+Autodesk Foundation
+Education
+Future of work
+Sustainability
+AEC
+Architecture
+Construction
+Engineering
+Infrastructure
+Sustainability in AEC
+Product Design and Manufacturing
+Custom manufacturing
+Generative design
+Smart manufacturing
+Sustainability in PD&M
+Media and Entertainment
+Design visualization
+Film and television
+Game design
+Subscribe
+EN
+English
+France
+China
+Germany
+India
+Japan
+Korean
+Brazil
+Latin America
+Nordics
+ANZ
+ASEAN
+Middle East
+United Kingdom
+Autodesk Accelerates Success with Collaborative Manufacturing Workflows and a New IoT Toolkit
+Back
+Autodesk Accelerates Success with Collaborative Manufacturing Workflows and a New IoT Toolkit
+21 SEP 2017
+Categories:
+Generative design
+Sustainability in PD&M
+Custom Manufacturing
+Jennifer Gentrup
+Share
+At this week’s
+Accelerate 2017 conference
+in Boston, Autodesk is showcasing how the Fusion product innovation platform is helping solve manufacturing challenges for a company trying to brighten the future of cancer care with next-generation therapies. Also in the spotlight at the annual event is a new IoT Discovery Toolkit, developed in partnership with Electric Imp, aimed at fast-tracking Internet of Things (IoT) business transformation.
+Fusion offers a unified product innovation platform that includes everything needed to go from concept to customer. At the heart of the software platform is
+Fusion 360
+, which combines CAD, CAM and CAE in the cloud. The Fusion platform is additionally supported by
+Fusion Lifecycle
+for PLM and
+Fusion Connect
+for IoT data management.
+PLM creates one-stop shop for business processes and reporting
+Earlier today during Accelerate’s morning keynote address, Neil Barker from Advanced Oncotherapy talked about the company’s commitment to making radiation less toxic for cancer patients by providing the next generation of particle therapy systems that maximize the destructive effect on cancerous tumors, while minimizing the damage to healthy tissues.
+They are currently leading the new wave of proton therapy treatment by developing a smaller and significantly less expensive system than exists today. As they work to bring this new technology to market, they are using
+Fusion Lifecycle
+to develop workflows and control business processes in every area of the organization.
+As Advanced Oncotherapy was using many other products from Autodesk, including
+Inventor
+for product design,
+Vault
+for data management, and
+Fusion Team
+to help with project collaboration, implementing Fusion Lifecycle helped them leverage the benefits of a cloud-based product innovation platform to support various stages of their workflow including audit management, goods receiving, change control and intellectual property management.
+“The medical industry is exceptionally risk adverse,” said Barker. “One of the main reasons we’re using Fusion Lifecycle is to reduce risk—in terms of our product, and in terms of the ultimate result of the treatment of patients.”
+Because it’s cloud-based, Fusion Lifecycle allows the Advanced Oncotherapy team to access company data with just an internet connection anywhere in the world.
+“It’s essential to our business model that we can easily and securely share information,” said Barker. “We are operating an outsourced manufacturing model, so it’s important to be able to securely share data with our partners, and reduce errors resulting from miscommunication. The capabilities in Fusion Lifecycle will facilitate collaboration with our suppliers and manufacturing partners worldwide.”
+IoT business transformation
+To help forward-thinking manufacturers stand out from their competitors in building smart, connected machines, Autodesk launched the
+IoT Discovery Toolkit
+, which lets users build out a secure end-to-end IoT solution in a fraction of the time. Powered by
+Electric Imp
+, an industry leading IoT platform provider, and combined with Fusion Connect, the IoT Discovery Toolkit is intended for use by industrial manufacturing OEMs who are interested in implementing secure connected products for their business.
+There are lots of decisions to make about hardware and software to bring a connected product to market, with the projects typically requiring multiple technology purchases. With the IoT Discovery Toolkit, Autodesk is aiming to simplify those aspects so users can test out an IoT implementation with one purchase, supported through resources from two partners—Electric Imp for firmware development, connectivity and security, and Autodesk for data management, analytics and business applications.
+“IoT is about building your business and your products around real-world data and driving precision business outcomes,” said Bryan Kester, director of IoT, Autodesk. “IoT is a very complex challenge because it combines a wide range of hardware, networking and cloud technologies. By teaming up with Electric Imp, our goal is to simplify the technology so that businesses can move straight to evaluating IoT business opportunities.”
+The Toolkit also provides an industry first in enabling customers to leverage the work they do with the IoT Discovery Toolkit and port it into commercial product hardware with minimal modification as the device module, software and cloud applications included in the Toolkit are production grade.
+“The potential impact of IoT-enabled devices in industrial applications is vast and can enable predictive maintenance and streamline service operations,” said Hugo Fiennes, CEO and co-founder, Electric Imp. “The collaboration with Autodesk offers manufacturers a powerful business advantage—the ability to develop custom IoT-enabled products in a fraction of the time within an industrial-strength ecosystem that helps reduce risk through end-to-end security.”
+You can hear more about the industrial IoT market from Fiennes during the Accelerate keynote on September 22 at 9AM ET. At Accelerate, Autodesk is bringing together customers, industry executives and subject matter experts to learn, network and share strategies in solving modern design and manufacturing challenges.
+Most read
+Celebrating Autodesk’s Global Month of Giving 2024
+5 things you need to know about the ASCE Infrastructure Report Card
+Our message to employees about organizational changes
+About ADSK NEWS
+Authors
+Investor relations
+Facebook
+Twitter
+LinkedIn
+YouTube
+© 2025 AUTODESK INC. ALL RIGHTS RESERVED
+PRIVACY POLICY
+LEGAL NOTICES & TRADEMARKS
+REPORT NONCOMPLIANCE

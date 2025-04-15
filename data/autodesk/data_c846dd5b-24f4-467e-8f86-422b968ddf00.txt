@@ -1,6 +1,6 @@
-https://investors.autodesk.com/news-releases/news-release-details/autodesk-named-official-design-and-make-platform-la28-olympic
+https://investors.autodesk.com/news-releases/news-release-details/autodesk-and-aveva-form-strategic-alliance-provide-extended
 
-Autodesk named as Official Design and Make Platform of the LA28 Olympic and Paralympic Games with no-new-permanent-build plan | Autodesk, Inc.
+Autodesk and AVEVA Form Strategic Alliance to Provide Extended Design Software Solution for Plant Industries | Autodesk, Inc.
 Skip to main navigation
 Autodesk logo
 Investor Relations
@@ -42,71 +42,127 @@ Keyboard
 ALT + g
 to toggle grid overlay
 News Release
-Autodesk named as Official Design and Make Platform of the LA28 Olympic and Paralympic Games with no-new-permanent-build plan
-Aug 06, 2024
+Autodesk and AVEVA Form Strategic Alliance to Provide Extended Design Software Solution for Plant Industries
+Oct 14, 2003
 Download PDF
-SAN FRANCISCO
-,
-Aug. 6, 2024
-/PRNewswire/ -- Today, Autodesk announced that it has been named the Official Design and Make Platform of the LA28 Olympic and
-Paralympic Games and Team USA
-. Over the next four years, Autodesk's software – used by designers, engineers, builders, and creators – will support LA28's more than
-$1 billion
-temporary overlay and construction plan, incorporating sustainable design principles.
-Autodesk's Design and Make Platform will be supporting LA28's no-new-permanent-venues plan: a commitment to build LA28's footprint by adapting existing or building temporary infrastructure.
-"Autodesk's technology is used every day to design and make a better world, which is why we're thrilled to be LA28's official Design and Make Platform," said
-Andrew Anagnost
-, Autodesk President and CEO. "Our partnership will enable Autodesk software to do more than ever before. Together with LA28, we will help prepare
-Los Angeles
-for not only a 29-day celebration but also strengthen the greater
-Los Angeles
-community by embarking on our shared vision of a more sustainable Games."
-LA28 and Autodesk to design and make the
-Olympics
-and Paralympics with no new permanent venues
-Autodesk software will help retrofit the 40+ competition and major non-competition venues across
-Southern California
-that will make up the LA28 Games' footprint – including the
-LA Memorial Coliseum
-. Autodesk software will be critical in enabling this, with its technology helping to shorten timelines, cut costs, and incorporate sustainable design principles across the project.
-"Autodesk's software is a part of our LA28 story: the behind-the-scenes technology that brings our vision of the LA28 Games to life," said Casey Wasserman, LA28 Chairperson. "Together, we will develop the right plan to support 12-15 million ticketed fans over such a short period of time. We are honored to have Autodesk on board for the next four years as we embark on our shared commitment in innovative design that can serve as a precedent for many Games to come."
-Over the next four years, LA28 will use Autodesk's software, including Autodesk Construction Cloud, as a central tool to facilitate better collaboration with thousands of critical stakeholders on the design, development, and ultimate delivery of the venues.
-LA28 will use Autodesk software and
-Building Information Modeling
-(BIM) tools to bring to life an ambitious venue plan, and Autodesk will provide consultative support to help LA28 meet their delivery and sustainability plan.
-"At Autodesk, we believe the most sustainable building is the one already built. That's why we're excited by LA28's ambitious plan to retrofit existing structures to ensure sustainability is at the forefront of the LA28 Games venue plan," said
-Amy Bunszel
-, Executive Vice President, Architecture, Engineering, and Construction Solutions at Autodesk. "Over the next four years, our software will help set a new standard for creating a sporting event that intentionally designs, builds, repurposes, and reuses existing venues."
-Beyond the build: shaping a lasting legacy in
-Los Angeles
-LA28 is committed to making a positive impact on the city and communities of
-Los Angeles
-. Autodesk's cross-industry expertise and relationships present opportunities to unlock cumulative impact on the road to 2028. As such, Autodesk will tap into its decades of experience in creating the technology that powers sustainable events of the future to support lasting improvements to the Olympic and Paralympic Games and to the metro area.
-Creating a sustainable future through circular and low-carbon design:
-Retrofitting existing buildings emits less carbon than new construction. Considering the built environment accounts for 42% of global carbon emissions*, retrofitting and adaptive reuse are increasingly crucial in creating a sustainably built environment. Autodesk provides the industry with the data and insights needed to precisely model existing buildings and simulate various retrofit and adaptive reuse scenarios. This enables teams to evaluate and balance trade-offs related to energy and material use, significantly lowering carbon emissions of the built environment.
-Key transportation partnerships:
-LA28's partnership with Autodesk will support their collaboration with key public transportation agencies over the next four years in the LA region to keep LA residents, workers, businesses and more moving reliably throughout the region. LA28 will use Autodesk software to aid in the design of key Games-related transportation elements and traffic control plans.
-*Source:
-Architecture 2030
-About LA28 Olympic and Paralympic Games:
-The LA28 Games will mark
-Los Angeles'
-third time to host the
-Olympic Games
-, previously hosted in 1984 and 1932, and first time to host the Paralympic Games.
-Los Angeles
-will host the world's most elite athletes in 2028 as it welcomes Paralympians and Olympians from around the world to compete on the biggest stage in sports. The LA28 Games are independently operated by a privately funded, non-profit organization with revenue from corporate partners, licensing agreements, hospitality and ticketing programs and a significant contribution from the
-International Olympic Committee
-.
-About Autodesk:
-The world's designers, engineers, builders, and creators trust Autodesk to help them design and make anything. From the buildings we live and work in, to the cars we drive and the bridges we drive over. From the products we use and rely on, to the movies and games that inspire us. Autodesk's Design and Make Platform unlocks the power of data to accelerate insights and automate processes, empowering our customers with the technology to create the world around us and deliver better outcomes for their business and the planet. For more information, visit
-autodesk.com
-or follow @autodesk. #MakeAnything
-View original content to download multimedia:
-https://www.prnewswire.com/news-releases/autodesk-named-as-official-design-and-make-platform-of-the-la28-olympic-and-paralympic-games-with-no-new-permanent-build-plan-302215007.html
-SOURCE
-Autodesk, Inc.
-Natalie Tomlin, natalie.tomlin@autodesk.com
+Alliance Offers Plant Design Teams Enhanced Drafting and Documentation Capabilities in Multiple Areas
+SAN RAFAEL, Calif. and CAMBRIDGE, England, Oct 14, 2003 /PRNewswire-FirstCall via COMTEX/ -- -- Autodesk, Inc. (Nasdaq: ADSK), the world's leading digital, 3D software
+company, and AVEVA (LSE: AVV), the leading supplier of engineering IT systems
+for the offshore, process and energy industries, today announced a strategic
+alliance. The alliance brings together AVEVA's leading data-centric plant
+design management expertise with the superior drafting and documentation
+capabilities of AutoCAD(R) 2004 software to create extended solutions for
+larger process plant engineering teams.  This new solution will offer an
+excellent migration path and clear future for users of leading legacy plant
+design systems.
+(Photo:  http://www.newscom.com/cgi-bin/prnh/20000518/SFTH083LOGO )
+The alliance integrates AVEVA's VANTAGE Plant Design Management System
+(PDMS) and AutoCAD 2004, Autodesk's 2D drafting, detailing, and design tool
+and flagship product.  The combined capabilities will enhance PDMS's automated
+deliverable production with versatile post-processing, enhanced management,
+and accelerated delivery of design documentation, ultimately eliminating
+errors and reducing the time to plant start-up.
+"AVEVA has been a supplier of engineering systems to AMEC for more than
+20 years and Autodesk products have been widely used in our engineering
+capabilities," said Steve Trench, manager of engineering for AMEC Group Ltd
+Downstream Business, a leading international engineering services company.
+"Bringing together the PDMS 3D design system and AutoCAD design software will
+help us to improve the quality of our product deliverables for our clients,
+through increased productivity and flexibility."
+PDMS offers advanced, automated drawing production from a plant data model
+in all leading industry drafting formats.  Using the AutoCAD 2004 product's
+powerful detailing, annotation, sharing, and document management capabilities,
+AVEVA will offer intelligent, AutoCAD-enhanced deliverables with tight
+integration to the plant data model.  Other PDMS output formats will be
+unaffected.  Autodesk is providing AVEVA with consulting, training, and
+support through Autodesk Professional Services.
+In addition, schematic design will be enhanced by adding the superior
+drafting capabilities of AutoCAD 2004 to AVEVA's intelligent P&ID application.
+AVEVA has extensive engineering domain experience in integrated 2D and 3D
+workflow management, therefore the joint agreement will be able to offer
+significant productivity increases in this fundamental area.
+In addition, the joint development agreement offers the potential for
+Autodesk and AVEVA to jointly develop integration of PDMS with Autodesk(R)
+Architectural Desktop and Autodesk Inventor(R) software products to meet the
+needs of enclosed process plant facilities for use by bio-pharmaceutical
+companies, as well as tying together the overall plant design process to the
+design of specialized process plant equipment and machinery.
+Integrating for Increased Productivity
+The process plant and power design software market is the third largest
+design software market in the world with annual sales of software and services
+forecasted at $479 million worldwide in 2003, according to Daratech, Inc.
+AVEVA and Autodesk will work closely together in development, marketing, and
+sales to bring this combination of best of breed technologies to this market.
+"This is a monumental event for the process plant engineering IT industry
+as a whole," said Richard Longdon, CEO, AVEVA Group.  "As the leaders in
+data-centric plant design technology, we are extremely excited about an
+alliance with the leaders in drawing-centric design technology.  The
+cooperation between the best of each world brings a new level of productivity
+to every aspect of the plant design industry.  We look forward to sharing this
+productivity with our customers."
+"Autodesk is committed to rounding out its solution offerings in the
+process and energy industries," said John Sanders, vice president of
+Autodesk's Platform Technology Division.  "Together with AVEVA, we are able to
+expand our reach, offering a complete design solution for medium and large
+process plant engineering and distributed design teams who are working on
+complex projects."
+About PDMS
+VANTAGE Plant Design Management System (PDMS) is a data centric,
+multi-disciplinary solution for 3D process plant design featuring applications
+and reference data for every engineering discipline.  It differs from the
+conventional 3D design approach in not requiring a drawing engine, but
+producing graphics from a single, coherent data model of the entire plant.
+First launched in 1976, PDMS's architecture was designed to evolve.  It has
+been delivered on many leading operating systems -- the current release
+represents the very latest design and business technology and complete
+compatibility with previous versions.
+About AVEVA Group plc
+AVEVA Group plc is one of the world's leading lifecycle engineering IT
+solutions and services providers to the process and power industries.
+Formerly known as Cadcentre, the group has a history of groundbreaking
+engineering IT innovation that spans five decades.  It is one of the world's
+fastest growing solutions providers and the founder of most of today's
+empirical engineering IT practices.
+AVEVA Group plc operates globally through three divisions: AVEVA
+Consulting, AVEVA Managed Services and AVEVA Engineering IT.  A fourth
+division, AVEVA Solutions, is responsible for product development.  The
+group's technology has been integral to the engineering process of industrial
+plants with a value in excess of US$500 billion for more than 800 clients
+across the globe, including leading plant owner/operators and engineering
+contractors such as 3M, Aker Kvaerner, ALSTOM Power, BASF, DSME, Du Pont,
+Electricite de France, Foster Wheeler, Hitachi, Kawasaki Heavy Industries,
+KBR, Uhde, Merck, Mitsubishi Heavy Industries, Petronas Carigali, Samsung
+Heavy Industries, and Shell.
+About Autodesk
+Autodesk is the world's leading design software and digital content
+company, offering customers progressive business solutions through powerful
+technology products and services.  Autodesk helps customers in the building,
+manufacturing, infrastructure, digital media, and wireless data services
+fields increase the value of their digital design data and improve
+efficiencies across their entire project lifecycle management processes.
+NOTE:  Autodesk, AutoCAD, Autodesk Inventor are registered trademarks of
+Autodesk, Inc., in the USA and/or other countries. All other brand names,
+product names, or trademarks belong to their respective holders.
+Occasionally, Autodesk makes statements regarding planned or future
+development efforts for our existing or new products and services.  These
+statements are not intended to be a promise or guarantee of future delivery of
+products, services, or features but merely reflect our current plans, which
+may change.  The Company assumes no obligation to update these forward-looking
+statements to reflect any change in circumstances, after the statements are
+made.
+CONTACT:  Dawn Van Osdell of Autodesk, +1-415-507-6554, or
+dawn.van.osdell@autodesk.com; or Justin Roux of AVEVA, +44(0)1223-556655, or
+Justin.Roux@aveva.com; or US AVEVA, Becky Stevens, +1-713-444-6860, or
+becky.stevens@virtualmarketing-pr.com, for AVEVA.
+SOURCE  Autodesk, Inc.
+Dawn Van Osdell of Autodesk, +1-415-507-6554, or
+dawn.van.osdell@autodesk.com; or Justin Roux of AVEVA, +44(0)1223-556655, or
+Justin.Roux@aveva.com; or US AVEVA, Becky Stevens, +1-713-444-6860, or
+becky.stevens@virtualmarketing-pr.com, for AVEVA
+/Photo:  http://www.newscom.com/cgi-bin/prnh/20000518/SFTH083LOGO
+AP Archive:  http://photoarchive.ap.org
+PRN Photo Desk, +1-888-776-6555 or +1-212-782-2840
+http://www.autodesk.com
 Social Nav
 FOLLOW AUTODESK
 Facebook

@@ -4,7 +4,7 @@ import os
 from test_accuracy.sheets_scraper import write_competitor_data
 from url_generator.search_url_gen import get_company_partnership_urls
 from name_finder.name_finder import get_html, get_names, get_all_names, clear_html
-from test_accuracy.test_accuracy import get_stats
+from test_accuracy.test_accuracy import get_stats, make_partner_count_barchart
 
 
 ######### GET MANUAL DATA #########
@@ -41,3 +41,4 @@ from test_accuracy.test_accuracy import get_stats
 
 ######### RUN ANALYSIS #########
 get_stats("Faro")
+# make_partner_count_barchart()

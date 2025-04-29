@@ -92,7 +92,9 @@ def chunk_text(text, max_length=6000, overlap=500):
         chunk = " ".join(words[start:end])
         chunks.append(chunk)
         start += max_length - overlap
-    return chunks
+    if len(chunks) > 5:
+        print(f"WARNING: text too long, {len(chunks)} chunks truncated to 5.")
+    return chunks[:5]  # limiting this to 5 chunks lmao @bella
 
 
 def get_names(company_name, filename):
@@ -114,13 +116,13 @@ def get_names(company_name, filename):
         print(f"Processing chunk {idx+1}/{len(chunks)}")
         prompt = (
             f"Given the following webpage content, extract the names of any partner companies of the company {company_name} "
-            "explicitly mentioned on the page. Only list real companies that appear to be business "
-            f"partners, collaborators, or customers of {company_name}.\n\n"
+            "explicitly mentioned on the page. Only list real companies that appear to be manufacturing "
+            f"partners, collaborators, or customers of {company_name}. Focus on CAE, CAM, and metrology partnerships. \n\n"
             "If no such partnerships are mentioned, return nothing, an empty string. Do NOT make up names or "
             f"guess based on irrelevant information. Do not include {company_name} itself.\n\n"
             "Extracted partner company names should be returned as a comma-separated list, no duplicates.\n\n"
             f"Webpage Content:\n{chunk}"
-        )
+        ) # TODO: only look at partnerships for their manufacturing work (CAE CAM and metrology)
 
         try:
             response = client.chat.completions.create(

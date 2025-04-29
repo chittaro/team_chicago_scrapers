@@ -1,29 +1,16 @@
-advanced oncotherapy
 ansys
 applied software
 arcadis
 atg
 aveva
-bloom technologies
-building connected
 cadd microsystems
-cads ltd
-caltec inc.
-chenxi information tech
-cintoo
-daikin
+daikin europe
 datum360
-dotproduct llc
 dsi (design and software international)
 electric imp
-enercalc, llc
 eptura
 esri
 esri inc.
-eyrus
-faro technologies, inc.
-fauconnet ingenierie
-fenestrapro
 formlabs
 geodin® (a fugro company)
 graitec group
@@ -31,56 +18,24 @@ haas
 haas automation
 hagerman & company
 hdr
-hntb
 hp
-hsbcad
-huiyuan engineering data
 hysopt
 idat gmbh
 idea statica
-ideate software
-imaginit
 imaginit technologies
-ingram micro
-ioffice + spaceiq
-jiangsu delaunay
 kennametal
-kozo system inc.
-la28
 linear gmbh
 makersite
-manufacton
 mazak
-microsoft
-mount olive software co.ltd
-navvis
-nearmap
 nexgencam llc
-ningbo chengta building smart
 okuma
-onesoftwareshop
-optimatics
-oris
-panasonic corporation
 pathtrace
-plangrid
-plannerly
-pointcab gmbh
-probim technology co.,ltd.
 progress group
 ptac consulting engineers
-qnect llc
 sandvik coromant
 schneider electric
-shanghai hongwa information tech
-shenzhen ths hi-tech corp.
-skidmore, owings & merrill llp
 sofistik ag
-solar-computer gmbh
-spatial business systems, llc
-steel projects
 stratus
-strucsoft solutions
 symetri
 tata consulting engineers ltd.
 team d3
@@ -88,8 +43,5 @@ topcon solutions
 tpm inc.
 transcend software
 u.s. cad, an arkance company
-vapar
-virtualgrid
 volkerwessels
 xometry
-zhongyifeng digital technology co

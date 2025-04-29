@@ -97,14 +97,16 @@ def get_names(company_name, filename):
         prompt = (
             f"Given the following webpage content, extract the names of any partner companies of the company {company_name} "
             "explicitly mentioned on the page. Only list real companies that appear to be manufacturing "
-            f"partners, collaborators, or customers of {company_name}. Focus on CAE, CAM, and metrology partnerships."
+            f"partners, collaborators, or customers of {company_name}. \n\n"
+            "For each partner, also classify the partner company into one of these four domains: "
+            "'CAE', 'CAM', 'Metrology devices', or 'Metrology software'. Choose the single most relevant domain.\n\n"
             "If no such partnerships are mentioned, return NOTHING, an empty string. Do NOT make up names or "
             f"guess based on irrelevant information.\n\n"
-            "Only for each valid company found, briefly describe the type of partnership in 1 to 4 words, such as "
-            "'strategic partner', 'software partner', 'hardware partner', 'hpc partner', or 'reseller'.\n\n"
-            "Return the results in the format:\n"
-            "Company Name: partnership type\n"
-            "Separate each entry with a newline. Do not include the main company itself or unrelated entities.\n\n"
+            "Return the results in the exact format:\n"
+            "Company Name: partnership type | industry domain\n\n"
+            "Example:\n"
+            "Acme Corp: software partner | CAE\n"
+            "Beta Solutions: reseller | Metrology devices\n\n"
             f"Webpage Content:\n{chunk}"
         )
         try:
@@ -120,15 +122,21 @@ def get_names(company_name, filename):
             result = response.choices[0].message.content.strip()
             print(f"Raw OpenAI response:\n{result}")
             for line in result.split("\n"):
-                if ":" in line:
-                    name, ptype = line.split(":", 1)
-                    name = name.strip().lower()
-                    ptype = ptype.strip()
+                if ":" in line and "|" in line:
+                    name_part, rest = line.split(":", 1)
+                    type_part, domain_part = rest.split("|", 1)
+                    name = name_part.strip().lower()
+                    ptype = type_part.strip()
+                    domain = domain_part.strip()
                     if name and name not in {"none", "n/a", company_name.lower()}:
-                        all_partners[name] = ptype
+                        all_partners[name] = {
+                            "type": ptype,
+                            "domain": domain
+                        }
         except Exception as e:
             print(f"OpenAI API error for {filename} (chunk {idx+1}): {e}")
     return all_partners
+
 
 
 
@@ -147,11 +155,16 @@ def get_all_names(company_name):
                 content = f.read()
             parts = content.split("\n\n", 1)
             url = parts[0] if parts else f"unknown:{filename}"
-            name_to_type = get_names(company_name, filepath)
+            name_to_info = get_names(company_name, filepath)
             url_to_partners[url] = [
-                {"name": name, "type": name_to_type[name]} for name in sorted(name_to_type)
+                {
+                    "name": name,
+                    "type": name_to_info[name]["type"],
+                    "domain": name_to_info[name]["domain"]
+                }
+                for name in sorted(name_to_info)
             ]
-            all_names.update(name_to_type.keys())
+            all_names.update(name_to_info.keys())
     print(f"\n\n{len(all_names)} partner companies found for {company_name}")
 
     # Save to partners.txt

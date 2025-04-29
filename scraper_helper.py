@@ -2,13 +2,13 @@ import csv
 import requests
 from bs4 import BeautifulSoup
 import concurrent.futures
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.chrome.options import Options
+# from selenium import webdriver
+# from selenium.webdriver.chrome.service import Service
+# from webdriver_manager.chrome import ChromeDriverManager
+# from selenium.webdriver.chrome.options import Options
+# import brotli
 import time
 import random
-import brotli
 
 # HEADERS = {
 #     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
@@ -52,25 +52,25 @@ def fetch_page(url):
         print(f"* Error fetching {url}: {e}")
         return None
     
-def fetch_page_selenium(url):
-    options = Options()
-    options.headless = True
-    options.add_argument("--disable-blink-features=AutomationControlled")  # for bot detection
-    options.add_argument("start-maximized")
-    options.add_argument("--disable-infobars")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+# def fetch_page_selenium(url):
+#     options = Options()
+#     options.headless = True
+#     options.add_argument("--disable-blink-features=AutomationControlled")  # for bot detection
+#     options.add_argument("start-maximized")
+#     options.add_argument("--disable-infobars")
+#     options.add_argument("--no-sandbox")
+#     options.add_argument("--disable-dev-shm-usage")
+#     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-    try:
-        driver.get(url)
-        page_source = driver.page_source
-        return page_source
-    except Exception as e:
-        print(f"* Error fetching {url} (Selenium): {e}")
-        return None
-    finally:
-        driver.quit()
+#     try:
+#         driver.get(url)
+#         page_source = driver.page_source
+#         return page_source
+#     except Exception as e:
+#         print(f"* Error fetching {url} (Selenium): {e}")
+#         return None
+#     finally:
+#         driver.quit()
 
 
 def output_soup(soup, filename):

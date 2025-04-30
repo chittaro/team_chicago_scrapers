@@ -3,7 +3,7 @@
     {
       "name": "datum360",
       "type": "strategic partner",
-      "domain": "Metrology software"
+      "domain": "CAE"
     },
     {
       "name": "eptura",
@@ -23,7 +23,7 @@
     {
       "name": "hysopt",
       "type": "strategic partner",
-      "domain": "Metrology software"
+      "domain": "CAE"
     },
     {
       "name": "idat gmbh",
@@ -58,12 +58,12 @@
     {
       "name": "stratus",
       "type": "strategic partner",
-      "domain": "Metrology software"
+      "domain": "CAM"
     },
     {
       "name": "transcend software",
       "type": "strategic partner",
-      "domain": "Metrology software"
+      "domain": "CAM"
     }
   ],
   "https://www.autodesk.com/partners/strategic-alliance-partners": [
@@ -185,7 +185,7 @@
   "https://investors.autodesk.com/news-releases/news-release-details/autodesk-and-aveva-form-strategic-alliance-provide-extended": [
     {
       "name": "aveva",
-      "type": "strategic alliance partner",
+      "type": "strategic partner",
       "domain": "CAE"
     }
   ],
@@ -202,7 +202,13 @@
       "domain": "Metrology software"
     }
   ],
-  "https://www.imaginit.com/": [],
+  "https://www.imaginit.com/": [
+    {
+      "name": "imaginit",
+      "type": "reseller",
+      "domain": "CAM"
+    }
+  ],
   "https://brand.autodesk.com/co-branding/": [],
   "https://investors.autodesk.com/news-releases/news-release-details/tata-consulting-engineers-ltd-and-autodesk-announce-strategic": [
     {
@@ -218,7 +224,7 @@
       "domain": "CAE"
     },
     {
-      "name": "daikin europe",
+      "name": "daikin",
       "type": "customer",
       "domain": "Metrology software"
     },
@@ -231,7 +237,7 @@
   "https://www.esri.com/en-us/about/partners/our-partners/strategic-alliances/autodesk/overview": [
     {
       "name": "arcadis",
-      "type": "customer",
+      "type": "collaborator",
       "domain": "CAE"
     },
     {
@@ -241,12 +247,12 @@
     },
     {
       "name": "hdr",
-      "type": "customer",
+      "type": "collaborator",
       "domain": "CAE"
     },
     {
       "name": "volkerwessels",
-      "type": "customer",
+      "type": "collaborator",
       "domain": "CAE"
     }
   ],

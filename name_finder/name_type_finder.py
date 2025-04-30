@@ -77,7 +77,9 @@ def chunk_text(text, max_length=6000, overlap=500):
         chunk = " ".join(words[start:end])
         chunks.append(chunk)
         start += max_length - overlap
-    return chunks
+    if len(chunks) > 5:
+        print(f"WARNING: text too long, {len(chunks)} chunks truncated to 5.")
+    return chunks[:5]  # limiting this to 5 chunks lmao @bella
 
 
 

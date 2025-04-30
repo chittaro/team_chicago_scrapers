@@ -11,6 +11,8 @@ import openai
 import re
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
+from collections import defaultdict, Counter
+
 
 parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.append(parent_dir)
@@ -77,7 +79,9 @@ def chunk_text(text, max_length=6000, overlap=500):
         chunk = " ".join(words[start:end])
         chunks.append(chunk)
         start += max_length - overlap
-    return chunks
+    if len(chunks) > 5:
+        print(f"WARNING: text too long, {len(chunks)} chunks truncated to 5.")
+    return chunks[:5]  # limiting this to 5 chunks lmao @bella
 
 
 
@@ -180,8 +184,41 @@ def get_all_names(company_name):
         json.dump(url_to_partners, f, indent=2)
     print(f"Saved URL-to-partner mapping to {json_path}")
 
+    merge_data(url_to_partners, company_dir)
+
     return all_names
 
+
+def merge_data(url_to_partners, company_dir):
+    partner_index = {}
+    for url, partners in url_to_partners.items():
+        for entry in partners:
+            name = entry["name"].lower()
+            ptype = entry["type"]
+            domain = entry["domain"]
+            if name not in partner_index:
+                partner_index[name] = {
+                    "type_counter": Counter(),
+                    "domain_counter": Counter(),
+                    "urls": set()
+                }
+            partner_index[name]["type_counter"][ptype] += 1
+            partner_index[name]["domain_counter"][domain] += 1
+            partner_index[name]["urls"].add(url)
+
+    # resolve conflicts by picking the most common values
+    dedup_data = {}
+    for name, info in partner_index.items():
+        dedup_data[name] = {
+            "type": info["type_counter"].most_common(1)[0][0],
+            "domain": info["domain_counter"].most_common(1)[0][0],
+            "urls": sorted(info["urls"])
+        }
+
+    data_path = os.path.join(company_dir, "data.json")
+    with open(data_path, "w", encoding="utf-8") as f:
+        json.dump(dedup_data, f, indent=2)
+    print(f"Saved merged partner data to {data_path}")
 
 
 def clear_html(company_name):

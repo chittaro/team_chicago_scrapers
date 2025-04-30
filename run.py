@@ -5,7 +5,7 @@ from urllib.parse import quote
 import concurrent
 import uuid
 
-import scraper_helper
+# import scraper_helper
 from url_generator.search_url_gen import get_company_partnership_urls
 # swap these in for partner type and domain
 # from name_finder.name_finder import get_html, get_names, get_all_names, clear_html

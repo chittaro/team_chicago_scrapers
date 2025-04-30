@@ -4,7 +4,7 @@ arcadis
 atg
 aveva
 cadd microsystems
-daikin europe
+daikin
 datum360
 dsi (design and software international)
 electric imp
@@ -22,6 +22,7 @@ hp
 hysopt
 idat gmbh
 idea statica
+imaginit
 imaginit technologies
 kennametal
 linear gmbh

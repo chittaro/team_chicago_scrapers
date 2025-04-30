@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 
 parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.append(parent_dir)
-from scraper_helper import fetch_page, fetch_page_selenium
+from scraper_helper import fetch_page # fetch_page_selenium
 
 env_path = os.path.join(parent_dir, ".env")
 load_dotenv(dotenv_path=env_path)
@@ -51,7 +51,7 @@ def get_html(company_name):
             return 1
         else:
             print(f"Trying Selenium: {url}")
-            html = fetch_page_selenium(url)
+            html = None #fetch_page_selenium(url)
             if html:
                 soup = BeautifulSoup(html, "html.parser")
                 text = soup.get_text(separator="\n", strip=True)

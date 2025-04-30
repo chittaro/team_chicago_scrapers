@@ -45,17 +45,15 @@ function App() {
     setPartnerships([])
     setSubmittedCompany(companyName)
     
-    // For testing, use mock data
-    setTimeout(() => {
-      setUrls(mockUrls)
-      setIsLoading(false)
-    }, 1500)
-    
     // TODO: Implement real API call
-    // const response = await fetch(`/api/urls?company=${companyName}`)
-    // const data = await response.json()
-    // setUrls(data.urls)
-    // setIsLoading(false)
+    const response = await fetch(`http://127.0.0.1:5000/api/process_urls/${companyName}`, { credentials: "same-origin" })
+    .then((response) => {
+      if (!response.ok) throw Error(response.statusText)
+      return response.json()
+    })
+
+    setUrls(response.urls)
+    setIsLoading(false)
   }
 
   const handleRemoveUrl = (index) => {

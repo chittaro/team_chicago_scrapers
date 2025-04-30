@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request, flask
+from flask import Flask, jsonify, request
 from flask_cors import CORS
 
 import sys, os
@@ -19,7 +19,7 @@ def home_route():
 @app.route('/api/get_urls/<company>/', methods=['GET'])
 def get_competitor_urls(company):
     urls = get_company_partnership_urls(company)
-    return flask.jsonify({"urls": urls})
+    return jsonify({"urls": urls})
 
 '''
 TODO: change URL-->HTML to only read files that are left over from UI (ignore Xed out files)
@@ -28,7 +28,7 @@ TODO: change URL-->HTML to only read files that are left over from UI (ignore Xe
 def fetch_competitor_urls(company):
     clear_html(company)
     get_html(company)
-    return flask.jsonify({"success": True})
+    return jsonify({"success": True})
 
 @app.route('/api/get_partner_data/<company>/', methods=['GET'])
 def get_partner_data(company):
@@ -39,7 +39,7 @@ def get_partner_data(company):
         }
     }
 
-    return flask.jsonify(**data), 201
+    return jsonify(**data), 201
 
 if __name__ == '__main__':
     app.run(debug=True)

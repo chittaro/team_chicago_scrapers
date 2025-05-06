@@ -45,8 +45,7 @@ function App() {
     setPartnerships([])
     setSubmittedCompany(companyName)
     
-    // TODO: Implement real API call
-    const response = await fetch(`http://127.0.0.1:5000/api/process_urls/${companyName}`, { credentials: "same-origin" })
+    const response = await fetch(`http://127.0.0.1:5000/api/get_urls/${companyName}`, { credentials: "same-origin" })
     .then((response) => {
       if (!response.ok) throw Error(response.statusText)
       return response.json()
@@ -122,25 +121,14 @@ function App() {
         {urls.length > 0 && (
           <div className="bg-white rounded-lg shadow-md p-6 mb-4 transition-opacity duration-500 opacity-100">
             <h2 className="text-xl font-semibold mb-4">Found URLs for {submittedCompany}</h2>
-            <div className="space-y-2">
-              {urls.map((url, index) => (
-                <div 
-                  key={index} 
-                  className="flex items-center justify-between p-3 hover:bg-gray-50 rounded border border-gray-100 transition-all duration-300"
-                  style={{ animationDelay: `${index * 0.1}s` }}
-                >
-                  <span className="text-blue-600 truncate flex-1">{url}</span>
-                  <button
-                    onClick={() => handleRemoveUrl(index)}
-                    className="text-red-500 hover:text-red-700 ml-2"
-                    title="Remove URL"
-                  >
-                    [X]
-                  </button>
+            <div className="scrollable-box"   style={{height: '150px', overflowY: 'auto', border: "1px solid #000"}}>
+              {urls.map((item, index) => (
+                <div key={index} style={{ marginBottom: '5px' }}>
+                  {item}
                 </div>
               ))}
             </div>
-            
+
             {/* Add URL Input */}
             {showAddUrlInput ? (
               <div className="mt-4 flex gap-2">

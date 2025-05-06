@@ -24,7 +24,7 @@ def get_competitor_urls(company):
 '''
 TODO: change URL-->HTML to only read files that are left over from UI (ignore Xed out files)
 '''
-@app.route('/api/process_urls/<company>/', methods=['GET'])
+@app.route('/api/process_html/<company>/', methods=['GET'])
 def fetch_competitor_urls(company):
     clear_html(company)
     get_html(company)

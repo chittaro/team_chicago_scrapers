@@ -1,7 +1,9 @@
 import { useState, useEffect } from 'react'
+import { Link } from 'react-router-dom'
+
 import './App.css'
 
-function App() {
+function Home() {
   const [companyName, setCompanyName] = useState('')
   const [urls, setUrls] = useState([])
   const [partnerships, setPartnerships] = useState([])
@@ -79,6 +81,9 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-100 py-8">
+      <Link to="/settings" className="absolute top-4 right-4 text-gray-600 hover:text-gray-800 transition-colors">
+        Prompt Settings
+      </Link>
       <div className="max-w-4xl mx-auto px-4">
         <h1 className="text-2xl font-bold text-center mb-6 text-gray-800">Hexagon Partnership Finder</h1>
         
@@ -220,4 +225,4 @@ function App() {
   )
 }
 
-export default App
+export default Home

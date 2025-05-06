@@ -11,19 +11,11 @@ from name_finder.name_type_finder import get_html, get_names, get_all_names, cle
 app = Flask(__name__)
 CORS(app)
 
-@app.route('/', methods=['GET'])
-def home_route():
-    return jsonify({"status": "yass"})
-
-
 @app.route('/api/get_urls/<company>/', methods=['GET'])
 def get_competitor_urls(company):
     urls = get_company_partnership_urls(company)
     return jsonify({"urls": urls})
 
-'''
-TODO: change URL-->HTML to only read files that are left over from UI (ignore Xed out files)
-'''
 @app.route('/api/process_html/<company>/', methods=['GET'])
 def fetch_competitor_urls(company):
     clear_html(company)

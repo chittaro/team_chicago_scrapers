@@ -83,8 +83,6 @@ def chunk_text(text, max_length=6000, overlap=500):
         print(f"WARNING: text too long, {len(chunks)} chunks truncated to 5.")
     return chunks[:5]  # limiting this to 5 chunks lmao @bella
 
-
-
 def get_names(company_name, filename):
     with open(filename, "r", encoding="utf-8") as f:
         content = f.read()

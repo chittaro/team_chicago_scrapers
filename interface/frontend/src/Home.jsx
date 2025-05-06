@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
+// import { SettingsContext } from './SettingsContext'
 
 import './App.css'
 
@@ -55,10 +56,6 @@ function Home() {
 
     setUrls(response.urls)
     setIsLoading(false)
-  }
-
-  const handleRemoveUrl = (index) => {
-    setUrls(prev => prev.filter((_, i) => i !== index))
   }
 
   const handleAddUrl = () => {

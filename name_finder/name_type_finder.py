@@ -12,11 +12,13 @@ import re
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 
-parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-sys.path.append(parent_dir)
+WORKING_DIR = os.path.dirname(os.path.abspath(__file__))
+PARENT_DIR = os.path.abspath(os.path.join(WORKING_DIR, ".."))
+
+sys.path.append(PARENT_DIR)
 from scraper_helper import fetch_page # fetch_page_selenium
 
-env_path = os.path.join(parent_dir, ".env")
+env_path = os.path.join(PARENT_DIR, ".env")
 load_dotenv(dotenv_path=env_path)
 api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
@@ -38,7 +40,7 @@ def write_text_to_file(company_name, url, text):
 
 def get_html(company_name):
     # load urls from file (already filtered)
-    urls_file = os.path.join("data", company_name, "urls.txt")
+    urls_file = os.path.join(PARENT_DIR, "data", company_name, "urls.txt")
     with open(urls_file, "r") as f:
         urls = [line.strip() for line in f if line.strip()]
 

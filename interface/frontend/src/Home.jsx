@@ -1,6 +1,6 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useContext } from 'react'
 import { Link } from 'react-router-dom'
-// import { SettingsContext } from './SettingsContext'
+import { SettingsContext } from './SettingsContext'
 
 import './App.css'
 
@@ -8,18 +8,14 @@ function Home() {
   const [companyName, setCompanyName] = useState('')
   const [urls, setUrls] = useState([])
   const [partnerships, setPartnerships] = useState([])
-  const [isLoading, setIsLoading] = useState(false)
+  const [isURLSLoading, setURLSLoading] = useState(false)
+  const [isDataLoading, setDataLoading] = useState(false)
   const [showAddUrlInput, setShowAddUrlInput] = useState(false)
   const [newUrl, setNewUrl] = useState('')
   const [submittedCompany, setSubmittedCompany] = useState('')
+  const {partnerTypeDefinitions} = useContext(SettingsContext)
 
   // Mock data for testing
-  const mockUrls = [
-    'https://example.com/partners',
-    'https://businesswire.com/news/company-partnership',
-    'https://company.com/alliances'
-  ]
-
   const mockPartnerships = [
     {
       company_name: 'Test Company',
@@ -43,7 +39,8 @@ function Home() {
     e.preventDefault()
     if (!companyName.trim()) return
     
-    setIsLoading(true)
+    setURLSLoading(true)
+    setDataLoading(false)
     setUrls([])
     setPartnerships([])
     setSubmittedCompany(companyName)
@@ -55,7 +52,7 @@ function Home() {
     })
 
     setUrls(response.urls)
-    setIsLoading(false)
+    setURLSLoading(false)
   }
 
   const handleAddUrl = () => {
@@ -67,13 +64,23 @@ function Home() {
   }
 
   const handleContinue = async () => {
-    // For testing, use mock data
-    setPartnerships(mockPartnerships)
+    setDataLoading(true)
     
-    // TODO: Implement real API call
-    // const response = await fetch(`/api/partnerships?company=${companyName}`)
-    // const data = await response.json()
-    // setPartnerships(data.partnerships)
+    const response = await fetch(`http://127.0.0.1:5000/api/get_partner_data/${companyName}`, { credentials: "same-origin" })
+    .then((response) => {
+      if (!response.ok) throw Error(response.statusText)
+      return response.json()
+    })
+
+    if (response.success){
+      setPartnerships(response.data)
+      console.log(partnerships)
+      console.log(partnerships.length)
+    }
+    else {
+      console.log("pre-existing data not present -- TODO")
+    }
+    setDataLoading(false)
   }
 
   return (
@@ -98,24 +105,19 @@ function Home() {
               />
               <button
                 type="submit"
-                disabled={isLoading}
+                disabled={isURLSLoading}
                 className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition-colors disabled:opacity-50"
               >
-                {isLoading ? 'Searching...' : 'Search'}
+                {isURLSLoading ? 'Searching...' : 'Search'}
               </button>
             </div>
           </form>
         </div>
 
         {/* Loading Animation */}
-        {isLoading && (
+        {isURLSLoading && (
           <div className="bg-white rounded-lg shadow-md p-6 mb-4 text-center animate-pulse">
             <p className="text-gray-600">Searching the web for {submittedCompany} partnerships...</p>
-            <div className="flex justify-center mt-4 space-x-2">
-              <div className="w-3 h-3 bg-blue-500 rounded-full animate-bounce" style={{ animationDelay: '0s' }}></div>
-              <div className="w-3 h-3 bg-blue-500 rounded-full animate-bounce" style={{ animationDelay: '0.2s' }}></div>
-              <div className="w-3 h-3 bg-blue-500 rounded-full animate-bounce" style={{ animationDelay: '0.4s' }}></div>
-            </div>
           </div>
         )}
 
@@ -163,57 +165,62 @@ function Home() {
                   + Add Another URL
                 </button>
                 <button
+                  type="submit"
+                  disabled={isDataLoading}
                   onClick={handleContinue}
-                  className="bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition-colors"
+                  className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition-colors disabled:opacity-50"
                 >
-                  Continue
+                  {isDataLoading ? 'Parsing...' : 'Continue'}
                 </button>
               </div>
             )}
           </div>
         )}
 
+        {isDataLoading && (
+            <div className="bg-white rounded-lg shadow-md p-6 mb-4 text-center animate-pulse">
+              <p className="text-gray-600">Parsing URLs for partnership data...</p>
+            </div>
+        )}
+
         {/* Partnerships Table */}
-        {partnerships.length > 0 && (
+        {Object.keys(partnerships).length > 0 && (
           <div className="bg-white rounded-lg shadow-md p-6 transition-all duration-500 animate-fade-in">
             <h2 className="text-xl font-semibold mb-4">Partnerships for {submittedCompany}</h2>
             <div className="overflow-x-auto">
-              <table className="min-w-full">
-                <thead>
-                  <tr className="bg-gray-50">
-                    <th className="px-6 py-3 text-left text-gray-700">Company Name</th>
-                    <th className="px-6 py-3 text-left text-gray-700">Partnership Name</th>
-                    <th className="px-6 py-3 text-left text-gray-700">Partnership Type</th>
-                    <th className="px-6 py-3 text-left text-gray-700">URL Source</th>
-                    <th className="px-6 py-3 text-left text-gray-700">Date Scraped</th>
-                    <th className="px-6 py-3 text-left text-gray-700">Status</th>
+            <div className="overflow-x-auto border border-black rounded-md">
+            <table className="partnership-table">
+              <thead>
+                <tr>
+                  <th>Company Name</th>
+                  <th>Domain</th>
+                  <th>Type</th>
+                  <th>URL Source</th>
+                </tr>
+              </thead>
+              <tbody>
+                {Object.entries(partnerships).map(([companyName, entry]) => (
+                  <tr key={companyName}>
+                    <td>{companyName}</td>
+                    <td>{entry.domain}</td>
+                    <td>{entry.type}</td>
+                    <td>
+                      <div className="url-scroll-container">
+                        {entry.urls.map((url, index) => (
+                          <div key={index}>
+                            <a href={url} target="_blank" rel="noopener noreferrer">
+                              {url}
+                            </a>
+                          </div>
+                        ))}
+                      </div>
+                    </td>
                   </tr>
-                </thead>
-                <tbody>
-                  {partnerships.map((partnership, index) => (
-                    <tr key={index} className="border-t hover:bg-gray-50 transition-colors">
-                      <td className="px-6 py-4">{partnership.company_name}</td>
-                      <td className="px-6 py-4">{partnership.partnership_name}</td>
-                      <td className="px-6 py-4">{partnership.partnership_type}</td>
-                      <td className="px-6 py-4">
-                        <a href={partnership.url_scraped_from} target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline truncate block max-w-xs">
-                          {partnership.url_scraped_from}
-                        </a>
-                      </td>
-                      <td className="px-6 py-4">{partnership.date_scraped}</td>
-                      <td className="px-6 py-4">
-                        <span className={`px-2 py-1 rounded text-sm font-medium ${
-                          partnership.status === 'Pending' ? 'bg-yellow-100 text-yellow-800' :
-                          partnership.status === 'Confirmed' ? 'bg-green-100 text-green-800' :
-                          'bg-red-100 text-red-800'
-                        }`}>
-                          {partnership.status}
-                        </span>
-                      </td>
-                    </tr>
-                  ))}
-                </tbody>
-              </table>
+                ))}
+              </tbody>
+            </table>
+
+          </div>
             </div>
           </div>
         )}

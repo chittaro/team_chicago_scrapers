@@ -11,7 +11,6 @@ export function SettingsProvider({ children }) {
     "HPC Partner": '',
     "Reseller": '',
   })
-  // const [userComment, setUserComment] = useState('')
 
   return (
     <SettingsContext.Provider value={{ partnerTypeDefinitions, setPartnerTypeDefinitions }}>

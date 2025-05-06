@@ -68,3 +68,23 @@
     -webkit-overflow-scrolling: touch;
   }
 }
+
+.partnership-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+.partnership-table th,
+.partnership-table td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.url-scroll-container {
+  max-height: 3em; /* Approx 2 lines of text */
+  overflow-y: auto;
+  padding: 4px;
+}

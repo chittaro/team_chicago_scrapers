@@ -18,8 +18,32 @@ def get_competitor_urls(company):
 
 @app.route('/api/process_html/<company>/', methods=['GET'])
 def process_html(company):
-    # TODO: clear & process URLs once more (should be called in sequence w/ get_partner_data on frontend)
-    return jsonify({"success": True})
+    clear_html(company)
+    get_html(company)
+    # TODO: return real data (keeping as fake data b/c don't wanna waste money)
+    data = {
+        "success": True,
+        "data": {
+            "datum360": {
+                "type": "strategic partner",
+                "domain": "CAE",
+                "urls": [
+                "https://aecpartners.autodesk.com/?lang=en"
+                ]
+            },
+            "eptura": {
+                "type": "strategic partner",
+                "domain": "Metrology software",
+                "urls": [
+                "https://adsknews.autodesk.com/en/views/embracing-aeco/",
+                "https://aecpartners.autodesk.com/?lang=en",
+                "https://intandem.autodesk.com/resource/eptura/",
+                "https://www.autodesk.com/partners/strategic-alliance-partners"
+                ]
+            },
+        }
+    }
+    return jsonify(**data)
 
 @app.route('/api/get_partner_data/<company>/', methods=['GET'])
 def get_partner_data(company):

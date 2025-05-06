@@ -13,27 +13,8 @@ function Home() {
   const [showAddUrlInput, setShowAddUrlInput] = useState(false)
   const [newUrl, setNewUrl] = useState('')
   const [submittedCompany, setSubmittedCompany] = useState('')
+  const [tableState, setTableState] = useState('')
   const {partnerTypeDefinitions} = useContext(SettingsContext)
-
-  // Mock data for testing
-  const mockPartnerships = [
-    {
-      company_name: 'Test Company',
-      partnership_name: 'Partner A',
-      partnership_type: 'Strategic',
-      url_scraped_from: 'https://example.com/partners',
-      date_scraped: '2023-04-28',
-      status: 'Pending'
-    },
-    {
-      company_name: 'Test Company',
-      partnership_name: 'Partner B',
-      partnership_type: 'Technology',
-      url_scraped_from: 'https://businesswire.com/news/company-partnership',
-      date_scraped: '2023-04-28',
-      status: 'Confirmed'
-    }
-  ]
 
   const handleCompanySubmit = async (e) => {
     e.preventDefault()
@@ -43,6 +24,7 @@ function Home() {
     setDataLoading(false)
     setUrls([])
     setPartnerships([])
+    setTableState("")
     setSubmittedCompany(companyName)
     
     const response = await fetch(`http://127.0.0.1:5000/api/get_urls/${companyName}`, { credentials: "same-origin" })
@@ -74,13 +56,33 @@ function Home() {
 
     if (response.success){
       setPartnerships(response.data)
-      console.log(partnerships)
-      console.log(partnerships.length)
+      setTableState("Full")
     }
     else {
-      console.log("pre-existing data not present -- TODO")
+      setTableState("Empty")
     }
+
     setDataLoading(false)
+  }
+
+  const handleParseHTML = async () => {
+    setDataLoading(true)
+    const response = await fetch(`http://127.0.0.1:5000/api/process_html/${companyName}`, { credentials: "same-origin" })
+    .then((response) => {
+      if (!response.ok) throw Error(response.statusText)
+      return response.json()
+    })
+
+    if (response.success){
+      setPartnerships(response.data)
+      setTableState("Full")
+    }
+    else {
+      setTableState("Fail")
+    }
+
+    setDataLoading(false)
+
   }
 
   return (
@@ -94,15 +96,15 @@ function Home() {
         {/* Company Input Section - Chat-like bubble */}
         <div className="bg-white rounded-lg shadow-md p-6 mb-4 transition-all duration-300 transform hover:shadow-lg">
           <form onSubmit={handleCompanySubmit}>
-            <label className="block text-gray-700 mb-2 text-lg">Enter a company name to find partnerships</label>
+            <p className="block text-gray-700 mb-2 text-lg" style={{fontWeight: "normal"}}>Enter competitor name to find & classify partnerships</p>
             <div className="flex gap-2">
-              <input
-                type="text"
-                value={companyName}
-                onChange={(e) => setCompanyName(e.target.value)}
-                placeholder="e.g., Microsoft, Amazon, Tesla"
-                className="flex-1 p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-              />
+            <input
+              type="text"
+              value={companyName}
+              onChange={(e) => setCompanyName(e.target.value)}
+              placeholder="Company Name"
+              className="company-name-input"
+            />
               <button
                 type="submit"
                 disabled={isURLSLoading}
@@ -124,7 +126,7 @@ function Home() {
         {/* Live URL Display - Animated entry */}
         {urls.length > 0 && (
           <div className="bg-white rounded-lg shadow-md p-6 mb-4 transition-opacity duration-500 opacity-100">
-            <h2 className="text-xl font-semibold mb-4">Found URLs for {submittedCompany}</h2>
+            <h2 className="text-xl font-semibold mb-4">Found URLs for {submittedCompany}:</h2>
             <div className="scrollable-box"   style={{height: '150px', overflowY: 'auto', border: "1px solid #000"}}>
               {urls.map((item, index) => (
                 <div key={index} style={{ marginBottom: '5px' }}>
@@ -184,44 +186,65 @@ function Home() {
         )}
 
         {/* Partnerships Table */}
-        {Object.keys(partnerships).length > 0 && (
+        {tableState.length > 0 && (
           <div className="bg-white rounded-lg shadow-md p-6 transition-all duration-500 animate-fade-in">
-            <h2 className="text-xl font-semibold mb-4">Partnerships for {submittedCompany}</h2>
-            <div className="overflow-x-auto">
-            <div className="overflow-x-auto border border-black rounded-md">
-            <table className="partnership-table">
-              <thead>
-                <tr>
-                  <th>Company Name</th>
-                  <th>Domain</th>
-                  <th>Type</th>
-                  <th>URL Source</th>
-                </tr>
-              </thead>
-              <tbody>
-                {Object.entries(partnerships).map(([companyName, entry]) => (
-                  <tr key={companyName}>
-                    <td>{companyName}</td>
-                    <td>{entry.domain}</td>
-                    <td>{entry.type}</td>
-                    <td>
-                      <div className="url-scroll-container">
-                        {entry.urls.map((url, index) => (
-                          <div key={index}>
-                            <a href={url} target="_blank" rel="noopener noreferrer">
-                              {url}
-                            </a>
-                          </div>
-                        ))}
-                      </div>
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
+            <h2 className="text-xl font-semibold mb-4">Partnerships for {submittedCompany}:</h2>
+            {tableState == "Empty" && (<>
+              <h3 style={{ fontWeight: 'normal' }}>Partnership data hasn't been parsed yet. Fetch data?</h3>
+              
+            </>)}
+            {tableState == "Full" && ( <>
+              <h3 style={{ fontWeight: 'normal' }}>Existing partnership data found in the database!</h3>
+              <button
+                  type="submit"
+                  disabled={isDataLoading}
+                  onClick={handleParseHTML}
+                  className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition-colors disabled:opacity-50"
+                >
+                  {isDataLoading ? 'Processing...' : 'Re-Process Data'}
+              </button>
 
-          </div>
-            </div>
+              <div className="overflow-x-auto">
+                <div className="overflow-x-auto border border-black rounded-md">
+                  <table className="partnership-table">
+                    <thead>
+                      <tr>
+                        <th>Company Name</th>
+                        <th>Domain</th>
+                        <th>Type</th>
+                        <th>URL Source</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {Object.entries(partnerships).map(([companyName, entry]) => (
+                        <tr key={companyName}>
+                          <td>{companyName}</td>
+                          <td>{entry.domain}</td>
+                          <td>{entry.type}</td>
+                          <td>
+                            <div className="url-scroll-container">
+                              {entry.urls.map((url, index) => (
+                                <div key={index}>
+                                  <a href={url} target="_blank" rel="noopener noreferrer">
+                                    {url}
+                                  </a>
+                                </div>
+                              ))}
+                            </div>
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+
+                </div>
+              </div>
+            </>)}
+            
+            {tableState == "Fail" && (
+              <h3 style={{ fontWeight: 'normal' }}>Failed to process data</h3>
+            )}
+
           </div>
         )}
       </div>

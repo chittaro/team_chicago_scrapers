@@ -1,7 +1,9 @@
 import { useState, useEffect, useContext } from 'react'
-import { Link } from 'react-router-dom'
+import { useNavigate } from 'react-router-dom';
 import { SettingsContext } from './SettingsContext'
+import PartnershipTable from './PartnershipTable';
 
+import NavBar from './NavBar';
 import './App.css'
 
 function Home() {
@@ -16,6 +18,12 @@ function Home() {
   const [tableState, setTableState] = useState('')
   const {partnerTypeDefinitions} = useContext(SettingsContext)
 
+
+  // remove '/test' to test real functions
+  const navigate = useNavigate();
+  const PREFIX = "http://127.0.0.1:5000/api/test"
+
+
   const handleCompanySubmit = async (e) => {
     e.preventDefault()
     if (!companyName.trim()) return
@@ -27,7 +35,7 @@ function Home() {
     setTableState("")
     setSubmittedCompany(companyName)
     
-    const response = await fetch(`http://127.0.0.1:5000/api/get_urls/${companyName}`, { credentials: "same-origin" })
+    const response = await fetch(`${PREFIX}/get_urls/${companyName}`, { credentials: "same-origin" })
     .then((response) => {
       if (!response.ok) throw Error(response.statusText)
       return response.json()
@@ -48,7 +56,7 @@ function Home() {
   const handleContinue = async () => {
     setDataLoading(true)
     
-    const response = await fetch(`http://127.0.0.1:5000/api/get_partner_data/${companyName}`, { credentials: "same-origin" })
+    const response = await fetch(`${PREFIX}/get_partner_data/${companyName}`, { credentials: "same-origin" })
     .then((response) => {
       if (!response.ok) throw Error(response.statusText)
       return response.json()
@@ -67,7 +75,7 @@ function Home() {
 
   const handleParseHTML = async () => {
     setDataLoading(true)
-    const response = await fetch(`http://127.0.0.1:5000/api/process_html/${companyName}`, { credentials: "same-origin" })
+    const response = await fetch(`${PREFIX}/process_html/${companyName}`, { credentials: "same-origin" })
     .then((response) => {
       if (!response.ok) throw Error(response.statusText)
       return response.json()
@@ -87,9 +95,7 @@ function Home() {
 
   return (
     <div className="min-h-screen bg-gray-100 py-8">
-      <Link to="/settings" className="absolute top-4 right-4 text-gray-600 hover:text-gray-800 transition-colors">
-        Prompt Settings
-      </Link>
+      <NavBar/>
       <div className="max-w-4xl mx-auto px-4">
         <h1 className="text-2xl font-bold text-center mb-6 text-gray-800">Hexagon Partnership Finder</h1>
         
@@ -204,41 +210,7 @@ function Home() {
                   {isDataLoading ? 'Processing...' : 'Re-Process Data'}
               </button>
 
-              <div className="overflow-x-auto">
-                <div className="overflow-x-auto border border-black rounded-md">
-                  <table className="partnership-table">
-                    <thead>
-                      <tr>
-                        <th>Company Name</th>
-                        <th>Domain</th>
-                        <th>Type</th>
-                        <th>URL Source</th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {Object.entries(partnerships).map(([companyName, entry]) => (
-                        <tr key={companyName}>
-                          <td>{companyName}</td>
-                          <td>{entry.domain}</td>
-                          <td>{entry.type}</td>
-                          <td>
-                            <div className="url-scroll-container">
-                              {entry.urls.map((url, index) => (
-                                <div key={index}>
-                                  <a href={url} target="_blank" rel="noopener noreferrer">
-                                    {url}
-                                  </a>
-                                </div>
-                              ))}
-                            </div>
-                          </td>
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
-
-                </div>
-              </div>
+              <PartnershipTable partnershipData={partnerships} />
             </>)}
             
             {tableState == "Fail" && (

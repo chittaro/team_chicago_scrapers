@@ -12,6 +12,8 @@ import re
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from collections import defaultdict, Counter
+from datetime import datetime
+
 
 
 parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
@@ -101,11 +103,13 @@ def get_names(company_name, filename):
         prompt = (
             f"Given the following webpage content, extract the names of any partner companies of the company {company_name} "
             "explicitly mentioned on the page. Only list real companies that appear to be manufacturing "
-            f"partners, collaborators, or customers of {company_name}. \n\n"
-            "For each partner, also classify the partner company into one of these four domains: "
-            "'CAE', 'CAM', 'Metrology devices', or 'Metrology software'. Choose the single most relevant domain.\n\n"
+            f"partners, collaborators, or customers of {company_name}. Focus on CAE, CAM, and metrology partnerships. \n\n"
             "If no such partnerships are mentioned, return NOTHING, an empty string. Do NOT make up names or "
             f"guess based on irrelevant information.\n\n"
+            "Only for each valid company found, briefly describe the type of partnership in 1 to 4 words, such as "
+            "'strategic partner', 'software partner', 'hardware partner', 'hpc partner', or 'reseller'.\n\n"
+            "For each partner, also classify the partner company into one of these four domains: "
+            "'CAE', 'CAM', 'Metrology devices', or 'Metrology software'. Choose the single most relevant domain.\n\n"
             "Return the results in the exact format:\n"
             "Company Name: partnership type | industry domain\n\n"
             "Example:\n"
@@ -184,12 +188,43 @@ def get_all_names(company_name):
         json.dump(url_to_partners, f, indent=2)
     print(f"Saved URL-to-partner mapping to {json_path}")
 
-    merge_data(url_to_partners, company_dir)
+    merge_data(url_to_partners, company_dir, company_name)
 
     return all_names
 
 
-def merge_data(url_to_partners, company_dir):
+# def merge_data(url_to_partners, company_dir):
+#     partner_index = {}
+#     for url, partners in url_to_partners.items():
+#         for entry in partners:
+#             name = entry["name"].lower()
+#             ptype = entry["type"]
+#             domain = entry["da"]
+#             if name not in partner_index:
+#                 partner_index[name] = {
+#                     "type_counter": Counter(),
+#                     "domain_counter": Counter(),
+#                     "urls": set()
+#                 }
+#             partner_index[name]["type_counter"][ptype] += 1
+#             partner_index[name]["domain_counter"][domain] += 1
+#             partner_index[name]["urls"].add(url)
+
+#     # resolve conflicts by picking the most common values
+#     dedup_data = {}
+#     for name, info in partner_index.items():
+#         dedup_data[name] = {
+#             "type": info["type_counter"].most_common(1)[0][0],
+#             "domain": info["domain_counter"].most_common(1)[0][0],
+#             "urls": sorted(info["urls"])
+#         }
+
+#     data_path = os.path.join(company_dir, "data.json")
+#     with open(data_path, "w", encoding="utf-8") as f:
+#         json.dump(dedup_data, f, indent=2)
+#     print(f"Saved merged partner data to {data_path}")
+
+def merge_data(url_to_partners, company_dir, company_name):
     partner_index = {}
     for url, partners in url_to_partners.items():
         for entry in partners:
@@ -206,19 +241,27 @@ def merge_data(url_to_partners, company_dir):
             partner_index[name]["domain_counter"][domain] += 1
             partner_index[name]["urls"].add(url)
 
-    # resolve conflicts by picking the most common values
-    dedup_data = {}
+    # Today's date
+    today = datetime.today().strftime("%Y-%m-%d")
+
+    # Final output: list of dicts
+    merged_partners = []
     for name, info in partner_index.items():
-        dedup_data[name] = {
-            "type": info["type_counter"].most_common(1)[0][0],
-            "domain": info["domain_counter"].most_common(1)[0][0],
-            "urls": sorted(info["urls"])
-        }
+        merged_partners.append({
+            "company_name": company_name,
+            "partnership_name": name,
+            "partnership_type": info["type_counter"].most_common(1)[0][0],
+            "url_scraped_from": sorted(info["urls"])[0],  # or include all if needed
+            "date_scraped": today,
+            "status": "Pending"
+        })
 
     data_path = os.path.join(company_dir, "data.json")
     with open(data_path, "w", encoding="utf-8") as f:
-        json.dump(dedup_data, f, indent=2)
+        json.dump(merged_partners, f, indent=2)
+
     print(f"Saved merged partner data to {data_path}")
+
 
 
 def clear_html(company_name):

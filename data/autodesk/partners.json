@@ -8,12 +8,12 @@
     {
       "name": "eptura",
       "type": "strategic partner",
-      "domain": "Metrology software"
+      "domain": "CAE"
     },
     {
       "name": "esri inc.",
       "type": "strategic partner",
-      "domain": "Metrology software"
+      "domain": "CAE"
     },
     {
       "name": "geodin\u00ae (a fugro company)",
@@ -63,7 +63,7 @@
     {
       "name": "transcend software",
       "type": "strategic partner",
-      "domain": "CAM"
+      "domain": "CAE"
     }
   ],
   "https://www.autodesk.com/partners/strategic-alliance-partners": [
@@ -185,7 +185,7 @@
   "https://investors.autodesk.com/news-releases/news-release-details/autodesk-and-aveva-form-strategic-alliance-provide-extended": [
     {
       "name": "aveva",
-      "type": "strategic partner",
+      "type": "strategic alliance partner",
       "domain": "CAE"
     }
   ],
@@ -202,13 +202,7 @@
       "domain": "Metrology software"
     }
   ],
-  "https://www.imaginit.com/": [
-    {
-      "name": "imaginit",
-      "type": "reseller",
-      "domain": "CAM"
-    }
-  ],
+  "https://www.imaginit.com/": [],
   "https://brand.autodesk.com/co-branding/": [],
   "https://investors.autodesk.com/news-releases/news-release-details/tata-consulting-engineers-ltd-and-autodesk-announce-strategic": [
     {
@@ -219,16 +213,6 @@
   ],
   "https://www.prnewswire.com/news-releases/makersite-expands-strategic-partnership-with-autodesk-302249722.html": [
     {
-      "name": "ansys",
-      "type": "strategic partner",
-      "domain": "CAE"
-    },
-    {
-      "name": "daikin",
-      "type": "customer",
-      "domain": "Metrology software"
-    },
-    {
       "name": "makersite",
       "type": "strategic partner",
       "domain": "Metrology software"
@@ -236,24 +220,9 @@
   ],
   "https://www.esri.com/en-us/about/partners/our-partners/strategic-alliances/autodesk/overview": [
     {
-      "name": "arcadis",
-      "type": "collaborator",
-      "domain": "CAE"
-    },
-    {
       "name": "esri",
       "type": "strategic partner",
       "domain": "Metrology software"
-    },
-    {
-      "name": "hdr",
-      "type": "collaborator",
-      "domain": "CAE"
-    },
-    {
-      "name": "volkerwessels",
-      "type": "collaborator",
-      "domain": "CAE"
     }
   ],
   "https://www.autodesk.com/partners/overview": [],

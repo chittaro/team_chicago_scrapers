@@ -46,7 +46,7 @@ function App() {
     setSubmittedCompany(companyName)
     
     // TODO: Implement real API call
-    const response = await fetch(`http://127.0.0.1:5000/api/process_urls/${companyName}`, { credentials: "same-origin" })
+    const response = await fetch(`http://127.0.0.1:5000/api/get_urls/${companyName}`, { credentials: "same-origin" })
     .then((response) => {
       if (!response.ok) throw Error(response.statusText)
       return response.json()
@@ -71,10 +71,13 @@ function App() {
   const handleContinue = async () => {
     // For testing, use mock data
     setPartnerships(mockPartnerships)
-    
     // TODO: Implement real API call
-    // const response = await fetch(`/api/partnerships?company=${companyName}`)
-    // const data = await response.json()
+    // const response = await fetch(`http://127.0.0.1:5000/api/get_partner_data/${companyName}/`, {
+    //   credentials: "same-origin"
+    // })
+    //     const data = await response.json()
+    //     console.log("Partner data:", data)
+
     // setPartnerships(data.partnerships)
   }
 

@@ -1,10 +1,8 @@
 ansys
 applied software
-arcadis
 atg
 aveva
 cadd microsystems
-daikin
 datum360
 dsi (design and software international)
 electric imp
@@ -17,12 +15,10 @@ graitec group
 haas
 haas automation
 hagerman & company
-hdr
 hp
 hysopt
 idat gmbh
 idea statica
-imaginit
 imaginit technologies
 kennametal
 linear gmbh
@@ -44,5 +40,4 @@ topcon solutions
 tpm inc.
 transcend software
 u.s. cad, an arkance company
-volkerwessels
 xometry

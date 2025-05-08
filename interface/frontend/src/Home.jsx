@@ -18,10 +18,10 @@ function Home() {
   const [tableState, setTableState] = useState('')
   const {partnerTypeDefinitions} = useContext(SettingsContext)
 
-
-  // remove '/test' to test real functions
   const navigate = useNavigate();
-  const PREFIX = "http://127.0.0.1:5000/api/test"
+
+  // remove '/test' to use real functions
+  const PREFIX = "http://127.0.0.1:5000/api/"
 
 
   const handleCompanySubmit = async (e) => {
@@ -34,7 +34,7 @@ function Home() {
     setPartnerships([])
     setTableState("")
     setSubmittedCompany(companyName)
-    
+
     const response = await fetch(`${PREFIX}/get_urls/${companyName}`, { credentials: "same-origin" })
     .then((response) => {
       if (!response.ok) throw Error(response.statusText)
@@ -55,7 +55,7 @@ function Home() {
 
   const handleContinue = async () => {
     setDataLoading(true)
-    
+
     const response = await fetch(`${PREFIX}/get_partner_data/${companyName}`, { credentials: "same-origin" })
     .then((response) => {
       if (!response.ok) throw Error(response.statusText)

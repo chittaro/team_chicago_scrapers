@@ -23,29 +23,19 @@ def process_html(company):
         Returns json dictionary of complete partnership data '''
     clear_html(company)
     get_html(company)
-    # TODO: return real data (keeping as fake data b/c don't wanna waste money)
-    data = {
-        "success": True,
-        "data": {
-            "datum360": {
-                "type": "strategic partner",
-                "domain": "CAE",
-                "urls": [
-                "https://aecpartners.autodesk.com/?lang=en"
-                ]
-            },
-            "eptura": {
-                "type": "strategic partner",
-                "domain": "Metrology software",
-                "urls": [
-                "https://adsknews.autodesk.com/en/views/embracing-aeco/",
-                "https://aecpartners.autodesk.com/?lang=en",
-                "https://intandem.autodesk.com/resource/eptura/",
-                "https://www.autodesk.com/partners/strategic-alliance-partners"
-                ]
-            },
+    partnerships = get_all_names
+    if len(partnerships) == 0:
+        data = {
+            "success": False,
+            "data": {}
         }
-    }
+
+    else: 
+        data = {
+            "success": True,
+            "data": partnerships
+        }
+
     return jsonify(**data)
 
 @app.route('/api/get_partner_data/<company>/', methods=['GET'])

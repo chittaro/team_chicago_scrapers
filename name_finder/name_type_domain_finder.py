@@ -18,6 +18,9 @@ from datetime import datetime
 
 parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.append(parent_dir)
+
+WORKING_DIR = os.path.abspath(os.path.dirname(__file__))
+DATA_DIR = os.path.abspath(os.path.join(WORKING_DIR, "..", "data"))
 from scraper_helper import fetch_page, fetch_page_selenium
 
 env_path = os.path.join(parent_dir, ".env")
@@ -31,6 +34,7 @@ client = openai.OpenAI(api_key=api_key)
 
 
 def write_text_to_file(company_name, url, text):
+    company_name = company_name.lower()
     folder_path = os.path.join("data", company_name)
     os.makedirs(folder_path, exist_ok=True)
     unique_id = str(uuid.uuid4())
@@ -42,6 +46,7 @@ def write_text_to_file(company_name, url, text):
 
 def get_html(company_name):
     # load urls from file (already filtered)
+    company_name = company_name.lower()
     urls_file = os.path.join("data", company_name, "urls.txt")
     with open(urls_file, "r") as f:
         urls = [line.strip() for line in f if line.strip()]
@@ -84,8 +89,6 @@ def chunk_text(text, max_length=6000, overlap=500):
     if len(chunks) > 5:
         print(f"WARNING: text too long, {len(chunks)} chunks truncated to 5.")
     return chunks[:5]  # limiting this to 5 chunks lmao @bella
-
-
 
 def get_names(company_name, filename):
     with open(filename, "r", encoding="utf-8") as f:
@@ -149,6 +152,7 @@ def get_names(company_name, filename):
 
 
 def get_all_names(company_name):
+    company_name = company_name.lower()
     company_dir = os.path.join("data", company_name)
     if not os.path.exists(company_dir):
         print(f"No data found for {company_name}.")
@@ -265,6 +269,7 @@ def merge_data(url_to_partners, company_dir, company_name):
 
 
 def clear_html(company_name):
+    company_name = company_name.lower()
     company_dir = os.path.join("data", company_name)
     if not os.path.exists(company_dir):
         print(f"No data found for {company_name}.")
@@ -288,3 +293,30 @@ def clear_html(company_name):
         print("No html files found to delete.")
 
     return deleted_files
+
+def check_data_exists(company_name):
+    company_name = company_name.lower()
+    company_dir = os.path.join(DATA_DIR, company_name)
+    if not os.path.exists(company_dir):
+        return False
+    
+    data_dir = os.path.join(company_dir, "partners.json")
+    if not os.path.exists(data_dir):
+        return False
+    return True
+
+def pull_partner_data(company_name):
+    # call if  data.json already populated
+    company_name = company_name.lower()
+    data_dir = os.path.join(DATA_DIR, company_name, "data.json")
+
+    if not os.path.exists(data_dir):
+        print("path dont even exist")
+        return {"success": False}
+    
+    with open(data_dir, 'r') as f:
+        url_data = json.load(f)
+        return {
+            "success": True,
+            "data": url_data
+        }

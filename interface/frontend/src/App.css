@@ -68,3 +68,47 @@
     -webkit-overflow-scrolling: touch;
   }
 }
+
+.partnership-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+.partnership-table th,
+.partnership-table td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.url-scroll-container {
+  max-height: 3em; /* Approx 2 lines of text */
+  overflow-y: auto;
+  padding: 4px;
+}
+
+/* Label Style */
+.company-name-label {
+  display: block;
+  font-size: 1rem; /* Equivalent to text-xl */
+  font-weight: 600; /* Bold */
+  color: #4A4A4A; /* Dark gray text */
+  margin-bottom: 1rem; /* Spacing below the label */
+}
+
+/* Input container (optional, if you need additional styling) */
+.input-container {
+  display: flex;
+  gap: 2px; /* Space between the label and the input */
+}
+
+/* Input box Style */
+.company-name-input {
+  flex-grow: 1; /* Make input take available space */
+  padding: 0.8rem; /* Equivalent to p-4 */
+  border-radius: 0.75rem; /* Rounded corners */
+  font-size: 1.125rem; /* Equivalent to text-lg */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Soft shadow */
+}

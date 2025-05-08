@@ -1,10 +1,22 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './index.css'
-import App from './App.jsx'
+import Home from './Home.jsx'
+import Settings from './Settings.jsx'
+import Company from './Company.jsx'
+import { SettingsProvider } from './SettingsContext.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <App />
-  </StrictMode>,
+    <SettingsProvider>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/settings" element={<Settings />} />
+          <Route path="/company/:companyName" element={<Company />} />
+        </Routes>
+      </BrowserRouter>
+    </SettingsProvider>
+  </StrictMode>
 )

@@ -21,12 +21,12 @@ from name_finder.name_type_domain_finder import get_html, get_names, get_all_nam
 company_name = input("Enter the company name: ").strip()
 
 
-########## GET URLS ##########
-# print(f"\n\n********** Getting relevant URLS...")
-# urls = get_company_partnership_urls(company_name)
-# print(f"Found {len(urls)} URLs for {company_name} partnerships, first 10:")
-# for idx, url in enumerate(urls[:10], start=1):
-#     print(f"{idx}. {url}")
+######### GET URLS ##########
+print(f"\n\n********** Getting relevant URLS...")
+urls = get_company_partnership_urls(company_name)
+print(f"Found {len(urls)} URLs for {company_name} partnerships, first 10:")
+for idx, url in enumerate(urls[:10], start=1):
+    print(f"{idx}. {url}")
 
 
 ########## GET HTML TEXT ##########
@@ -45,9 +45,9 @@ company_name = input("Enter the company name: ").strip()
 
 
 ########## GET PARTNER NAMES ##########
-print(f"\n\n********** Getting {company_name} partner names and partnership types...")
-names = get_all_names(company_name)
-print(f"{company_name} partner names: {names}")
+# print(f"\n\n********** Getting {company_name} partner names and partnership types...")
+# names = get_all_names(company_name)
+# print(f"{company_name} partner names: {names}")
 
 
 ########## GET PARTER INFO ##########

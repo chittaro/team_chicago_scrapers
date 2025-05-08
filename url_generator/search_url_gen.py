@@ -29,9 +29,12 @@ def google_search(query, num_results=10):
 
     # Extract URLs from search results
     urls = [item["link"] for item in results.get("items", [])]
+    print(f"urls: {urls}")
     return urls
 
 def get_company_partnership_urls(company_name):
+
+    
     queries = [
         f"{company_name} partner companies",
         f"{company_name} manufacturing partners",

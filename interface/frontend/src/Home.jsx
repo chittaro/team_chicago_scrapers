@@ -21,7 +21,7 @@ function Home() {
 
   // remove '/test' to test real functions
   const navigate = useNavigate();
-  const PREFIX = "http://127.0.0.1:5000/api/test"
+  const PREFIX = "http://127.0.0.1:5000/api"
 
 
   const handleCompanySubmit = async (e) => {

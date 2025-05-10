@@ -8,11 +8,19 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '.
 from url_generator.search_url_gen import get_company_partnership_urls
 from name_finder.name_type_domain_finder import get_html, get_names, get_all_names, clear_html, pull_partner_data
 
+# Import the settings blueprint using absolute-like path from project root
+from interface.backend.routes_settings import settings_bp
+
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 DATA_ROOT = os.path.join(REPO_ROOT, "data")
 
 app = Flask(__name__)
 CORS(app)
+
+# Register the settings blueprint
+# All routes in settings_bp will be prefixed with /api (from settings_bp) further prefixed by this /api if needed,
+# but settings_bp already has /api/settings, so it will be /api/settings
+app.register_blueprint(settings_bp) 
 
 @app.route('/api/get_urls/<company>/', methods=['GET'])
 def get_competitor_urls(company):

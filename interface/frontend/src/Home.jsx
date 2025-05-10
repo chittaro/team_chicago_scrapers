@@ -1,6 +1,4 @@
-import { useState, useEffect, useContext } from 'react'
-import { useNavigate } from 'react-router-dom';
-import { SettingsContext } from './SettingsContext'
+import { useState } from 'react'
 
 import NavBar from './NavBar';
 import CompanyPipeline from './CompanyPipeline';
@@ -9,18 +7,14 @@ import './App.css'
 
 function Home() {
   const [companyName, setCompanyName] = useState('')
+  const [tempCompanyName, setTempCompanyName] = useState('')
   const [showCompany, setShowCompany] = useState(false);
-  const {partnerTypeDefinitions} = useContext(SettingsContext)
-
-  const navigate = useNavigate();
-
-  // remove '/test' to use real functions
-  const PREFIX = "http://127.0.0.1:5000/api/test"
 
   const handleCompanySubmit = async (e) => {
     e.preventDefault()
-    if (!companyName.trim()) return
+    if (!tempCompanyName.trim()) return
     
+    setCompanyName(tempCompanyName)
     setShowCompany(true)
   }
 
@@ -37,8 +31,8 @@ function Home() {
             <div className="flex gap-2">
             <input
               type="text"
-              value={companyName}
-              onChange={(e) => setCompanyName(e.target.value)}
+              value={tempCompanyName}
+              onChange={(e) => setTempCompanyName(e.target.value)}
               placeholder="Company Name"
               className="company-name-input"
             />

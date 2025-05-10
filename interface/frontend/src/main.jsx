@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './index.css'
 import Home from './Home.jsx'
 import Settings from './Settings.jsx'
-import Company from './Company.jsx'
+import CompanyTab from './CompanyTab.jsx'
 import { SettingsProvider } from './SettingsContext.jsx'
 
 createRoot(document.getElementById('root')).render(
@@ -14,7 +14,7 @@ createRoot(document.getElementById('root')).render(
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/settings" element={<Settings />} />
-          <Route path="/company/:companyName" element={<Company />} />
+          <Route path="/companyTab/:companyName" element={<CompanyTab />} />
         </Routes>
       </BrowserRouter>
     </SettingsProvider>

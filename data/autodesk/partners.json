@@ -1,4 +1,49 @@
 {
+  "https://adsknews.autodesk.com/en/views/embracing-aeco/": [
+    {
+      "name": "eptura",
+      "type": "strategic partner",
+      "domain": "Metrology software"
+    },
+    {
+      "name": "esri",
+      "type": "strategic partner",
+      "domain": "Metrology software"
+    }
+  ],
+  "https://www.autodesk.com/partners/strategic-alliance-partners": [],
+  "https://aecpartners.autodesk.com/?lang=en": [
+    {
+      "name": "faro technologies, inc.",
+      "type": "strategic partner",
+      "domain": "Metrology devices"
+    }
+  ],
+  "https://adsknews.autodesk.com/en/news/esri-partnership-2023/": [
+    {
+      "name": "arcadis",
+      "type": "strategic partner",
+      "domain": "Metrology software"
+    },
+    {
+      "name": "esri",
+      "type": "strategic partner",
+      "domain": "Metrology software"
+    },
+    {
+      "name": "ohm advisors",
+      "type": "strategic partner",
+      "domain": "Metrology software"
+    }
+  ],
+  "https://www.autodesk.com/support/partners": [],
+  "https://investors.autodesk.com/news-releases/news-release-details/autodesk-adds-platinum-tier-and-enhances-channel-partner-program": [],
+  "https://www.autodesk.com/products/fusion-360/design-manufacturing-partners": [],
+  "https://investors.autodesk.com/news-releases/news-release-details/autodesk-and-aveva-form-strategic-alliance-provide-extended": [],
+  "https://www.reddit.com/r/Revit/comments/u8rt0d/autodesk_direct_purchase_vs_reseller/": [],
+  "https://www.imaginit.com/": [],
+  "https://www.autodesk.com/partners/overview": [],
+  "https://damassets.autodesk.net/content/dam/autodesk/www/Company/docs/pdf/2021/partner-code-of-conduct.pdf": [],
   "https://www.autodesk.com/products/fusion-360/hardware-partners": [],
   "https://intandem.autodesk.com/resource/eptura/": [
     {
@@ -7,9 +52,6 @@
       "domain": "Metrology software"
     }
   ],
-  "https://www.autodesk.com/": [],
-  "https://aps.autodesk.com/certified-partners": [],
-  "https://www.autodesk.com/partners/overview": [],
   "https://aps.autodesk.com/certified-partners-list": [],
   "https://www.esri.com/en-us/about/partners/our-partners/strategic-alliances/autodesk/overview": [
     {
@@ -18,41 +60,15 @@
       "domain": "Metrology software"
     }
   ],
-  "https://damassets.autodesk.net/content/dam/autodesk/www/Company/docs/pdf/2021/partner-code-of-conduct.pdf": [],
-  "https://investors.autodesk.com/news-releases/news-release-details/autodesk-adds-platinum-tier-and-enhances-channel-partner-program": [],
+  "https://investors.autodesk.com/news-releases/news-release-details/tata-consulting-engineers-ltd-and-autodesk-announce-strategic": [],
+  "https://www.autodesk.com/": [],
   "https://adsknews.autodesk.com/en/news/accelerate-manufacturing-workflows-iot-toolkit/": [
     {
       "name": "electric imp",
-      "type": "hardware partner",
-      "domain": "CAM"
-    }
-  ],
-  "https://investors.autodesk.com/news-releases/news-release-details/autodesk-and-aveva-form-strategic-alliance-provide-extended": [],
-  "https://www.autodesk.com/support/partners": [],
-  "https://investors.autodesk.com/news-releases/news-release-details/tata-consulting-engineers-ltd-and-autodesk-announce-strategic": [],
-  "https://www.imaginit.com/": [],
-  "https://investors.autodesk.com/news-releases/news-release-details/autodesk-and-tririga-announce-strategic-alliance-provide": [],
-  "https://www.reddit.com/r/Revit/comments/u8rt0d/autodesk_direct_purchase_vs_reseller/": [],
-  "https://aecpartners.autodesk.com/?lang=en": [],
-  "https://adsknews.autodesk.com/en/views/embracing-aeco/": [
-    {
-      "name": "eptura",
-      "type": "strategic partner",
-      "domain": "CAE"
-    },
-    {
-      "name": "esri",
       "type": "strategic partner",
       "domain": "Metrology software"
     }
   ],
-  "https://www.autodesk.com/products/fusion-360/design-manufacturing-partners": [],
-  "https://www.autodesk.com/partners/strategic-alliance-partners": [],
-  "https://adsknews.autodesk.com/en/news/esri-partnership-2023/": [
-    {
-      "name": "esri",
-      "type": "strategic partner",
-      "domain": "Metrology software"
-    }
-  ]
+  "https://aps.autodesk.com/certified-partners": [],
+  "https://investors.autodesk.com/news-releases/news-release-details/autodesk-and-tririga-announce-strategic-alliance-provide": []
 }

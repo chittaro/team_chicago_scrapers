@@ -34,6 +34,27 @@ def fetch_partnership_data(company_name):
     except Exception as e:
         logger.error(f"Unexpected error fetching partnership data for {company_name}: {e}")
         return []
+    
+def fetch_all_partnership_data():
+    """Fetches all partnership data (company names and their details) from the partnerships table."""
+    try:
+        # Query to fetch all data from the partnerships table
+        response = (
+            supabase_backend.table(PARTNERSHIPS_TABLE)
+            .select("*")  # Select all columns
+            .execute()
+        )
+
+        if response.data:
+            logger.info(f"Fetched {len(response.data)} partnerships.")
+            return response.data
+        else:
+            logger.warning("No partnership data found.")
+            return []
+
+    except Exception as e:
+        logger.error(f"Unexpected error fetching all partnership data: {e}")
+        return []
 
 def store_partnership_data(partnership_data):
     """Saves or updates partnership data entries."""

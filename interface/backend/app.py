@@ -8,7 +8,8 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '.
 from url_generator.search_url_gen import get_company_partnership_urls
 from name_finder.name_type_domain_finder import get_html, get_names, get_all_names, clear_html, pull_partner_data
 from interface.backend.db_operations import (
-    get_partnership_type_defs
+    get_partnership_type_defs,
+    fetch_all_partnership_data
 )
 # Import the settings blueprint using absolute-like path from project root
 from interface.backend.routes_settings import settings_bp
@@ -49,9 +50,13 @@ def process_data(company):
 
 @app.route('/api/get_partner_data/<company>/', methods=['GET'])
 def get_partner_data(company):
-    ''' Returns json dictionary of complete partnership data '''
+    ''' Returns json dictionary of partnership data for single company '''
     return jsonify(**pull_partner_data(company)), 201
 
+@app.route('/api/get_all_partner_data/', methods=['GET'])
+def get_all_partner_data():
+    ''' Returns json dictionary of partnership data for single company '''
+    return jsonify(success=True, data=fetch_all_partnership_data()), 201
 
 
 # -- TEST ROUTES -- #
@@ -97,6 +102,34 @@ def test_process_data(company):
 
 @app.route('/api/test/get_partner_data/<company>/', methods=['GET'])
 def test_get_partner_data(company):
+    time.sleep(1)
+    return jsonify({
+        "success": True,
+        "data": {
+            "datum360": {
+                "type": "strategic partner",
+                "domain": "CAE",
+                "urls": [
+                "https://aecpartners.autodesk.com/?lang=en"
+                ]
+            },
+            "eptura": {
+                "type": "strategic partner",
+                "domain": "Metrology software",
+                "urls": [
+                "https://adsknews.autodesk.com/en/views/embracing-aeco/",
+                "https://aecpartners.autodesk.com/?lang=en",
+                "https://intandem.autodesk.com/resource/eptura/",
+                "https://www.autodesk.com/partners/strategic-alliance-partners"
+                ]
+            },
+        }
+    }), 201
+
+
+@app.route('/api/test/get_all_partner_data/', methods=['GET'])
+def test_get_all_partner_data():
+    ''' Returns json dictionary of partnership data for single company '''
     time.sleep(1)
     return jsonify({
         "success": True,

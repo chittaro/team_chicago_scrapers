@@ -24,7 +24,6 @@ function CompanyPipeline({ companyName }) {
 
       setDataFetching(true);
       try {
-        console.log("fetching data")
         const response = await fetch(`${PREFIX}/get_partner_data/${companyName}`);
         const data = await response.json();
         if (data.success){

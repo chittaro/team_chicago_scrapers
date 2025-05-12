@@ -22,7 +22,7 @@ company_name = input("Enter the company name: ").strip()
 
 
 ######### GET URLS ##########
-print(f"\n\n********** Getting relevant URLS...")
+# print(f"\n\n********** Getting relevant URLS...")
 urls = get_company_partnership_urls(company_name)
 print(f"Found {len(urls)} URLs for {company_name} partnerships, first 10:")
 for idx, url in enumerate(urls[:10], start=1):
@@ -30,24 +30,25 @@ for idx, url in enumerate(urls[:10], start=1):
 
 
 ########## GET HTML TEXT ##########
-# print(f"\n\n********** Clearing prior html data for {company_name}...")
-# clear_html(company_name)
-# print(f"\n\n********** Fetching HTML pages...")
-# pages = get_html(company_name)
-# print(f"Got {pages} pages")
+print(f"\n\n********** Clearing prior html data for {company_name}...")
+clear_html(company_name)
+print(f"\n\n********** Fetching HTML pages...")
+pages = get_html(company_name)
+print(f"Got {pages} pages")
 
 
 # ########## OLD DEMO: GET COMPANY NAMES FROM ONE LINK ##########
-# # print(f"\n\n********** Getting {company_name} partner names...")
-# # ex_filename = 'name_finder/16838a97-f8f9-42b4-9502-6c9b89ed679a.txt'
-# # names = get_names(ex_filename)
-# # print(f"{company_name} partner names: {names}")
+# print(f"\n\n********** Getting {company_name} partner names...")
+# ex_filename = 'name_finder/16838a97-f8f9-42b4-9502-6c9b89ed679a.txt'
+# names = get_names(ex_filename)
+# print(f"{company_name} partner names: {names}")
 
 
 ########## GET PARTNER NAMES ##########
-# print(f"\n\n********** Getting {company_name} partner names and partnership types...")
-# names = get_all_names(company_name)
-# print(f"{company_name} partner names: {names}")
+print(f"\n\n********** Getting {company_name} partner names and partnership types...")
+names = get_all_names(company_name, {"strategic partner": "", "reseller": "",
+                                     "software partner": "", "hardware partner": "", "hpc partner": ""})
+print(f"{company_name} partner names: {names}")
 
 
 ########## GET PARTER INFO ##########

@@ -37,10 +37,11 @@ def process_data(company):
     partnership_types = get_partnership_type_defs()
     if partnership_types is None:
         return jsonify(success=False, data={})
-    
+
     clear_html(company)
     get_html(company)
     partnerships = get_all_names(company, partnership_types)
+    print(f"API response: {partnerships}")
     if not partnerships:
         return jsonify(success=False, data={})
 
@@ -51,7 +52,7 @@ def get_partner_data(company):
     ''' Returns json dictionary of complete partnership data '''
     return jsonify(**pull_partner_data(company)), 201
 
-    
+
 
 # -- TEST ROUTES -- #
 # used to avoid expending tokens during application testing
@@ -68,8 +69,8 @@ def test_get_competitor_urls(company):
     ), 201
 
 
-@app.route('/api/test/process_html/<company>/', methods=['GET'])
-def test_process_html(company):
+@app.route('/api/test/process_data/<company>/', methods=['GET'])
+def test_process_data(company):
     time.sleep(5)
     return jsonify({
         "success": True,

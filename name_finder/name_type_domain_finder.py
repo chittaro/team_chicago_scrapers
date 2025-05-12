@@ -21,7 +21,9 @@ sys.path.append(parent_dir)
 
 WORKING_DIR = os.path.abspath(os.path.dirname(__file__))
 DATA_DIR = os.path.abspath(os.path.join(WORKING_DIR, "..", "data"))
-from scraper_helper import fetch_page, fetch_page_selenium
+from scraper_helper import fetch_page , fetch_page_selenium
+
+enable_selenium = False
 
 env_path = os.path.join(parent_dir, ".env")
 load_dotenv(dotenv_path=env_path)
@@ -58,7 +60,7 @@ def get_html(company_name):
             text = soup.get_text(separator="\n", strip=True)
             write_text_to_file(company_name, url, text)
             return 1
-        else:
+        elif enable_selenium:
             print(f"Trying Selenium: {url}")
             html = fetch_page_selenium(url)
             if html:
@@ -69,7 +71,11 @@ def get_html(company_name):
             else:
                 print(f"FAILED Selenium: {url}")
                 write_text_to_file(company_name, url, "Failed to get page.")
-                return 0
+        else:
+            print(f"Failed to get page: {url}")
+            write_text_to_file(company_name, url, "Failed to get page.")
+            return 0
+
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
         results = list(executor.map(process, urls))
@@ -195,9 +201,8 @@ def get_all_names(company_name, partnership_types):
         json.dump(url_to_partners, f, indent=2)
     print(f"Saved URL-to-partner mapping to {json_path}")
 
-    merge_data(url_to_partners, company_dir, company_name)
-
-    return all_names
+    partnership_dict = merge_data(url_to_partners, company_dir, company_name)
+    return partnership_dict
 
 
 # def merge_data(url_to_partners, company_dir):
@@ -257,10 +262,10 @@ def merge_data(url_to_partners, company_dir, company_name):
         merged_partners.append({
             "company_name": company_name,
             "partnership_name": name,
+            "partnership_domain": info["domain_counter"].most_common(1)[0][0],
             "partnership_type": info["type_counter"].most_common(1)[0][0],
             "url_scraped_from": sorted(info["urls"])[0],  # or include all if needed
             "date_scraped": today,
-            "status": "Pending"
         })
 
     data_path = os.path.join(company_dir, "data.json")
@@ -268,6 +273,7 @@ def merge_data(url_to_partners, company_dir, company_name):
         json.dump(merged_partners, f, indent=2)
 
     print(f"Saved merged partner data to {data_path}")
+    return merged_partners
 
 
 
@@ -318,8 +324,8 @@ def pull_partner_data(company_name):
         return {"success": False}
     
     with open(data_dir, 'r') as f:
-        url_data = json.load(f)
+        partnership_data = json.load(f)
         return {
             "success": True,
-            "data": url_data
+            "data": partnership_data
         }

@@ -21,7 +21,8 @@ export function SettingsProvider({ children }) {
         throw new Error(errData.error || `HTTP error! status: ${response.status}`)
       }
       const data = await response.json()
-      setCategorySettings(data || []) // Ensure it's an array
+      // Ensure categorySettings is always an array
+      setCategorySettings(Array.isArray(data) ? data : []) // Use Array.isArray for robust check
     } catch (e) {
       console.error("Failed to fetch category settings:", e)
       setError(e.message)

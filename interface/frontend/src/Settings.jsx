@@ -124,7 +124,7 @@ function Settings() {
       setActionError('A category with this name already exists.')
     }
   }
-  
+
   const typesToDisplay = editMode
     ? categorySettings
     : categorySettings.filter(setting => setting.is_enabled)

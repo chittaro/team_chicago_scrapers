@@ -1,4 +1,6 @@
-# Use absolute-like path from project root
+import sys, os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
+
 from interface.backend.supabaseClient import supabase_backend
 from supabase import PostgrestAPIError
 import logging
@@ -11,120 +13,63 @@ PARTNERSHIPS_TABLE = 'partnerships'
 PARTNERSHIP_CATEGORIES_TABLE = 'partnership_categories'
 CATEGORY_SETTINGS_TABLE = 'category_settings'
 
-def add_or_update_partnership(partnership_data):
-    """
-    Adds a new partnership or updates an existing one if it matches
-    on the unique constraint (company_name and partnership_name).
-
-    Args:
-        partnership_data (dict): A dictionary containing partnership details.
-                                 Example corresponding to the schema:
-                                 {
-                                     'id': 'uuid_if_known_for_update', # Optional, auto-gen on insert
-                                     'company_name': 'ExampleCorp',    # Required
-                                     'partnership_name': 'Alpha Alliance', # Required
-                                     'partnership_type': 'Strategic',    # Optional
-                                     'url_scraped_from': 'https://example.com/alpha', # Optional
-                                     'date_scraped': 'timestamp_if_specific', # Optional, auto-gen on insert
-                                     'status': 'Pending'                 # Optional, defaults to 'Pending' on insert
-                                 }
-
-    Returns:
-        dict: The inserted or updated record, or None if an error occurred.
-    """
-    if not partnership_data.get('company_name') or not partnership_data.get('partnership_name'):
-        logger.error("company_name and partnership_name are required to add or update a partnership.")
-        return None
-
+def fetch_partnership_data(company_name):
+    """Fetches all partnership data for a specified company name."""
     try:
-        existing_response = (
-            supabase_backend.table(PARTNERSHIPS_TABLE)
-            .select("id, company_name, partnership_name") # Select enough to identify
-            .eq("company_name", partnership_data['company_name'])
-            .eq("partnership_name", partnership_data['partnership_name'])
-            .limit(1)
-            .execute()
-        )
-
-        if existing_response.data:
-            record_id = existing_response.data[0]['id']
-            
-            # Construct payload for update: exclude keys used for matching and typically immutable fields.
-            # id is the primary key, company_name & partnership_name are for matching.
-            # date_scraped is usually set at creation.
-            fields_to_exclude_from_update_payload = {'id', 'company_name', 'partnership_name', 'date_scraped'}
-            update_payload = {
-                key: value for key, value in partnership_data.items()
-                if key not in fields_to_exclude_from_update_payload and value is not None # only update provided fields
-            }
-
-            if not update_payload: 
-                logger.info(f"Partnership for {partnership_data['company_name']} - {partnership_data['partnership_name']} (ID: {record_id}) already exists and no new mutable data provided to update.")
-                return existing_response.data[0]
-            
-            logger.info(f"Updating existing partnership ID: {record_id} with payload: {update_payload}")
-            response = (
-                supabase_backend.table(PARTNERSHIPS_TABLE)
-                .update(update_payload)
-                .eq("id", record_id)
-                .execute()
-            )
-        else:
-            # Insert new record. `id` and `date_scraped` will use DB defaults if not in partnership_data.
-            # `status` will use DB default if not in partnership_data.
-            logger.info(f"Inserting new partnership for {partnership_data['company_name']} - {partnership_data['partnership_name']}")
-            
-            # Prepare insert data: ensure no explicit None for fields with DB defaults unless intended
-            insert_payload = {k: v for k, v in partnership_data.items() if v is not None}
-            # Remove 'id' if it's None and you want DB to generate it, though Supabase handles this well.
-            if 'id' in insert_payload and insert_payload['id'] is None:
-                del insert_payload['id']
-                
-            response = (
-                supabase_backend.table(PARTNERSHIPS_TABLE)
-                .insert(insert_payload) 
-                .execute()
-            )
-
-        if response.data:
-            logger.info(f"Successfully processed partnership: {response.data[0]}")
-            return response.data[0]
-        else:
-            # Attempt to get more details from the response if it's an error object
-            error_message = "Unknown error"
-            if hasattr(response, 'error') and response.error:
-                error_message = response.error.message if hasattr(response.error, 'message') else str(response.error)
-            elif hasattr(response, 'message'): # For some error structures
-                 error_message = response.message
-            logger.error(f"Failed to add or update partnership. Supabase response: {error_message}. Full response object: {response}")
-            return None
-            
-    except PostgrestAPIError as e:
-        logger.error(f"Supabase API Error during partnership upsert for {partnership_data.get('company_name')}/{partnership_data.get('partnership_name')}: {e.message}")
-        logger.error(f"Details: {e.details}, Code: {e.code}, Hint: {e.hint}")
-        return None
-    except Exception as e:
-        logger.error(f"An unexpected error occurred during partnership upsert for {partnership_data.get('company_name')}/{partnership_data.get('partnership_name')}: {e}")
-        return None
-
-def get_partnership_by_partnership_name(partnership_name):
-    """
-    Retrieves a partnership by its partnership name.
-    """
-    try:
+        # Query to fetch all partnership data for the given company
         response = (
             supabase_backend.table(PARTNERSHIPS_TABLE)
             .select("*")
-            .eq("partnership_name", partnership_name)
-            .limit(1)
+            .eq("company_name", company_name)
             .execute()
         )
+
         if response.data:
-            return response.data[0]
-        return None
+            logger.info(f"Fetched {len(response.data)} partnerships for {company_name}.")
+            return response.data
+        else:
+            logger.warning(f"No partnerships found for {company_name}.")
+            return []
+
     except Exception as e:
-        logger.error(f"Error fetching partnership by partnership name {partnership_name}: {e}")
+        logger.error(f"Unexpected error fetching partnership data for {company_name}: {e}")
+        return []
+
+def store_partnership_data(partnership_data):
+    """Saves or updates partnership data entries."""
+    if len(partnership_data) == 0:
+        logger.error("No data to save.")
         return None
+
+    company_name = partnership_data[0]["company_name"]
+
+    try:
+        # 1. Delete existing partnerships for the company
+        delete_response = (
+            supabase_backend.table(PARTNERSHIPS_TABLE)
+            .delete()
+            .eq("company_name", company_name)
+            .execute()
+        )
+        logger.info(f"Deleted existing partnerships for {company_name}. Response: {delete_response}")
+
+        # 2. Insert new partnership data
+        insert_response = (
+            supabase_backend.table(PARTNERSHIPS_TABLE)
+            .insert(partnership_data)
+            .execute()
+        )
+        if not insert_response.data:
+            logger.error(f"Failed to save partnership data for {company_name}. Response: {insert_response}")
+            return None
+        
+        logger.info(f"Saved partnership data for {company_name}.")
+        return insert_response.data
+
+    except Exception as e:
+        logger.error(f"Unexpected error saving partnership data for {company_name}: {e}")
+        return None
+
 
 # --- NEW Functions for Settings Page (partnership_categories & category_settings tables) ---
 

@@ -15,13 +15,13 @@ from collections import defaultdict, Counter
 from datetime import datetime
 
 
-
 parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.append(parent_dir)
 
 WORKING_DIR = os.path.abspath(os.path.dirname(__file__))
 DATA_DIR = os.path.abspath(os.path.join(WORKING_DIR, "..", "data"))
 from scraper_helper import fetch_page , fetch_page_selenium
+from interface.backend.db_operations import fetch_partnership_data, store_partnership_data
 
 enable_selenium = False
 
@@ -32,7 +32,6 @@ if not api_key:
     raise ValueError("Add your OpenAI key to your .env file.")
 
 client = openai.OpenAI(api_key=api_key)
-
 
 
 def write_text_to_file(company_name, url, text):
@@ -158,8 +157,6 @@ def get_names(company_name, filename, partnership_types):
     return all_partners
 
 
-
-
 def get_all_names(company_name, partnership_types):
     company_name = company_name.lower()
     company_dir = os.path.join("data", company_name)
@@ -202,6 +199,10 @@ def get_all_names(company_name, partnership_types):
     print(f"Saved URL-to-partner mapping to {json_path}")
 
     partnership_dict = merge_data(url_to_partners, company_dir, company_name)
+
+    # Save to database
+    store_partnership_data(partnership_dict)
+
     return partnership_dict
 
 
@@ -315,17 +316,22 @@ def check_data_exists(company_name):
     return True
 
 def pull_partner_data(company_name):
-    # call if  data.json already populated
-    company_name = company_name.lower()
-    data_dir = os.path.join(DATA_DIR, company_name, "data.json")
-
-    if not os.path.exists(data_dir):
-        print("path dont even exist")
+    partnership_data = fetch_partnership_data(company_name)
+    if partnership_data:
+        return {"success": True, "data": partnership_data}
+    else:
         return {"success": False}
+
+    # company_name = company_name.lower()
+    # data_dir = os.path.join(DATA_DIR, company_name, "data.json")
+
+    # if not os.path.exists(data_dir):
+    #     print("path dont even exist")
+    #     return {"success": False}
     
-    with open(data_dir, 'r') as f:
-        partnership_data = json.load(f)
-        return {
-            "success": True,
-            "data": partnership_data
-        }
+    # with open(data_dir, 'r') as f:
+    #     partnership_data = json.load(f)
+    #     return {
+    #         "success": True,
+    #         "data": partnership_data
+    #     }

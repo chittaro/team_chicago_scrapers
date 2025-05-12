@@ -1,7 +1,7 @@
 from flask import Blueprint, jsonify, request
 # Use absolute-like path from project root
 from interface.backend.db_operations import (
-    get_all_category_settings,
+    get_partnership_type_defs,
     add_new_category,
     update_category_setting,
     delete_category_by_id
@@ -16,8 +16,8 @@ settings_bp = Blueprint('settings_bp', __name__, url_prefix='/api/settings')
 @settings_bp.route('', methods=['GET'])
 def handle_get_all_settings():
     """API endpoint to fetch all category settings."""
-    settings = get_all_category_settings()
-    if settings is not None: # get_all_category_settings returns [] on no data or error
+    settings = get_partnership_type_defs()
+    if settings is not None: # get_partnership_type_defs returns [] on no data or error
         return jsonify(settings), 200
     return jsonify({"error": "Failed to retrieve settings"}), 500
 
@@ -42,7 +42,7 @@ def handle_add_category():
         # We need a way to differentiate this from other errors if db_operations doesn't explicitly.
         # For now, assume any None return after a name was provided might be due to this or other DB error.
         # A more robust solution would have add_new_category return a specific error code/message.
-        existing_categories = get_all_category_settings()
+        existing_categories = get_partnership_type_defs()
         if any(cat['name'] == name for cat in existing_categories):
              return jsonify({"error": f"Category '{name}' already exists."}), 409 # Conflict
 

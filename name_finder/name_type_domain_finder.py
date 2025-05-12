@@ -90,7 +90,7 @@ def chunk_text(text, max_length=6000, overlap=500):
         print(f"WARNING: text too long, {len(chunks)} chunks truncated to 5.")
     return chunks[:5]  # limiting this to 5 chunks lmao @bella
 
-def get_names(company_name, filename):
+def get_names(company_name, filename, partnership_types):
     with open(filename, "r", encoding="utf-8") as f:
         content = f.read()
     parts = content.split("\n\n", 1)
@@ -101,6 +101,9 @@ def get_names(company_name, filename):
     print(f"\nProcessing text of {url}, text length {len(visible_text)}")
     chunks = chunk_text(visible_text, max_length=6000, overlap=500)
     all_partners = {}
+    
+    partnership_definitions_str = ', '.join([f"{name} defined as {definition}" if definition else name
+                                              for name, definition in partnership_types.items()])
     for idx, chunk in enumerate(chunks):
         print(f"Processing chunk {idx+1}/{len(chunks)}")
         prompt = (
@@ -109,8 +112,8 @@ def get_names(company_name, filename):
             f"partners, collaborators, or customers of {company_name}. Focus on CAE, CAM, and metrology partnerships. \n\n"
             "If no such partnerships are mentioned, return NOTHING, an empty string. Do NOT make up names or "
             f"guess based on irrelevant information.\n\n"
-            "Only for each valid company found, briefly describe the type of partnership in 1 to 4 words, such as "
-            "'strategic partner', 'software partner', 'hardware partner', 'hpc partner', or 'reseller'.\n\n"
+            f"Only for each valid company found, categorize the partnership into 1 of {len(partnership_types)} categories: "
+            f"{partnership_definitions_str}\n\n"
             "For each partner, also classify the partner company into one of these four domains: "
             "'CAE', 'CAM', 'Metrology devices', or 'Metrology software'. Choose the single most relevant domain.\n\n"
             "Return the results in the exact format:\n"
@@ -151,7 +154,7 @@ def get_names(company_name, filename):
 
 
 
-def get_all_names(company_name):
+def get_all_names(company_name, partnership_types):
     company_name = company_name.lower()
     company_dir = os.path.join("data", company_name)
     if not os.path.exists(company_dir):
@@ -167,7 +170,7 @@ def get_all_names(company_name):
                 content = f.read()
             parts = content.split("\n\n", 1)
             url = parts[0] if parts else f"unknown:{filename}"
-            name_to_info = get_names(company_name, filepath)
+            name_to_info = get_names(company_name, filepath, partnership_types)
             url_to_partners[url] = [
                 {
                     "name": name,

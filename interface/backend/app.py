@@ -7,7 +7,9 @@ import sys, os, time
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 from url_generator.search_url_gen import get_company_partnership_urls
 from name_finder.name_type_domain_finder import get_html, get_names, get_all_names, clear_html, pull_partner_data
-
+from interface.backend.db_operations import (
+    get_partnership_type_defs
+)
 # Import the settings blueprint using absolute-like path from project root
 from interface.backend.routes_settings import settings_bp
 
@@ -28,33 +30,28 @@ def get_competitor_urls(company):
     urls = get_company_partnership_urls(company)
     return jsonify({"urls": urls})
 
-@app.route('/api/process_html/<company>/', methods=['GET'])
-def process_html(company):
-    ''' Deletes and updates HTML with most recent urls.txt file
+@app.route('/api/process_data/<company>/', methods=['GET'])
+def process_data(company):
+    ''' Deletes and updates HTML with most recent urls.txt file, queries LLM for classification
         Returns json dictionary of complete partnership data '''
+    partnership_types = get_partnership_type_defs()
+    if partnership_types is None:
+        return jsonify(success=False, data={})
+    
     clear_html(company)
     get_html(company)
-    partnerships = get_all_names
-    if len(partnerships) == 0:
-        data = {
-            "success": False,
-            "data": {}
-        }
+    partnerships = get_all_names(company, partnership_types)
+    if not partnerships:
+        return jsonify(success=False, data={})
 
-    else: 
-        data = {
-            "success": True,
-            "data": partnerships
-        }
-
-    return jsonify(**data)
+    return jsonify(success=True, data=partnerships)
 
 @app.route('/api/get_partner_data/<company>/', methods=['GET'])
 def get_partner_data(company):
     ''' Returns json dictionary of complete partnership data '''
     return jsonify(**pull_partner_data(company)), 201
 
-
+    
 
 # -- TEST ROUTES -- #
 # used to avoid expending tokens during application testing

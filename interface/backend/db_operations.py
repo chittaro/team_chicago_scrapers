@@ -128,7 +128,7 @@ def get_partnership_by_partnership_name(partnership_name):
 
 # --- NEW Functions for Settings Page (partnership_categories & category_settings tables) ---
 
-def get_all_category_settings():
+def get_partnership_type_defs():
     """Fetches all partnership categories and their associated settings."""
     try:
         response = (
@@ -138,17 +138,15 @@ def get_all_category_settings():
         )
         if response.data:
             # Transform data to match frontend expectations (name, definition, is_enabled, id for category)
-            transformed_data = []
+            partnership_types = {}
             for category in response.data:
                 setting = category.get('category_settings')[0] if category.get('category_settings') else {}
-                transformed_data.append({
-                    'id': category['id'], # This is partnership_categories.id
-                    'name': category['name'],
-                    'definition': setting.get('definition', ''),
-                    'is_enabled': setting.get('is_enabled', True),
-                    'setting_id': setting.get('id') # This is category_settings.id, useful for updates
-                })
-            return transformed_data
+                if setting.get('is_enabled', True):
+                    name = category['name']
+                    definition = setting.get('definition', '')
+                    partnership_types[name] = definition
+
+            return partnership_types
         logger.info("No category settings found or empty response.")
         return []
     except PostgrestAPIError as e:
@@ -157,6 +155,7 @@ def get_all_category_settings():
     except Exception as e:
         logger.error(f"Unexpected error fetching category settings: {e}")
         return []
+
 
 def add_new_category(name, definition="", is_enabled=True):
     """Adds a new partnership category and its initial setting."""

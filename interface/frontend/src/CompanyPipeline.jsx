@@ -9,7 +9,7 @@ function CompanyPipeline({ companyName }) {
   const [isDataProcessing, setDataProcessing] = useState(false);
   const [isDataFetching, setDataFetching] = useState(false);
 
-  const PREFIX = "http://127.0.0.1:5000/api/test";
+  const PREFIX = "http://127.0.0.1:5000/api";
 
   const resetStates = () => {
     setPartnerships(null)
@@ -52,7 +52,7 @@ function CompanyPipeline({ companyName }) {
 
   const handleProcessData = async () => {
     setDataProcessing(true);
-    const response = await fetch(`${PREFIX}/process_html/${companyName}`);
+    const response = await fetch(`${PREFIX}/process_data/${companyName}`);
     const data = await response.json();
     if (data.success) setPartnerships(data.data);
     else setError("Failed to process data.");
